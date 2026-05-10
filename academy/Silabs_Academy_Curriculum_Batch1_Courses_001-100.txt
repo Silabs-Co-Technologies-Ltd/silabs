@@ -1,0 +1,2697 @@
+==============================================================================
+  SILABS ACADEMY — DETAILED CURRICULUM
+  Courses #001 to #100 | Batch 1 of 5
+  Prepared by: Abel Priscilla, Director of Technology & Innovations
+  Silabs and Co Technologies Ltd | April 2026
+==============================================================================
+
+TRACKS COVERED IN THIS BATCH:
+  Track A — How the Web Works       Courses #001 – #025  (25 courses)
+  Track B — Programming Foundations Courses #026 – #100  (75 courses)
+
+CURRICULUM FIELDS:
+  Overview     · What this course is about
+  Outcome      · What you can do after completing it
+  Concepts     · Core knowledge and skills covered
+  Project      · The hands-on deliverable you will build
+  Duration     · Estimated completion time
+  Level        · Foundation / Beginner / Intermediate / Advanced
+
+==============================================================================
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: HOW THE WEB WORKS  (25 Courses)                                    ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #001  ·  How the Internet Actually Works                           │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn what really happens when you open a browser and type a URL
+
+  LEARNING OUTCOME
+    You will be able to explain the full journey of a web request from your
+    device to a server and back, and trace errors in that journey
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Internet infrastructure
+    2. ISPs
+    3. DNS resolution
+    4. IP addresses
+    5. data packets
+
+  CAPSTONE PROJECT
+    Build a diagram of a full web request and explain every step to someone
+    else
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #002  ·  What a Web Browser Really Does                            │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the engine behind Chrome, Firefox, and Edge — and why websites
+    look different across them
+
+  LEARNING OUTCOME
+    You will understand how a browser parses and renders HTML CSS and
+    JavaScript and why the same code can look different in different browsers
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Browser engine
+    2. rendering pipeline
+    3. DOM construction
+    4. layout and paint
+    5. JavaScript execution
+
+  CAPSTONE PROJECT
+    Inspect a real website using browser dev tools and explain what the
+    browser is doing at each stage
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #003  ·  HTML: The Skeleton of Every Website                       │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn what HTML is how the browser reads it and how to write it from
+    scratch
+
+  LEARNING OUTCOME
+    You will build a complete multi-page website using only HTML with
+    headings paragraphs links images forms and tables
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. HTML structure
+    2. tags and attributes
+    3. semantic HTML
+    4. forms
+    5. tables
+    6. links and images
+
+  CAPSTONE PROJECT
+    Build a 5-page personal profile website with a contact form using only
+    HTML
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #004  ·  CSS: Making Websites Beautiful From Zero                  │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand how CSS talks to HTML and how to use it to style anything on a
+    page
+
+  LEARNING OUTCOME
+    You will be able to style any HTML element change colours fonts sizes
+    spacing layout and make a page look professional
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Selectors and properties
+    2. box model
+    3. colours and fonts
+    4. spacing
+    5. borders
+    6. display and positioning
+
+  CAPSTONE PROJECT
+    Style your HTML personal website completely using CSS so it looks like a
+    real product
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #005  ·  CSS Flexbox: Mastering Modern Layouts                     │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the Flexbox system that replaced floats and hacks for building
+    responsive layouts
+
+  LEARNING OUTCOME
+    You will be able to create any horizontal or vertical layout arrangement
+    using Flexbox without struggling with positioning
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Flex container and flex items
+    2. main axis vs cross axis
+    3. justify-content
+    4. align-items
+    5. flex-wrap
+    6. gap
+
+  CAPSTONE PROJECT
+    Build a product card grid layout and a navigation bar using only Flexbox
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #006  ·  CSS Grid: Building Two-Dimensional Layouts                │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Grid layout to build complex page structures that Flexbox cannot
+    handle alone
+
+  LEARNING OUTCOME
+    You will be able to design full page layouts with rows and columns that
+    adapt to any screen size
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Grid container and items
+    2. grid-template-columns and rows
+    3. grid areas
+    4. auto-fill and auto-fit
+    5. gap
+
+  CAPSTONE PROJECT
+    Build a full magazine-style page layout with header sidebar main and
+    footer using CSS Grid
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #007  ·  Responsive Web Design: Every Screen Every Size            │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to make any website look good on mobile tablet and desktop
+
+  LEARNING OUTCOME
+    You will be able to write CSS that automatically adapts to any screen
+    size using media queries and relative units
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Viewport meta tag
+    2. media queries
+    3. rem and em units
+    4. responsive images
+    5. mobile-first design
+
+  CAPSTONE PROJECT
+    Convert a desktop-only website into a fully responsive website that works
+    on all screen sizes
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #008  ·  JavaScript Basics: Making Web Pages Think                 │
+│  ● BEGINNER   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand what JavaScript is how the browser runs it and how to write
+    your first programs
+
+  LEARNING OUTCOME
+    You will be able to write JavaScript that manipulates a web page responds
+    to user actions and performs calculations
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Variables and data types
+    2. operators
+    3. if statements
+    4. loops
+    5. functions
+    6. browser console
+
+  CAPSTONE PROJECT
+    Build an interactive quiz app that asks questions checks answers and
+    shows a score
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #009  ·  The DOM: How JavaScript Controls HTML                     │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how JavaScript reaches into a web page and changes it dynamically
+    without reloading
+
+  LEARNING OUTCOME
+    You will be able to select any HTML element from JavaScript and change
+    its content style or behaviour in real time
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Document object model
+    2. querySelector
+    3. innerHTML
+    4. style manipulation
+    5. event listeners
+    6. createElement
+
+  CAPSTONE PROJECT
+    Build a live to-do list where tasks are added and removed from the page
+    without refreshing
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #010  ·  HTML Forms: Collecting User Input                         │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how forms work in HTML how data is structured and how to handle
+    what users type or select
+
+  LEARNING OUTCOME
+    You will be able to build any type of form including registration login
+    search and surveys with proper validation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Input types
+    2. labels
+    3. required fields
+    4. select dropdowns
+    5. checkboxes
+    6. radio buttons
+    7. form submission
+
+  CAPSTONE PROJECT
+    Build a complete registration form for a student portal with client-side
+    validation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #011  ·  How Hosting Works: Getting Your Website Online            │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand what web hosting is how servers store your files and how a
+    domain name connects to them
+
+  LEARNING OUTCOME
+    You will be able to purchase hosting upload a website via cPanel and
+    connect a domain name so anyone in the world can visit your site
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Web servers
+    2. cPanel
+    3. file manager
+    4. FTP
+    5. domain name and DNS settings
+    6. A records
+
+  CAPSTONE PROJECT
+    Deploy a real HTML CSS website to cPanel hosting with a custom domain
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #012  ·  HTTP and HTTPS: How Data Travels Safely                   │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the protocol that every website uses to send and receive data
+    and why HTTPS matters
+
+  LEARNING OUTCOME
+    You will be able to explain every HTTP method read HTTP status codes and
+    understand why SSL certificates make websites safe
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. HTTP methods GET POST PUT DELETE
+    2. status codes 200 301 404 500
+    3. headers
+    4. HTTPS and SSL certificates
+
+  CAPSTONE PROJECT
+    Use browser DevTools Network tab to inspect real HTTP requests on any
+    website
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #013  ·  APIs Explained: How Apps Talk to Each Other               │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand what an API is how it works and why every modern application
+    depends on them
+
+  LEARNING OUTCOME
+    You will be able to call any public API using JavaScript fetch a response
+    and display the data on a web page
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What an API is
+    2. REST API concepts
+    3. endpoints and routes
+    4. JSON format
+    5. fetch() in JavaScript
+    6. API keys
+
+  CAPSTONE PROJECT
+    Build a weather app that calls a real weather API and displays live
+    temperature and conditions
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #014  ·  JSON: The Language of the Internet                        │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Master JSON the data format that powers every API database and
+    configuration file in modern software
+
+  LEARNING OUTCOME
+    You will be able to read write parse and create JSON data structures and
+    use them in real projects
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. JSON syntax
+    2. objects and arrays
+    3. nested data
+    4. JSON.parse and JSON.stringify
+    5. reading API responses
+
+  CAPSTONE PROJECT
+    Parse a real API response in JSON and display specific data fields on a
+    web page
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #015  ·  How Databases Talk to Websites                            │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the connection between a website a web server and a database
+    and why all three are needed
+
+  LEARNING OUTCOME
+    You will be able to explain the full 3-tier architecture of a web
+    application and trace data from database to screen
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Client server database architecture
+    2. what SQL is
+    3. how PHP or Node connects to MySQL
+    4. query flow
+
+  CAPSTONE PROJECT
+    Diagram the full data flow of a login system from form submission to
+    database and back
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #016  ·  Web Storage: Cookies Sessions and LocalStorage            │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand how websites remember you between visits and between pages
+
+  LEARNING OUTCOME
+    You will be able to use localStorage sessionStorage and cookies to store
+    and retrieve data in any web application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Cookies vs sessions vs localStorage
+    2. setting and reading values
+    3. expiry
+    4. security considerations
+
+  CAPSTONE PROJECT
+    Build a shopping cart that remembers items after the browser closes using
+    localStorage
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #017  ·  How Search Engines Find Your Website                      │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how Google and other search engines crawl index and rank websites
+
+  LEARNING OUTCOME
+    You will be able to write SEO-friendly HTML add meta tags create a
+    sitemap and improve any website's search ranking
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Crawlers and indexing
+    2. meta title and description
+    3. semantic HTML
+    4. alt text
+    5. sitemap.xml
+    6. robots.txt
+
+  CAPSTONE PROJECT
+    Optimise a real website for search engines and submit its sitemap to
+    Google Search Console
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #018  ·  Bootstrap 5: Professional UI Without Custom CSS           │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the world's most popular CSS framework and how it generates
+    professional interfaces instantly
+
+  LEARNING OUTCOME
+    You will be able to build any page layout with Bootstrap 5 components
+    without writing significant custom CSS
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Bootstrap grid system
+    2. components library
+    3. utility classes
+    4. responsive breakpoints
+    5. customisation
+
+  CAPSTONE PROJECT
+    Build a complete business landing page with navbar hero cards and footer
+    using Bootstrap 5
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #019  ·  How Web Security Works: Protecting Your Site              │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the most common web attacks and how to prevent them in any web
+    application
+
+  LEARNING OUTCOME
+    You will be able to identify and fix SQL injection XSS CSRF and insecure
+    authentication vulnerabilities in web code
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SQL injection
+    2. Cross-Site Scripting XSS
+    3. CSRF tokens
+    4. password hashing
+    5. HTTPS enforcement
+    6. input validation
+
+  CAPSTONE PROJECT
+    Audit a sample web application for security vulnerabilities and fix each
+    one
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #020  ·  Web Performance: Why Slow Websites Lose Money             │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn why websites are slow and how to make them fast using proven
+    techniques
+
+  LEARNING OUTCOME
+    You will be able to measure a website's performance score and apply
+    optimisations that improve load time by at least 50%
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. PageSpeed score
+    2. image optimisation
+    3. minification
+    4. lazy loading
+    5. browser caching
+    6. CDNs
+
+  CAPSTONE PROJECT
+    Optimise a slow sample website from a 40/100 score to above 85/100 on
+    Google PageSpeed
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #021  ·  Version Control With Git: Never Lose Your Work Again      │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Git the tool every developer in the world uses to track code
+    changes and collaborate
+
+  LEARNING OUTCOME
+    You will be able to initialise a Git repo make commits create branches
+    merge code and push to GitHub
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Git init commit push pull branch merge
+    2. conflict resolution
+    3. .gitignore
+    4. GitHub
+
+  CAPSTONE PROJECT
+    Version-control a real web project with meaningful commits and push it to
+    a public GitHub repository
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #022  ·  GitHub: Showcasing Your Work to Employers                 │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use GitHub to host your code build a portfolio and
+    collaborate with other developers
+
+  LEARNING OUTCOME
+    You will have a complete GitHub profile with at least 3 pinned
+    repositories that demonstrate your skills to employers
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. GitHub profile
+    2. README files
+    3. repository setup
+    4. GitHub Pages for free hosting
+    5. forking and pull requests
+
+  CAPSTONE PROJECT
+    Build a professional GitHub profile and deploy a portfolio website for
+    free using GitHub Pages
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #023  ·  Command Line: Controlling Your Computer Like a Developer  │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn to use the terminal the tool that gives you full control over any
+    computer or server
+
+  LEARNING OUTCOME
+    You will be able to navigate files create directories run scripts and
+    manage a server entirely from the command line
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. File navigation
+    2. creating and deleting files
+    3. permissions
+    4. running scripts
+    5. SSH into a server
+
+  CAPSTONE PROJECT
+    Complete 20 practical terminal tasks including connecting to a remote
+    server via SSH
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #024  ·  How a Web Server Works: Apache and Nginx Explained        │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand what a web server software does how it serves files and how to
+    configure it
+
+  LEARNING OUTCOME
+    You will be able to set up configure and troubleshoot an Apache or Nginx
+    web server on any Linux machine
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Apache vs Nginx
+    2. virtual hosts
+    3. server blocks
+    4. serving static files
+    5. SSL certificate installation
+    6. .htaccess
+
+  CAPSTONE PROJECT
+    Configure a virtual host on Apache that serves a website at a custom
+    domain on a local machine
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #025  ·  cPanel Mastery: Managing Websites Like a Pro              │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn every feature of cPanel the control panel used by most Nigerian web
+    hosts
+
+  LEARNING OUTCOME
+    You will be able to manage files databases email accounts domains and SSL
+    certificates for any website using cPanel
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. File manager
+    2. MySQL database creation
+    3. phpMyAdmin
+    4. email setup
+    5. subdomain creation
+    6. SSL/TLS
+
+  CAPSTONE PROJECT
+    Deploy a complete PHP website with its own database on a real cPanel
+    hosting account
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: PROGRAMMING FOUNDATIONS  (75 Courses)                              ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #026  ·  Python From Absolute Zero: Your First Real Language       │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Python the world's most versatile language starting from the very
+    first line of code
+
+  LEARNING OUTCOME
+    You will be able to write Python programs that accept input perform
+    calculations make decisions and display results
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Installing Python
+    2. print and input
+    3. variables
+    4. data types
+    5. arithmetic
+    6. f-strings
+
+  CAPSTONE PROJECT
+    Write a Python program that calculates a student's GPA from their scores
+    and prints a result
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #027  ·  Python Control Flow: Making Programs That Decide          │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Master if statements loops and logic in Python so your programs can
+    handle any situation
+
+  LEARNING OUTCOME
+    You will be able to write Python programs that make complex decisions
+    using conditions and repeat actions using loops
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. if elif else
+    2. comparison operators
+    3. logical operators
+    4. while loops
+    5. for loops
+    6. break and continue
+
+  CAPSTONE PROJECT
+    Build a number guessing game and a simple grade calculator using control
+    flow
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #028  ·  Python Functions: Writing Code You Can Reuse              │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to organise Python code into functions that do one job
+    perfectly and can be used anywhere
+
+  LEARNING OUTCOME
+    You will be able to break any program into reusable functions with
+    parameters return values and clear names
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Defining functions
+    2. parameters and arguments
+    3. return values
+    4. default arguments
+    5. scope
+    6. docstrings
+
+  CAPSTONE PROJECT
+    Refactor a messy 100-line Python script into clean functions and document
+    each one
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #029  ·  Python Lists and Dictionaries: Organising Real Data       │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Master Python's most important data structures to store and manipulate
+    collections of information
+
+  LEARNING OUTCOME
+    You will be able to use lists and dictionaries to store search sort
+    filter and transform any collection of data
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Lists
+    2. indexing and slicing
+    3. list methods
+    4. dictionaries
+    5. key-value pairs
+    6. nested structures
+    7. iteration
+
+  CAPSTONE PROJECT
+    Build a student record system that stores names scores and calculates
+    class statistics using lists and dictionaries
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #030  ·  Python File Handling: Reading and Writing Real Files      │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to make Python programs read write and process actual files on
+    your computer
+
+  LEARNING OUTCOME
+    You will be able to open read write and process text files CSV files and
+    JSON files from any Python script
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. open() and close()
+    2. read and write modes
+    3. CSV module
+    4. JSON module
+    5. error handling with try-except
+
+  CAPSTONE PROJECT
+    Build a Python script that reads a CSV of student marks and writes a
+    report to a new file
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #031  ·  Python OOP: Building Programs That Model the Real World   │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand Object-Oriented Programming in Python by building real things
+    you can touch and understand
+
+  LEARNING OUTCOME
+    You will be able to design classes with attributes and methods create
+    objects and understand inheritance with real examples
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Classes and objects
+    2. __init__ method
+    3. instance attributes
+    4. methods
+    5. inheritance
+    6. polymorphism
+
+  CAPSTONE PROJECT
+    Build a School Management system using classes for Student Teacher and
+    Subject
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #032  ·  Python Error Handling: Writing Code That Never Crashes    │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to catch and handle errors so your Python programs behave
+    correctly in any situation
+
+  LEARNING OUTCOME
+    You will be able to write Python code that handles any error gracefully
+    shows useful messages and never crashes unexpectedly
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. try except finally
+    2. specific exception types
+    3. raising exceptions
+    4. logging errors
+    5. defensive programming
+
+  CAPSTONE PROJECT
+    Add proper error handling to an existing Python project so it handles all
+    bad inputs gracefully
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #033  ·  Python Modules and Packages: Using the World's Code       │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use Python's massive library of built-in and external
+    modules to solve problems faster
+
+  LEARNING OUTCOME
+    You will be able to install and use any Python package from PyPI and
+    organise your own code into reusable modules
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. import statement
+    2. built-in modules
+    3. pip install
+    4. virtual environments
+    5. creating your own module
+
+  CAPSTONE PROJECT
+    Build a utility library module and use it across multiple Python scripts
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #034  ·  SQL From Zero: Talking to Databases                       │
+│  ● BEGINNER   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn SQL the language that every database in the world understands and
+    that every developer must know
+
+  LEARNING OUTCOME
+    You will be able to create tables insert data query it sort it filter it
+    and join multiple tables together
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. CREATE TABLE
+    2. INSERT INTO
+    3. SELECT
+    4. WHERE
+    5. ORDER BY
+    6. GROUP BY
+    7. JOIN types
+
+  CAPSTONE PROJECT
+    Build and query a student database with tables for students courses and
+    enrolments
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #035  ·  MySQL: Setting Up and Running a Real Database             │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn MySQL the most widely used database system in Nigerian web
+    development
+
+  LEARNING OUTCOME
+    You will be able to install MySQL create databases manage users run
+    queries and connect to it from code
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. MySQL installation
+    2. MySQL Workbench
+    3. creating databases and tables
+    4. users and permissions
+    5. backup and restore
+
+  CAPSTONE PROJECT
+    Set up a MySQL database server and populate it with real data using both
+    the GUI and command line
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #036  ·  PHP From Zero: Building Dynamic Websites                  │
+│  ● BEGINNER   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn PHP the server-side language that powers 78% of all websites
+    including Facebook and WordPress
+
+  LEARNING OUTCOME
+    You will be able to write PHP scripts that process form data interact
+    with a database and generate dynamic HTML pages
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. PHP syntax
+    2. variables
+    3. control flow
+    4. functions
+    5. superglobals $_POST $_GET $_SESSION
+    6. include and require
+
+  CAPSTONE PROJECT
+    Build a dynamic webpage that accepts form input stores it in a database
+    and displays results
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #037  ·  PHP and MySQL: Building Real Web Applications             │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how PHP and MySQL work together to create fully functional
+    data-driven web applications
+
+  LEARNING OUTCOME
+    You will be able to build a complete web application with user
+    registration login a dashboard and data management
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. MySQLi connection
+    2. prepared statements
+    3. CRUD operations
+    4. session management
+    5. password hashing
+
+  CAPSTONE PROJECT
+    Build a complete student portal with registration login profile
+    management and grade display
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #038  ·  JavaScript ES6+: Modern JavaScript Every Developer Uses   │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the modern features of JavaScript introduced from ES6 onwards that
+    are now standard in all projects
+
+  LEARNING OUTCOME
+    You will be able to write clean modern JavaScript using arrow functions
+    template literals destructuring and async/await
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Arrow functions
+    2. template literals
+    3. destructuring
+    4. spread operator
+    5. modules
+    6. Promises
+    7. async/await
+    8. fetch API
+
+  CAPSTONE PROJECT
+    Rewrite a legacy JavaScript application using ES6+ features and connect
+    it to a live API
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #039  ·  JavaScript Async Programming: Handling Time in Code       │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand asynchronous programming the concept that trips up most
+    developers and master it completely
+
+  LEARNING OUTCOME
+    You will be able to write JavaScript that handles time-based operations
+    API calls and events without blocking the browser
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Synchronous vs asynchronous
+    2. callbacks
+    3. Promises
+    4. .then() and .catch()
+    5. async/await
+    6. Promise.all
+
+  CAPSTONE PROJECT
+    Build a dashboard that fetches data from 3 different APIs simultaneously
+    and displays them
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #040  ·  Node.js: JavaScript Beyond the Browser                    │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Node.js to run JavaScript on a server and build backend
+    applications and APIs
+
+  LEARNING OUTCOME
+    You will be able to build a functioning Node.js server that handles HTTP
+    requests connects to a database and responds with data
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Node.js runtime
+    2. npm
+    3. require and modules
+    4. http module
+    5. Express.js
+    6. file system
+    7. environment variables
+
+  CAPSTONE PROJECT
+    Build a REST API with Node.js and Express that performs CRUD operations
+    on a database
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #041  ·  Express.js: Building APIs That Power Apps                 │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Master Express.js the most popular Node.js framework for building fast
+    and organised web APIs
+
+  LEARNING OUTCOME
+    You will be able to design and build a complete REST API with
+    authentication routing and database integration
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Routes and controllers
+    2. middleware
+    3. request and response objects
+    4. body-parser
+    5. CORS
+    6. JWT authentication
+
+  CAPSTONE PROJECT
+    Build a full REST API for a blog platform with user auth post creation
+    and comments
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #042  ·  React.js: Building Modern User Interfaces                 │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn React the JavaScript library used by Facebook Instagram and
+    thousands of companies worldwide
+
+  LEARNING OUTCOME
+    You will be able to build dynamic single-page applications using
+    components state and props in React
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. JSX
+    2. components
+    3. props
+    4. state with useState
+    5. useEffect
+    6. conditional rendering
+    7. lists
+    8. event handling
+
+  CAPSTONE PROJECT
+    Build a fully functional task management app with add edit delete and
+    filter features in React
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #043  ·  Databases Deep Dive: Relational vs Non-Relational         │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the two main types of databases and when to use each one in a
+    real project
+
+  LEARNING OUTCOME
+    You will be able to choose the right database type for any project design
+    its structure and justify your decision
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SQL vs NoSQL
+    2. relational model
+    3. tables and relationships
+    4. document model
+    5. key-value stores
+    6. when to use what
+
+  CAPSTONE PROJECT
+    Design the database architecture for 5 different types of applications
+    and justify each choice
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #044  ·  Database Design: Building Schemas That Scale              │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design a database that does not break as your application
+    grows
+
+  LEARNING OUTCOME
+    You will be able to design a normalised database schema for any
+    real-world system with proper relationships and indexes
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Entity-relationship diagrams
+    2. primary and foreign keys
+    3. normalisation 1NF 2NF 3NF
+    4. indexes
+    5. cardinality
+
+  CAPSTONE PROJECT
+    Design the complete database schema for a hospital management system with
+    ER diagram
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #045  ·  C Programming: Understanding How Computers Think          │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn C the language that teaches you how computers really work at the
+    lowest level above assembly
+
+  LEARNING OUTCOME
+    You will be able to write C programs that manipulate memory use pointers
+    and understand why other languages behave the way they do
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Variables and types
+    2. pointers
+    3. arrays
+    4. functions
+    5. structs
+    6. memory allocation
+    7. file I/O
+
+  CAPSTONE PROJECT
+    Write a C program that manages student records using structs and reads
+    and writes to a binary file
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #046  ·  Data Structures Explained With Real Examples              │
+│  ◉ INTERMEDIATE   ⏱  10 hours                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn arrays linked lists stacks queues and trees by building each one
+    from scratch in Python
+
+  LEARNING OUTCOME
+    You will be able to explain and implement the 7 core data structures and
+    choose the right one for any problem
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Arrays and dynamic arrays
+    2. linked lists
+    3. stacks
+    4. queues
+    5. hash tables
+    6. trees
+    7. graphs
+
+  CAPSTONE PROJECT
+    Implement all 7 data structures from scratch in Python and benchmark
+    their performance
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #047  ·  Algorithms: Solving Problems Like a Computer Scientist    │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the algorithms that power search sorting and decision-making in
+    every real application
+
+  LEARNING OUTCOME
+    You will be able to implement binary search merge sort quick sort and
+    graph traversal and explain the time complexity of each
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Linear and binary search
+    2. bubble sort
+    3. merge sort
+    4. quick sort
+    5. Big O notation
+    6. recursion
+
+  CAPSTONE PROJECT
+    Implement 10 algorithms from scratch and test them against 10000-item
+    datasets
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #048  ·  Regular Expressions: Finding Patterns in Any Text         │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Regex the universal pattern-matching language built into every
+    major programming language
+
+  LEARNING OUTCOME
+    You will be able to write regular expressions to validate emails phone
+    numbers Nigerian NINs and extract any data pattern from text
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Regex syntax
+    2. character classes
+    3. quantifiers
+    4. anchors
+    5. groups
+    6. lookahead
+    7. Python re module
+
+  CAPSTONE PROJECT
+    Build a Nigerian form validator that checks NIN BVN phone numbers and
+    email addresses using Regex
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #049  ·  Environment Setup: Building a Professional Developer Workstation│
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to set up a complete professional development environment on
+    Windows or Linux
+
+  LEARNING OUTCOME
+    You will have a fully configured development machine with VS Code
+    terminal Git Python Node.js and database tools installed and working
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. VS Code setup and extensions
+    2. Git configuration
+    3. Node.js and npm
+    4. Python and pip
+    5. MySQL
+    6. WSL on Windows
+
+  CAPSTONE PROJECT
+    Set up a complete development environment from a fresh computer install
+    and run a full-stack project
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #050  ·  Debugging: Finding and Fixing Any Bug                     │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn systematic debugging techniques so you can find the cause of any
+    error in any language
+
+  LEARNING OUTCOME
+    You will be able to debug any Python JavaScript or PHP program
+    methodically using print statements debuggers and error messages
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Reading error messages
+    2. print debugging
+    3. browser DevTools debugger
+    4. Python pdb
+    5. rubber duck debugging
+
+  CAPSTONE PROJECT
+    Debug 10 deliberately broken programs across Python JavaScript and PHP
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #051  ·  Clean Code: Writing Code That People Can Read             │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the principles of clean code that separate professional developers
+    from beginners
+
+  LEARNING OUTCOME
+    You will be able to refactor any messy codebase into clean readable
+    maintainable code using naming conventions and structure
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Meaningful variable names
+    2. function size
+    3. DRY principle
+    4. SOLID principles
+    5. commenting code
+    6. refactoring
+
+  CAPSTONE PROJECT
+    Take a 200-line messy Python script and refactor it into clean well-named
+    readable code
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #052  ·  TypeScript: JavaScript With Superpowers                   │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn TypeScript the typed version of JavaScript that every serious
+    frontend team now requires
+
+  LEARNING OUTCOME
+    You will be able to write TypeScript code with proper types interfaces
+    and enums and convert a JavaScript project to TypeScript
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Types and type annotations
+    2. interfaces
+    3. generics
+    4. enums
+    5. tsconfig
+    6. TypeScript in React
+
+  CAPSTONE PROJECT
+    Convert an existing JavaScript Express API to TypeScript with full type
+    safety
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #053  ·  Python Automation: Making Your Computer Do Your Work      │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use Python to automate repetitive computer tasks that waste
+    hours of your time
+
+  LEARNING OUTCOME
+    You will be able to automate file management Excel manipulation web
+    scraping email sending and form filling using Python
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. os and shutil modules
+    2. openpyxl for Excel
+    3. requests and BeautifulSoup
+    4. smtplib
+    5. selenium
+
+  CAPSTONE PROJECT
+    Build 5 real automation scripts that together save at least 3 hours of
+    manual work per week
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #054  ·  Working With APIs: Consuming and Building Them            │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn everything about APIs from consuming public ones to building your
+    own from scratch
+
+  LEARNING OUTCOME
+    You will be able to call any REST API handle authentication and build
+    your own documented API that others can use
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. REST principles
+    2. HTTP verbs
+    3. authentication Bearer and API key
+    4. Postman
+    5. building APIs in Express
+
+  CAPSTONE PROJECT
+    Build a currency conversion API and a student result API and document
+    both with Postman
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #055  ·  Web Scraping: Extracting Data From Any Website            │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to extract data from any website programmatically using Python
+
+  LEARNING OUTCOME
+    You will be able to scrape product prices job listings news articles and
+    any public data from any website
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. requests library
+    2. BeautifulSoup
+    3. CSS selectors
+    4. handling pagination
+    5. storing to CSV
+    6. respecting robots.txt
+
+  CAPSTONE PROJECT
+    Build a scraper that extracts job listings from a Nigerian job site and
+    saves them to a spreadsheet
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #056  ·  Bash Scripting: Automating Linux Like a Pro               │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Bash scripting to automate any Linux or Mac task from file
+    management to server maintenance
+
+  LEARNING OUTCOME
+    You will be able to write Bash scripts that automate backups system
+    monitoring user management and deployments
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Variables and control flow in bash
+    2. functions
+    3. reading files
+    4. cron jobs
+    5. pipes and redirection
+
+  CAPSTONE PROJECT
+    Write a Bash script that automates daily database backups and emails a
+    report if it fails
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #057  ·  Python for Data Analysis: Pandas and NumPy Foundations    │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the two Python libraries that every data analyst in the world uses
+    daily
+
+  LEARNING OUTCOME
+    You will be able to load clean transform merge and summarise any dataset
+    using Pandas and NumPy
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. NumPy arrays
+    2. Pandas DataFrames
+    3. reading CSV and Excel
+    4. filtering and sorting
+    5. groupby
+    6. handling missing data
+
+  CAPSTONE PROJECT
+    Analyse a real Nigerian dataset of school results to calculate statistics
+    and identify trends
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #058  ·  Data Visualisation: Making Charts That Tell Stories       │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to turn raw data into clear and beautiful charts that anyone
+    can understand
+
+  LEARNING OUTCOME
+    You will be able to create bar charts line graphs pie charts scatter
+    plots and heatmaps in Python using Matplotlib and Seaborn
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Matplotlib basics
+    2. Seaborn statistical plots
+    3. chart customisation
+    4. subplots
+    5. saving charts
+    6. storytelling with data
+
+  CAPSTONE PROJECT
+    Build a visual data report with 8 different chart types from a real-world
+    Nigerian dataset
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #059  ·  PHP OOP: Building Scalable Web Applications               │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Object-Oriented PHP the architecture that powers all serious PHP
+    applications and frameworks
+
+  LEARNING OUTCOME
+    You will be able to design and build a PHP application using classes
+    inheritance interfaces and namespaces
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Classes and objects in PHP
+    2. constructors
+    3. inheritance
+    4. interfaces
+    5. traits
+    6. namespaces
+    7. autoloading
+
+  CAPSTONE PROJECT
+    Refactor a procedural PHP web application into a clean OOP structure with
+    proper class hierarchy
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #060  ·  Laravel Basics: The PHP Framework That Runs Nigeria       │
+│  ◉ INTERMEDIATE   ⏱  10 hours                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Laravel the PHP framework behind thousands of Nigerian government
+    and business websites
+
+  LEARNING OUTCOME
+    You will be able to build a fully functional web application in Laravel
+    with authentication database and an admin dashboard
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Laravel installation
+    2. routes and controllers
+    3. Blade templating
+    4. Eloquent ORM
+    5. migrations
+    6. Auth scaffolding
+
+  CAPSTONE PROJECT
+    Build a complete staff management system using Laravel with role-based
+    access control
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #061  ·  Firebase: Building Apps Without a Backend                 │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Firebase Google's platform for building apps without writing
+    traditional server code
+
+  LEARNING OUTCOME
+    You will be able to build a complete web or mobile app with
+    authentication real-time database storage and hosting on Firebase
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Firebase Authentication
+    2. Firestore database
+    3. Realtime Database
+    4. Firebase Storage
+    5. Firebase Hosting
+
+  CAPSTONE PROJECT
+    Build a real-time classroom chat application with login using only
+    Firebase — no backend server
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #062  ·  MongoDB: The Database for Modern Applications             │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn MongoDB the document database that powers many modern Node.js
+    applications
+
+  LEARNING OUTCOME
+    You will be able to design MongoDB schemas perform CRUD operations
+    aggregate data and connect MongoDB to a Node.js app
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Documents and collections
+    2. CRUD operations
+    3. Mongoose ODM
+    4. schema design
+    5. aggregation pipeline
+    6. indexes
+
+  CAPSTONE PROJECT
+    Build a Node.js REST API with MongoDB that manages a product inventory
+    system
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #063  ·  Authentication and Authorization: Securing Every App      │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how login systems actually work and how to build one that is
+    completely secure
+
+  LEARNING OUTCOME
+    You will be able to implement JWT-based authentication role-based
+    authorization and secure session management in any web app
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Hashing passwords with bcrypt
+    2. JWT tokens
+    3. refresh tokens
+    4. middleware for protected routes
+    5. RBAC
+
+  CAPSTONE PROJECT
+    Build a complete login and role-based access system for a web app with
+    admin and user roles
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #064  ·  Object-Oriented Design Patterns: Code That Professionals Write│
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the 10 most important design patterns that solve recurring problems
+    in software design
+
+  LEARNING OUTCOME
+    You will be able to identify when to use Singleton Factory Observer
+    Strategy and other patterns in real projects
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Creational patterns
+    2. structural patterns
+    3. behavioural patterns
+    4. when to use each
+    5. refactoring to patterns
+
+  CAPSTONE PROJECT
+    Implement 5 design patterns in a Python or JavaScript codebase and
+    explain the problem each solves
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #065  ·  Testing Your Code: Writing Tests That Catch Real Bugs     │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn software testing so your code works correctly the first time you
+    hand it to a client
+
+  LEARNING OUTCOME
+    You will be able to write unit tests integration tests and end-to-end
+    tests for any Python JavaScript or PHP application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Unit testing
+    2. pytest for Python
+    3. Jest for JavaScript
+    4. test-driven development TDD
+    5. mocking
+    6. test coverage
+
+  CAPSTONE PROJECT
+    Write a complete test suite for a REST API covering all endpoints and
+    edge cases
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #066  ·  Docker: Running Any App Anywhere                          │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Docker so your applications run consistently on every computer
+    server and cloud platform
+
+  LEARNING OUTCOME
+    You will be able to containerise any web application write a Dockerfile
+    create a docker-compose setup and deploy it
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What containers are
+    2. Dockerfile
+    3. docker build and run
+    4. volumes
+    5. networking
+    6. docker-compose
+
+  CAPSTONE PROJECT
+    Containerise a full-stack PHP MySQL application using Docker Compose
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #067  ·  Linux for Developers: The Operating System of the Internet│
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Linux the operating system that runs 96% of the world's servers and
+    every cloud platform
+
+  LEARNING OUTCOME
+    You will be able to navigate manage and administer any Linux server
+    confidently from the command line
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. File system
+    2. user and permissions management
+    3. package management apt
+    4. processes
+    5. networking
+    6. systemd
+
+  CAPSTONE PROJECT
+    Set up a fresh Ubuntu server, configure it securely, install a LAMP stack
+    and deploy a website
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #068  ·  Java Fundamentals: Programming the Enterprise             │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Java the language behind Android apps banking systems and
+    enterprise software
+
+  LEARNING OUTCOME
+    You will be able to write Java programs using classes interfaces
+    collections and exceptions
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Java syntax
+    2. classes and objects
+    3. inheritance
+    4. interfaces
+    5. ArrayList and HashMap
+    6. exception handling
+    7. I/O
+
+  CAPSTONE PROJECT
+    Build a bank account management system in Java using OOP with deposit
+    withdrawal and history
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #069  ·  How Memory Works in Programming: Stack Heap and Pointers  │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand how your code uses computer memory the concept that explains
+    all memory errors and performance issues
+
+  LEARNING OUTCOME
+    You will be able to explain the difference between stack and heap memory
+    explain why null pointer errors happen and write code that manages memory
+    efficiently
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Stack and heap memory
+    2. value vs reference types
+    3. garbage collection
+    4. memory leaks
+    5. pointers in C
+
+  CAPSTONE PROJECT
+    Trace memory allocation and deallocation through a C program and explain
+    every pointer operation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #070  ·  Building a REST API From Scratch Step by Step             │
+│  ◉ INTERMEDIATE   ⏱  10 hours                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Build a complete production-ready REST API from an empty folder to a
+    deployed endpoint
+
+  LEARNING OUTCOME
+    You will have a live REST API that handles authentication CRUD operations
+    and returns proper JSON responses
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. REST API design
+    2. Express.js
+    3. MongoDB or MySQL
+    4. JWT auth
+    5. input validation
+    6. error handling
+    7. deployment
+
+  CAPSTONE PROJECT
+    Build and deploy a complete REST API for a blogging platform with full
+    documentation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #071  ·  WebSockets: Building Real-Time Applications               │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn WebSockets to build applications where data updates instantly
+    without page refreshing
+
+  LEARNING OUTCOME
+    You will be able to build real-time features like live chat notifications
+    live scores and collaborative editing
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. WebSocket protocol vs HTTP
+    2. Socket.io library
+    3. rooms and namespaces
+    4. events
+    5. broadcasting
+    6. scaling
+
+  CAPSTONE PROJECT
+    Build a real-time group chat application that updates all users instantly
+    as messages are sent
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #072  ·  Queues and Background Jobs: Handling Heavy Work           │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to handle slow tasks like sending emails generating reports
+    without making users wait
+
+  LEARNING OUTCOME
+    You will be able to implement a job queue that processes background tasks
+    asynchronously in any web application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Job queues concept
+    2. Bull.js for Node.js
+    3. Celery for Python
+    4. Redis
+    5. task scheduling
+    6. retry logic
+
+  CAPSTONE PROJECT
+    Add email sending and PDF report generation as background jobs to an
+    existing web app
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #073  ·  Building a Document Generation System                     │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to programmatically generate professional Word PDFs and
+    PowerPoint files from code
+
+  LEARNING OUTCOME
+    You will be able to build a system that auto-generates any document type
+    from data with professional formatting
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. python-docx
+    2. openpyxl
+    3. PptxGenJS
+    4. pdf generation
+    5. mail merge concept
+    6. templates
+
+  CAPSTONE PROJECT
+    Build a system that generates student transcripts certificates and report
+    cards from a database
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #074  ·  Payment Integration: Flutterwave and Paystack             │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to integrate Nigerian payment gateways into any web or mobile
+    application
+
+  LEARNING OUTCOME
+    You will be able to implement a complete payment flow from button click
+    to payment confirmation and webhook handling
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Payment gateway concepts
+    2. Flutterwave API
+    3. Paystack API
+    4. webhooks
+    5. transaction verification
+    6. test mode
+
+  CAPSTONE PROJECT
+    Integrate Flutterwave into a web app with payment initiation verification
+    and success callback
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #075  ·  SMS and Email Integration: Communicating From Apps        │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to send automated SMS and emails from any web application using
+    popular APIs
+
+  LEARNING OUTCOME
+    You will be able to trigger SMS messages and branded emails from any
+    application event registration payment alert
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Termii API for SMS
+    2. SMTP and PHPMailer
+    3. Nodemailer
+    4. HTML email templates
+    5. bulk sending
+
+  CAPSTONE PROJECT
+    Add SMS OTP verification and welcome email to an existing web
+    registration system
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #076  ·  Building a Search Engine for Your App                     │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to implement powerful search functionality that finds results
+    in milliseconds
+
+  LEARNING OUTCOME
+    You will be able to add full-text search filtering and sorting to any web
+    application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SQL LIKE and FULLTEXT indexes
+    2. Algolia
+    3. Elasticsearch basics
+    4. real-time search with debouncing
+
+  CAPSTONE PROJECT
+    Add a fast search feature to a product catalogue that returns results as
+    the user types
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #077  ·  Microservices: When One App Becomes Many                  │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand microservices architecture and when to split a monolith into
+    separate services
+
+  LEARNING OUTCOME
+    You will be able to design a microservices architecture for a real system
+    and explain the tradeoffs vs a monolith
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Monolith vs microservices
+    2. service communication REST and gRPC
+    3. API gateway
+    4. Docker
+    5. advantages and drawbacks
+
+  CAPSTONE PROJECT
+    Design the microservices architecture for a ride-hailing app and explain
+    each service boundary
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #078  ·  GraphQL: A Smarter Way to Build APIs                      │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn GraphQL the API query language that lets clients ask for exactly
+    what they need
+
+  LEARNING OUTCOME
+    You will be able to build a GraphQL API with queries mutations and
+    subscriptions as an alternative to REST
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. GraphQL schema
+    2. queries and mutations
+    3. resolvers
+    4. Apollo Server
+    5. comparison with REST
+    6. N+1 problem
+
+  CAPSTONE PROJECT
+    Build a GraphQL API for a news platform and demonstrate how it reduces
+    data over-fetching
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #079  ·  Building a Full-Stack Web Application End to End          │
+│  ◉ INTERMEDIATE   ⏱  15 hours                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Build a complete production-ready web application from database to
+    deployed frontend
+
+  LEARNING OUTCOME
+    You will have a fully deployed full-stack application with database
+    backend API and frontend that real users can access
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Architecture planning
+    2. database design
+    3. backend API
+    4. frontend UI
+    5. deployment
+    6. domain setup
+
+  CAPSTONE PROJECT
+    Build and deploy a complete student portal for a school with all CRUD
+    operations from scratch
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #080  ·  Python Decorators and Advanced Functions                  │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Python's most powerful features that make code cleaner more
+    reusable and more expressive
+
+  LEARNING OUTCOME
+    You will be able to use decorators generators context managers and
+    closures in real production code
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Decorators and decorator factories
+    2. generators and yield
+    3. context managers
+    4. closures
+    5. lambda functions
+
+  CAPSTONE PROJECT
+    Implement logging authentication and caching using decorators in a real
+    Python web application
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #081  ·  Building a Command Line Tool People Actually Use          │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build professional CLI tools in Python that others can
+    install and use
+
+  LEARNING OUTCOME
+    You will be able to build publish and distribute a Python command-line
+    application with arguments help text and config files
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. argparse
+    2. Click library
+    3. config files
+    4. packaging with setuptools
+    5. publishing to PyPI
+
+  CAPSTONE PROJECT
+    Build a CLI tool that automates a common developer task and publish it to
+    PyPI
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #082  ·  Caching: Making Applications 100x Faster                  │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how caching works and how to implement it to eliminate slow
+    database queries
+
+  LEARNING OUTCOME
+    You will be able to implement caching using Redis for any web application
+    and measure the performance improvement
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What caching is
+    2. cache invalidation
+    3. Redis basics
+    4. caching in Python and Node.js
+    5. cache strategies
+    6. TTL
+
+  CAPSTONE PROJECT
+    Add Redis caching to a slow API endpoint and demonstrate a 10x speed
+    improvement
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #083  ·  Webhooks: Event-Driven Programming                        │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn webhooks the mechanism that lets external services notify your
+    application in real time
+
+  LEARNING OUTCOME
+    You will be able to build webhook endpoints that receive verify and
+    process real-time events from payment gateways and other services
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What webhooks are vs polling
+    2. receiving webhooks in Express
+    3. signature verification
+    4. idempotency
+    5. ngrok for testing
+
+  CAPSTONE PROJECT
+    Build webhook handlers for Flutterwave payment events and Termii SMS
+    delivery reports
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #084  ·  Building Your First Chatbot Without AI                    │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a rule-based chatbot that handles customer service
+    questions automatically
+
+  LEARNING OUTCOME
+    You will be able to build a chatbot that answers FAQs handles menu
+    selections and escalates to a human agent
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Intent detection with keywords
+    2. state machines
+    3. WhatsApp Business API
+    4. rule-based responses
+    5. handoff logic
+
+  CAPSTONE PROJECT
+    Build a customer service chatbot for a school admissions process on
+    WhatsApp
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #085  ·  Progressive Web Apps: Making Websites Work Offline        │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to turn any website into a PWA that works without internet and
+    can be installed on phones
+
+  LEARNING OUTCOME
+    You will be able to add service workers a web manifest and offline
+    functionality to any existing web application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Service workers
+    2. cache API
+    3. manifest.json
+    4. offline fallback
+    5. push notifications
+    6. installability
+
+  CAPSTONE PROJECT
+    Convert an existing web application into a PWA that works fully without
+    an internet connection
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #086  ·  Web Accessibility: Building for Every Nigerian            │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to make websites usable by people with disabilities — a legal
+    requirement in many contexts
+
+  LEARNING OUTCOME
+    You will be able to audit any website for accessibility issues and fix
+    them to meet WCAG 2.1 AA standards
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Screen readers
+    2. semantic HTML for accessibility
+    3. ARIA attributes
+    4. keyboard navigation
+    5. colour contrast
+    6. focus management
+
+  CAPSTONE PROJECT
+    Audit a real website using Lighthouse and NVDA screen reader and fix all
+    identified issues
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #087  ·  Serverless Functions: Running Code Without Managing Servers│
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn serverless computing to run backend code without setting up or
+    maintaining any server
+
+  LEARNING OUTCOME
+    You will be able to deploy serverless functions on Netlify Functions or
+    Vercel that handle API requests automatically
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Serverless concept
+    2. AWS Lambda and Netlify Functions
+    3. cold starts
+    4. event triggers
+    5. pricing model
+
+  CAPSTONE PROJECT
+    Deploy a serverless API that handles contact form submissions and stores
+    them in a database
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #088  ·  Email Systems: How Email Actually Works                   │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the complete email infrastructure and why emails land in spam
+    or get delivered
+
+  LEARNING OUTCOME
+    You will be able to configure SPF DKIM and DMARC records for any domain
+    to ensure email deliverability
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. MX records
+    2. SPF and DKIM
+    3. SMTP vs IMAP vs POP3
+    4. email headers
+    5. spam score
+    6. PHPMailer configuration
+
+  CAPSTONE PROJECT
+    Set up proper email authentication for a domain so transactional emails
+    reach the inbox reliably
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #089  ·  How to Read Someone Else's Code                           │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the systematic approach to understanding reading and extending code
+    you did not write
+
+  LEARNING OUTCOME
+    You will be able to onboard into any existing codebase understand its
+    architecture and make changes confidently
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Reading from entry points
+    2. tracing execution flow
+    3. commenting while reading
+    4. using git log
+    5. asking the right questions
+
+  CAPSTONE PROJECT
+    Explore a real open-source Nigerian project on GitHub understand its
+    architecture and make a small contribution
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #090  ·  Build 10 Python Projects in 10 Days                       │
+│  ● BEGINNER   ⏱  10 hours                                                  │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Build 10 real Python projects that demonstrate your skills across web
+    automation data and AI
+
+  LEARNING OUTCOME
+    You will have 10 completed Python projects in your portfolio that
+    showcase different capabilities to employers
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Automation
+    2. web scraping
+    3. API consumption
+    4. data processing
+    5. file handling
+    6. simple games
+    7. CLI tools
+
+  CAPSTONE PROJECT
+    Complete and upload all 10 projects to GitHub with proper READMEs
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #091  ·  Build 10 Web Projects in 10 Days                          │
+│  ● BEGINNER   ⏱  10 hours                                                  │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Build 10 real websites and web apps that demonstrate full front-end and
+    back-end capability
+
+  LEARNING OUTCOME
+    You will have 10 complete web projects in your GitHub portfolio covering
+    HTML CSS JavaScript and PHP
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Static pages
+    2. interactive JavaScript apps
+    3. forms
+    4. APIs
+    5. PHP CRUD apps
+
+  CAPSTONE PROJECT
+    Build and deploy all 10 projects with live URLs and GitHub repositories
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #092  ·  Dart and Flutter: Building Apps for Android and iOS       │
+│  ◉ INTERMEDIATE   ⏱  10 hours                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Dart and Flutter Google's framework for building beautiful apps
+    that run on both mobile platforms
+
+  LEARNING OUTCOME
+    You will be able to build a complete Flutter app with navigation state
+    management and API integration
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Dart language basics
+    2. Flutter widgets
+    3. stateful and stateless widgets
+    4. Navigator
+    5. Provider
+    6. HTTP package
+
+  CAPSTONE PROJECT
+    Build a news reader Flutter app that fetches articles from an API and
+    displays them with navigation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #093  ·  React Native: One Codebase for Android and iOS            │
+│  ◉ INTERMEDIATE   ⏱  10 hours                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn React Native to build mobile apps using JavaScript that run
+    natively on Android and iOS
+
+  LEARNING OUTCOME
+    You will be able to build a complete React Native app with navigation,
+    state management, and Firebase backend
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. React Native components
+    2. StyleSheet
+    3. navigation
+    4. AsyncStorage
+    5. Firebase
+    6. Expo workflow
+
+  CAPSTONE PROJECT
+    Build a personal finance tracker app with transactions categories and
+    charts in React Native
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #094  ·  How to Deploy a Website: From Code to Live URL            │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn every method of deploying a web application so your projects are
+    accessible to the world
+
+  LEARNING OUTCOME
+    You will be able to deploy any web application using cPanel shared
+    hosting VPS and free platforms like Vercel and Netlify
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Shared hosting with cPanel
+    2. VPS with SSH
+    3. Nginx setup
+    4. environment variables
+    5. Vercel and Netlify free hosting
+
+  CAPSTONE PROJECT
+    Deploy the same application using 3 different methods and compare them
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #095  ·  Building a Multi-Tenant SaaS Application                  │
+│  ◎ ADVANCED   ⏱  10 hours                                                  │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build software that serves multiple organisations from a
+    single codebase
+
+  LEARNING OUTCOME
+    You will be able to design and build the core architecture of a
+    multi-tenant SaaS application with isolated data
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Tenancy models
+    2. subdomain routing
+    3. database isolation strategies
+    4. role-based access
+    5. billing integration
+
+  CAPSTONE PROJECT
+    Build a multi-tenant school management system where each school sees only
+    their own data
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #096  ·  Internationalisation: Building Apps for Multiple Languages│
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build apps that support multiple languages and regions
+    including Yoruba Hausa and Igbo
+
+  LEARNING OUTCOME
+    You will be able to implement i18n in any web application so the
+    interface can switch between Nigerian languages
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. i18n concepts
+    2. locale and translation files
+    3. date and number formatting
+    4. RTL support
+    5. language switcher
+
+  CAPSTONE PROJECT
+    Add Hausa and Yoruba translations to an existing English web application
+    using i18n library
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #097  ·  Performance Profiling: Finding and Fixing Slow Code       │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to identify exactly which part of your code is slow and fix it
+    scientifically
+
+  LEARNING OUTCOME
+    You will be able to profile any Python JavaScript or PHP application find
+    the bottleneck and improve its performance
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Profiling concepts
+    2. Python cProfile
+    3. Chrome DevTools Performance
+    4. SQL EXPLAIN
+    5. memory profiling
+
+  CAPSTONE PROJECT
+    Profile a slow web application identify the top 3 bottlenecks and fix
+    them with measurable improvement
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #098  ·  Building Admin Dashboards: The Control Centre of Every App│
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build the admin panel that every business application needs
+    for management and reporting
+
+  LEARNING OUTCOME
+    You will be able to build a complete admin dashboard with tables charts
+    user management and export functions
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Admin UI patterns
+    2. data tables with sorting and filtering
+    3. charts with Chart.js
+    4. export to Excel and PDF
+
+  CAPSTONE PROJECT
+    Build a complete admin dashboard for a school with student management
+    analytics and report export
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #099  ·  SMS OTP and Two-Factor Authentication                     │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to add an extra layer of security using SMS OTP and
+    authenticator app 2FA
+
+  LEARNING OUTCOME
+    You will be able to implement OTP via SMS and TOTP using Google
+    Authenticator in any web application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. OTP concepts
+    2. time-based OTP
+    3. Termii or Twilio for SMS
+    4. speakeasy library
+    5. QR code generation
+
+  CAPSTONE PROJECT
+    Add SMS OTP verification and Google Authenticator 2FA to an existing
+    login system
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #100  ·  Building a Notification System: Real-Time Alerts That Work│
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build push notifications in-app notifications and email
+    digest systems
+
+  LEARNING OUTCOME
+    You will be able to build a complete notification system with in-app
+    badges email digests and browser push notifications
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Notification data model
+    2. WebSockets for real-time
+    3. browser Push API
+    4. service workers
+    5. email batching
+
+  CAPSTONE PROJECT
+    Build a notification system for a web app that delivers in-app and email
+    notifications
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+==============================================================================
+  END OF BATCH 1 — COURSES #001 TO #100
+
+  NEXT BATCHES:
+  Batch 2 — Courses #101–200  Artificial Intelligence + Data & Databases
+  Batch 3 — Courses #201–300  Cloud/DevOps + Design/Product
+  Batch 4 — Courses #301–400  Cybersecurity + Entrepreneurship
+  Batch 5 — Courses #401–500  IoT + Nigerian Context Tech + Prof. Skills
+
+  Silabs and Co Technologies Ltd — www.silabs.com.ng
+==============================================================================

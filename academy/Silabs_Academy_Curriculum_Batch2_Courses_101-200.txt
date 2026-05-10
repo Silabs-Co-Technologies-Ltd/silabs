@@ -1,0 +1,2644 @@
+==============================================================================
+  SILABS ACADEMY — DETAILED CURRICULUM
+  Courses #101 to #200 | Batch 2 of 5
+  Prepared by: Abel Priscilla, Director of Technology & Innovations
+  Silabs and Co Technologies Ltd | April 2026
+==============================================================================
+
+TRACKS COVERED IN THIS BATCH:
+  Track C — Artificial Intelligence   Courses #101 – #175  (75 courses)
+  Track D — Entrepreneurship          Courses #176 – #200  (25 courses)
+
+CURRICULUM FIELDS:
+  Overview     · What this course is about
+  Outcome      · What you can do after completing it
+  Concepts     · Core knowledge and skills covered
+  Project      · The hands-on deliverable you will build
+  Duration     · Estimated completion time
+  Level        · Foundation / Beginner / Intermediate / Advanced
+
+==============================================================================
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: ARTIFICIAL INTELLIGENCE  (75 Courses)                              ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #101  ·  How AI Really Works: No Maths Required                    │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand what artificial intelligence actually is how it learns and why
+    it can do things that seem magical
+
+  LEARNING OUTCOME
+    You will be able to explain what machine learning is how neural networks
+    work and why AI makes mistakes to anyone
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What AI is vs what it is not
+    2. training vs inference
+    3. neural network concept
+    4. overfitting
+    5. data dependency
+
+  CAPSTONE PROJECT
+    Build a simple mental model of 5 famous AI systems and explain how each
+    one works
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #102  ·  Machine Learning From Zero: Teaching Computers to Learn   │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the fundamentals of machine learning with practical Python examples
+    no PhD required
+
+  LEARNING OUTCOME
+    You will be able to train evaluate and deploy a machine learning model
+    that makes real predictions
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Supervised vs unsupervised learning
+    2. features and labels
+    3. training and test split
+    4. accuracy and evaluation
+
+  CAPSTONE PROJECT
+    Train a model that predicts whether a student will pass or fail based on
+    attendance and marks
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #103  ·  Linear Regression: Predicting Numbers With Data           │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Master linear regression the most fundamental and widely used machine
+    learning algorithm
+
+  LEARNING OUTCOME
+    You will be able to build a regression model that predicts prices sales
+    or any numeric value from historical data
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. How linear regression works
+    2. gradient descent
+    3. mean squared error
+    4. polynomial regression
+    5. scikit-learn
+
+  CAPSTONE PROJECT
+    Build a house price predictor for Nigerian properties using linear
+    regression
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #104  ·  Classification: Teaching AI to Make Yes/No Decisions      │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn classification algorithms that power spam filters fraud detection
+    and medical diagnosis
+
+  LEARNING OUTCOME
+    You will be able to build and evaluate a classification model using
+    logistic regression decision trees and random forests
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Logistic regression
+    2. decision trees
+    3. random forests
+    4. confusion matrix
+    5. precision recall F1
+    6. ROC curve
+
+  CAPSTONE PROJECT
+    Build a fraud detection classifier using a real transaction dataset
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #105  ·  Neural Networks From Scratch: Build One With Code         │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Build a neural network without using any AI library so you understand
+    every calculation happening inside
+
+  LEARNING OUTCOME
+    You will be able to implement a neural network with forward propagation
+    backpropagation and gradient descent from scratch
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Neurons and layers
+    2. activation functions
+    3. forward pass
+    4. loss function
+    5. backpropagation
+    6. gradient descent
+
+  CAPSTONE PROJECT
+    Build a neural network in pure Python/NumPy that classifies handwritten
+    digits at 90%+ accuracy
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #106  ·  Deep Learning With TensorFlow: Building Real AI           │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn TensorFlow Google's deep learning framework for building neural
+    networks that solve hard problems
+
+  LEARNING OUTCOME
+    You will be able to build train and deploy deep learning models using
+    TensorFlow and Keras for image or text tasks
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. TensorFlow and Keras
+    2. model architecture
+    3. layers
+    4. training with fit()
+    5. callbacks
+    6. saving and loading models
+
+  CAPSTONE PROJECT
+    Build a deep learning model that classifies images of Nigerian foods with
+    85%+ accuracy
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #107  ·  Computer Vision: Teaching AI to See                       │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build AI systems that understand images and video using
+    OpenCV and deep learning
+
+  LEARNING OUTCOME
+    You will be able to build applications that detect objects recognise
+    faces and read text from images
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. OpenCV basics
+    2. image manipulation
+    3. face detection with Haar Cascades
+    4. YOLO object detection
+    5. CNN architecture
+
+  CAPSTONE PROJECT
+    Build a system that detects and counts people in a crowd from a video
+    feed
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #108  ·  Natural Language Processing: Teaching AI to Understand Tex│
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn NLP the field of AI that powers chatbots search engines and
+    translation systems
+
+  LEARNING OUTCOME
+    You will be able to build text classification sentiment analysis and
+    keyword extraction systems
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Text preprocessing
+    2. tokenisation
+    3. TF-IDF
+    4. word embeddings
+    5. sentiment analysis
+    6. spaCy and NLTK
+
+  CAPSTONE PROJECT
+    Build a Nigerian news classifier that sorts articles into sports politics
+    business and entertainment
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #109  ·  Building With OpenAI API: Using ChatGPT in Your Apps      │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to integrate OpenAI's GPT models into any application to add
+    powerful language AI
+
+  LEARNING OUTCOME
+    You will be able to build applications that use GPT for text generation
+    summarisation Q&A and classification
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. API authentication
+    2. prompt engineering
+    3. system messages
+    4. temperature and tokens
+    5. streaming
+    6. fine-tuning concepts
+
+  CAPSTONE PROJECT
+    Build an AI-powered study assistant that answers questions about any
+    uploaded PDF document
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #110  ·  Prompt Engineering: Getting the Best From Any AI          │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Master the skill of writing prompts that get consistently excellent
+    results from AI models
+
+  LEARNING OUTCOME
+    You will be able to write prompts that produce professional quality
+    outputs for writing code analysis and creative tasks
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Zero-shot and few-shot prompting
+    2. chain-of-thought
+    3. role prompting
+    4. output formatting
+    5. iterative refinement
+
+  CAPSTONE PROJECT
+    Build a prompt library of 20 reusable prompts for business tasks and test
+    each one systematically
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #111  ·  Building AI Chatbots With LLMs: Beyond Simple Rules       │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build intelligent chatbots using large language models that
+    understand context and intent
+
+  LEARNING OUTCOME
+    You will be able to build a context-aware chatbot that handles multi-turn
+    conversations and retrieves relevant information
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. LLM concepts
+    2. conversation history
+    3. system prompts
+    4. retrieval augmented generation RAG
+    5. vector databases
+
+  CAPSTONE PROJECT
+    Build an intelligent customer service chatbot for a Nigerian business
+    that answers from company documentation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #112  ·  Voice Recognition: Building Apps That Understand Speech   │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn speech recognition to build applications that convert spoken
+    Nigerian languages to text
+
+  LEARNING OUTCOME
+    You will be able to integrate speech-to-text functionality into a web or
+    Python application using Whisper and browser APIs
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. How ASR works
+    2. OpenAI Whisper
+    3. Web Speech API
+    4. audio preprocessing
+    5. language model post-processing
+
+  CAPSTONE PROJECT
+    Build a voice-activated note-taking app that transcribes spoken Pidgin
+    English accurately
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #113  ·  Text-to-Speech: Making Your Apps Talk                     │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to add voice output to any application so it speaks responses
+    to users
+
+  LEARNING OUTCOME
+    You will be able to integrate natural-sounding text-to-speech in Nigerian
+    English and local languages into any app
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. TTS concepts
+    2. browser SpeechSynthesis API
+    3. Google TTS API
+    4. voice selection
+    5. SSML for pronunciation
+
+  CAPSTONE PROJECT
+    Build a reading assistant that reads web articles aloud and highlights
+    each word as it speaks
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #114  ·  Face Recognition: Building Biometric Systems              │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how facial recognition works at the algorithmic level and build a
+    working face recognition system
+
+  LEARNING OUTCOME
+    You will be able to build a face enrollment and recognition system that
+    identifies people from camera input
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Face detection vs face recognition
+    2. DeepFace library
+    3. face embeddings
+    4. similarity threshold
+    5. spoofing protection
+
+  CAPSTONE PROJECT
+    Build a classroom attendance system that marks students present when
+    their face is detected
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #115  ·  Building a Speaker Identification System                  │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to identify a person by their voice using AI — the foundation
+    of Project Vanguard
+
+  LEARNING OUTCOME
+    You will be able to extract voiceprints from audio enroll known speakers
+    and identify unknown speakers in real time
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Voice embeddings
+    2. ECAPA-TDNN model
+    3. SpeechBrain
+    4. cosine similarity
+    5. enrollment workflow
+    6. threshold tuning
+
+  CAPSTONE PROJECT
+    Build a speaker ID system that identifies 10 enrolled speakers from audio
+    recordings at 90%+ accuracy
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #116  ·  Audio Transcription With Whisper: Every Word Captured     │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn to use OpenAI's Whisper model to transcribe any audio in English
+    and Nigerian languages locally
+
+  LEARNING OUTCOME
+    You will be able to transcribe any audio or video file accurately offline
+    with timestamps and speaker labels
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Whisper model architecture
+    2. local deployment
+    3. language detection
+    4. word timestamps
+    5. Hausa and Yoruba performance
+
+  CAPSTONE PROJECT
+    Build a batch transcription pipeline that processes a folder of voice
+    notes and produces timestamped text
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #117  ·  Sentiment Analysis: Understanding What People Feel        │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build systems that determine whether text is positive
+    negative or neutral
+
+  LEARNING OUTCOME
+    You will be able to analyse social media posts customer reviews and
+    survey responses for sentiment automatically
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Lexicon-based analysis
+    2. machine learning approach
+    3. transformers for sentiment
+    4. handling Nigerian English
+
+  CAPSTONE PROJECT
+    Build a brand monitoring tool that analyses Facebook comments about a
+    product and reports daily sentiment
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #118  ·  Image Generation With AI: Creating Visuals From Text      │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how AI generates images and how to use diffusion models for
+    practical content creation
+
+  LEARNING OUTCOME
+    You will be able to use Stable Diffusion and DALL-E to generate
+    professional images for any purpose
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. How diffusion models work
+    2. Stable Diffusion
+    3. prompt engineering for images
+    4. negative prompts
+    5. ControlNet
+
+  CAPSTONE PROJECT
+    Generate a complete set of marketing images for a fictional product using
+    AI image generation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #119  ·  Building a Recommendation System                          │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how Netflix Spotify and Amazon decide what to show you — and build
+    the same thing
+
+  LEARNING OUTCOME
+    You will be able to build a content-based and collaborative filtering
+    recommendation system for any platform
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Collaborative filtering
+    2. content-based filtering
+    3. cosine similarity
+    4. matrix factorisation
+    5. cold start problem
+
+  CAPSTONE PROJECT
+    Build a course recommendation system that suggests next courses to
+    learners based on their history
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #120  ·  Time Series Forecasting: Predicting Future Values         │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to analyse data over time and forecast future values using AI
+    and statistical models
+
+  LEARNING OUTCOME
+    You will be able to build forecasting models for sales traffic or any
+    metric that changes over time
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Time series concepts
+    2. stationarity
+    3. ARIMA
+    4. Prophet
+    5. LSTM for sequences
+    6. evaluation with MAE and RMSE
+
+  CAPSTONE PROJECT
+    Build a model that forecasts next month's website traffic from 2 years of
+    historical data
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #121  ·  Building a Document Intelligence System                   │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to extract structured information from unstructured documents
+    using AI
+
+  LEARNING OUTCOME
+    You will be able to build a pipeline that reads PDFs forms and reports
+    and extracts specific data fields automatically
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. OCR with Tesseract
+    2. PDF extraction
+    3. entity recognition
+    4. LLM-based extraction
+    5. output to structured JSON
+
+  CAPSTONE PROJECT
+    Build a system that reads Nigerian utility bills and extracts customer
+    number amount due and due date
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #122  ·  Deploying AI Models: From Notebook to Production          │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to take a trained AI model and make it available as a real
+    working application
+
+  LEARNING OUTCOME
+    You will be able to wrap any ML model in an API containerise it and
+    deploy it so other apps can use it
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Model serialisation
+    2. FastAPI for ML APIs
+    3. Docker for AI
+    4. model versioning
+    5. monitoring
+    6. gradual rollout
+
+  CAPSTONE PROJECT
+    Deploy a trained classification model as a live REST API that anyone can
+    call
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #123  ·  AI Ethics: Building Responsible Systems                   │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the ethical dimensions of AI and how to build AI systems that
+    are fair transparent and accountable
+
+  LEARNING OUTCOME
+    You will be able to audit an AI system for bias explain its decisions and
+    document its limitations responsibly
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Bias in training data
+    2. model fairness metrics
+    3. explainability with SHAP and LIME
+    4. privacy in AI
+    5. AI policy in Nigeria
+
+  CAPSTONE PROJECT
+    Audit a Nigerian loan approval AI system for demographic bias and write a
+    fairness report
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #124  ·  Machine Learning Operations: Managing AI in Production    │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn MLOps the practices that keep AI systems accurate reliable and up
+    to date after deployment
+
+  LEARNING OUTCOME
+    You will be able to set up monitoring retraining pipelines and model
+    registry for any production ML system
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Model drift
+    2. monitoring with Evidently
+    3. automated retraining
+    4. MLflow experiment tracking
+    5. data pipelines
+
+  CAPSTONE PROJECT
+    Build an automated pipeline that monitors a deployed model for drift and
+    retrains it weekly
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #125  ·  Building AI for Nigerian Languages: The Opportunity       │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build NLP systems that work for Yoruba Hausa Igbo Tiv and
+    other underrepresented languages
+
+  LEARNING OUTCOME
+    You will be able to fine-tune language models for Nigerian languages and
+    build translation and text tools
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Low-resource NLP challenges
+    2. Meta NLLB model
+    3. fine-tuning with small datasets
+    4. evaluation for low-resource languages
+
+  CAPSTONE PROJECT
+    Fine-tune a translation model to translate from English to Yoruba and
+    evaluate its quality
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #126  ·  Computer Vision for Agriculture: Detecting Crop Disease   │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to apply AI to real agricultural challenges that affect
+    millions of Nigerian farmers
+
+  LEARNING OUTCOME
+    You will be able to build an image classification system that identifies
+    crop diseases from phone photos
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Transfer learning
+    2. MobileNet for mobile deployment
+    3. agricultural datasets
+    4. confidence thresholds
+
+  CAPSTONE PROJECT
+    Build a cassava disease detection app that runs on an Android phone
+    without internet
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #127  ·  Fraud Detection With AI: Protecting Financial Systems     │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how AI detects fraudulent transactions in real time in banking and
+    payment systems
+
+  LEARNING OUTCOME
+    You will be able to build and evaluate a fraud detection system that
+    handles imbalanced data effectively
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Imbalanced datasets
+    2. SMOTE
+    3. anomaly detection
+    4. isolation forest
+    5. ensemble methods
+    6. real-time scoring
+
+  CAPSTONE PROJECT
+    Build a real-time fraud scoring system that flags suspicious transactions
+    in a payment stream
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #128  ·  Building an AI Tutor: Educational AI That Adapts          │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build an AI-powered tutoring system that adapts to each
+    student's learning pace
+
+  LEARNING OUTCOME
+    You will be able to build a personalised tutoring system that asks
+    questions evaluates answers and adjusts difficulty
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Adaptive learning algorithms
+    2. LLM for question generation
+    3. answer evaluation
+    4. learning paths
+    5. Bloom's taxonomy
+
+  CAPSTONE PROJECT
+    Build an AI tutor for secondary school mathematics that adapts question
+    difficulty based on performance
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #129  ·  AI-Powered Document Search: Finding Answers in Any File   │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Retrieval Augmented Generation the technique that lets AI answer
+    questions from your own documents
+
+  LEARNING OUTCOME
+    You will be able to build a system where users upload documents and ask
+    natural language questions about them
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. RAG architecture
+    2. text chunking
+    3. vector embeddings
+    4. vector databases Pinecone and ChromaDB
+    5. LLM integration
+
+  CAPSTONE PROJECT
+    Build a document Q&A system for a company manual where employees ask
+    questions and get accurate answers
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #130  ·  Whisper + Diarisation: Who Said What When                 │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn to combine transcription with speaker identification to produce
+    fully attributed conversation transcripts
+
+  LEARNING OUTCOME
+    You will be able to process any multi-speaker recording and produce a
+    transcript showing who said each sentence
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Whisper transcription
+    2. PyAnnote speaker diarisation
+    3. alignment of transcript with speakers
+    4. output formats
+
+  CAPSTONE PROJECT
+    Process a 30-minute meeting recording and produce a full attributed
+    transcript with timestamps
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #131  ·  Transfer Learning: Teaching AI New Tricks Faster          │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn transfer learning the technique that lets you build powerful AI
+    systems without massive datasets
+
+  LEARNING OUTCOME
+    You will be able to fine-tune a pretrained model for any image
+    classification or text task using your own small dataset
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What pretrained models are
+    2. feature extraction vs fine-tuning
+    3. Hugging Face model hub
+    4. training loop
+
+  CAPSTONE PROJECT
+    Fine-tune a pretrained image model to identify Nigerian currency
+    denominations from photos
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #132  ·  Data Labelling: The Hidden Foundation of All AI           │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to create high-quality labelled training datasets the
+    foundation of every AI system
+
+  LEARNING OUTCOME
+    You will be able to design a labelling workflow build a labelled dataset
+    and assess its quality and consistency
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What data labelling is
+    2. labelling tools
+    3. label taxonomy design
+    4. inter-annotator agreement
+    5. quality control
+
+  CAPSTONE PROJECT
+    Create a 1000-sample labelled dataset of Nigerian street food images for
+    a classification task
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #133  ·  AI-Powered Analytics: Turning Data Into Decisions         │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use AI to analyse business data and surface insights that
+    humans would miss
+
+  LEARNING OUTCOME
+    You will be able to build an analytics pipeline that automatically
+    detects trends anomalies and forecasts
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Descriptive vs predictive analytics
+    2. automated EDA
+    3. anomaly detection
+    4. forecasting
+    5. natural language generation
+
+  CAPSTONE PROJECT
+    Build an AI analytics dashboard for a school that automatically narrates
+    key trends in student performance
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #134  ·  Reinforcement Learning: AI That Learns by Doing           │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand reinforcement learning the AI paradigm behind AlphaGo
+    self-driving cars and game-playing AI
+
+  LEARNING OUTCOME
+    You will be able to implement a simple reinforcement learning agent that
+    learns to solve a task through trial and error
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Agent and environment
+    2. reward function
+    3. Q-learning
+    4. policy gradient
+    5. OpenAI Gymnasium
+
+  CAPSTONE PROJECT
+    Train a reinforcement learning agent to play a simple navigation game
+    from scratch
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #135  ·  Generative AI for Business: Practical Applications        │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use generative AI tools to increase productivity in real
+    business operations
+
+  LEARNING OUTCOME
+    You will be able to use AI tools to automate content creation data
+    analysis email writing and document processing
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. ChatGPT for business
+    2. Copilot
+    3. AI for code
+    4. AI for presentations
+    5. AI for Excel
+    6. prompt workflows
+
+  CAPSTONE PROJECT
+    Automate 5 real business tasks using generative AI tools and document the
+    time saved for each
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #136  ·  Building AI-Powered WhatsApp Bots                         │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to connect an AI language model to WhatsApp Business API to
+    build an intelligent assistant
+
+  LEARNING OUTCOME
+    You will be able to build a WhatsApp bot that understands free-form
+    questions and gives accurate answers
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. WhatsApp Business API
+    2. webhook handling
+    3. conversation state
+    4. LLM integration
+    5. fallback handling
+
+  CAPSTONE PROJECT
+    Build a WhatsApp bot for a Nigerian university that answers student
+    questions about admission
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #137  ·  Computer Vision in Security: Intrusion and Motion Detectio│
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build AI-powered security systems that detect intruders
+    movement and anomalies
+
+  LEARNING OUTCOME
+    You will be able to build a motion detection and person detection system
+    from camera footage
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Background subtraction
+    2. motion detection with OpenCV
+    3. YOLO for person detection
+    4. alerts and logging
+
+  CAPSTONE PROJECT
+    Build a basic security monitoring system that sends WhatsApp alerts when
+    a person is detected
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #138  ·  AI Model Evaluation: Knowing If Your AI Is Actually Good  │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to rigorously evaluate any AI model so you know it works before
+    deploying it
+
+  LEARNING OUTCOME
+    You will be able to apply the correct evaluation metrics for any AI task
+    and interpret results confidently
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Accuracy precision recall F1 AUC
+    2. regression metrics
+    3. cross-validation
+    4. confusion matrices
+    5. A/B testing
+
+  CAPSTONE PROJECT
+    Evaluate 3 different models for the same task and write a comparison
+    report recommending the best one
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #139  ·  Feature Engineering: Turning Raw Data Into AI Gold        │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to transform raw data into meaningful features that make AI
+    models dramatically more accurate
+
+  LEARNING OUTCOME
+    You will be able to engineer features for tabular data text and time
+    series that improve model performance
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. One-hot encoding
+    2. normalisation
+    3. binning
+    4. date features
+    5. text features
+    6. interaction features
+    7. feature importance
+
+  CAPSTONE PROJECT
+    Double the accuracy of a baseline model by engineering better features
+    from the same dataset
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #140  ·  AutoML: Building AI Without Writing Model Code            │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn AutoML tools that automatically find the best machine learning
+    model and parameters for your data
+
+  LEARNING OUTCOME
+    You will be able to use AutoML tools to build high-performance models
+    without manually tuning algorithms
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. H2O AutoML
+    2. AutoKeras
+    3. Google AutoML
+    4. what AutoML does internally
+    5. when to use vs manual ML
+
+  CAPSTONE PROJECT
+    Use an AutoML tool to build a model that outperforms a manually built
+    baseline on a real dataset
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #141  ·  AI for Healthcare: Diagnosing With Data                   │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how AI is applied in medical diagnosis drug discovery and patient
+    outcome prediction
+
+  LEARNING OUTCOME
+    You will be able to build a disease prediction model from patient data
+    and explain its predictions transparently
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Healthcare AI ethics
+    2. clinical data
+    3. HIPAA-equivalent considerations
+    4. disease classification
+    5. explainability
+
+  CAPSTONE PROJECT
+    Build a malaria diagnosis assistant that predicts likelihood from symptom
+    data with explainable output
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #142  ·  AI Security: Attacking and Defending AI Systems           │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how AI systems can be fooled hacked and manipulated — and how to
+    defend against it
+
+  LEARNING OUTCOME
+    You will be able to demonstrate adversarial attacks on an image
+    classifier and implement defences against them
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Adversarial examples
+    2. model poisoning
+    3. model extraction
+    4. membership inference
+    5. adversarial training
+
+  CAPSTONE PROJECT
+    Demonstrate an adversarial attack on a digit classifier and implement
+    adversarial training as a defence
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #143  ·  Conversational AI Design: Making AI Feel Human            │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design conversations that feel natural helpful and on-brand
+
+  LEARNING OUTCOME
+    You will be able to design complete conversational flows for any AI
+    system including fallbacks and personality
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Conversation design principles
+    2. intents and entities
+    3. dialogue flow
+    4. persona
+    5. error messages
+    6. handoff
+
+  CAPSTONE PROJECT
+    Design the complete conversational flow for a Nigerian bank customer
+    service chatbot
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #144  ·  AI APIs Mastery: Hugging Face Replicate and More          │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use the major AI API platforms to access thousands of AI
+    models instantly
+
+  LEARNING OUTCOME
+    You will be able to call any AI model from Hugging Face Inference API and
+    Replicate without running local compute
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Hugging Face API
+    2. Replicate
+    3. API authentication
+    4. model selection
+    5. cost management
+    6. rate limiting
+
+  CAPSTONE PROJECT
+    Build 3 different AI-powered features using 3 different models from the
+    Hugging Face Inference API
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #145  ·  Building a Medical Records AI Assistant                   │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build an AI that helps healthcare workers search understand
+    and summarise patient records
+
+  LEARNING OUTCOME
+    You will be able to build a system that processes medical documents
+    answers clinical questions and flags urgent cases
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Medical NLP
+    2. document processing
+    3. LLM for clinical Q&A
+    4. privacy considerations
+    5. output confidence
+
+  CAPSTONE PROJECT
+    Build an AI assistant that answers questions about patient records from a
+    local hospital dataset
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #146  ·  AI for Agriculture: Crop Yield Prediction                 │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how AI helps predict crop yields to support farmers and food
+    security planning
+
+  LEARNING OUTCOME
+    You will be able to build a regression model that predicts crop yield
+    from weather soil and farming practice data
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Agricultural datasets
+    2. regression modelling
+    3. feature importance for farming
+    4. geospatial data basics
+
+  CAPSTONE PROJECT
+    Build a crop yield predictor for Nigerian maize using weather and soil
+    data from open datasets
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #147  ·  Building a Document Classification System                 │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build an AI that automatically sorts documents into
+    categories
+
+  LEARNING OUTCOME
+    You will be able to build a document classifier that reads any PDF or
+    text and assigns it to the correct category
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Text extraction from PDF
+    2. TF-IDF and transformer features
+    3. multi-class classification
+    4. deployment as API
+
+  CAPSTONE PROJECT
+    Build a system that automatically sorts scanned government documents into
+    10 categories
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #148  ·  Explainable AI: Making Black Boxes Transparent            │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to explain what any AI model is doing so non-technical
+    stakeholders can trust it
+
+  LEARNING OUTCOME
+    You will be able to generate explanations for any model decision using
+    SHAP and LIME
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SHAP values
+    2. LIME explanations
+    3. feature importance
+    4. model cards
+    5. communicating AI decisions
+
+  CAPSTONE PROJECT
+    Add SHAP explanations to a loan approval model and build a dashboard
+    showing why each decision was made
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #149  ·  AI Project Management: Delivering AI Projects That Work   │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to plan estimate and deliver AI projects in a way that meets
+    real business objectives
+
+  LEARNING OUTCOME
+    You will be able to scope define and plan an AI project including data
+    requirements timelines and success metrics
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. AI project lifecycle
+    2. data requirements
+    3. baseline models
+    4. success metrics
+    5. stakeholder communication
+    6. iteration
+
+  CAPSTONE PROJECT
+    Write a complete project plan for an AI initiative at a fictional
+    Nigerian company
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #150  ·  Running AI Locally: Ollama and Open Source Models         │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to run powerful AI language models on your own computer without
+    internet or API costs
+
+  LEARNING OUTCOME
+    You will be able to run Llama Mistral and other open-source models
+    locally using Ollama and use them in applications
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Ollama setup
+    2. model pulling
+    3. API interface
+    4. system prompts
+    5. integrating into Python scripts
+
+  CAPSTONE PROJECT
+    Run a large language model completely offline and build a local Q&A
+    application on top of it
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #151  ·  AI for Education: Personalised Learning Systems           │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build AI-powered educational systems that adapt to
+    individual student needs
+
+  LEARNING OUTCOME
+    You will be able to build an adaptive quiz system that adjusts question
+    difficulty based on student performance
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Item response theory basics
+    2. adaptive algorithms
+    3. knowledge graph
+    4. spaced repetition
+    5. LLM question generation
+
+  CAPSTONE PROJECT
+    Build an adaptive quiz system for WAEC preparation that adapts difficulty
+    per student
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #152  ·  Image Segmentation: AI That Identifies Every Pixel        │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn semantic and instance segmentation to identify regions within
+    images at the pixel level
+
+  LEARNING OUTCOME
+    You will be able to apply image segmentation models to identify and
+    outline specific objects in any image
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Semantic vs instance segmentation
+    2. U-Net
+    3. Mask R-CNN
+    4. SAM Segment Anything Model
+    5. use cases
+
+  CAPSTONE PROJECT
+    Build a system that segments crop fields from satellite imagery to
+    estimate farmland area
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #153  ·  AI Model Compression: Making AI Run on Low-Power Devices  │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn techniques to make large AI models small enough to run on phones
+    and low-cost hardware
+
+  LEARNING OUTCOME
+    You will be able to quantise prune and distil any AI model so it runs on
+    resource-constrained devices
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Model quantisation
+    2. pruning
+    3. knowledge distillation
+    4. TensorFlow Lite
+    5. ONNX
+    6. mobile deployment
+
+  CAPSTONE PROJECT
+    Compress a ResNet image classifier by 10x and deploy it to an Android
+    phone as a demonstration
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #154  ·  Building a Real-Time Language Translator                  │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build an application that translates speech from one
+    Nigerian language to another in near real time
+
+  LEARNING OUTCOME
+    You will be able to combine speech-to-text translation and text-to-speech
+    into a live translation pipeline
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Pipeline architecture
+    2. Whisper
+    3. NLLB translation
+    4. TTS
+    5. latency optimisation
+    6. language selection UI
+
+  CAPSTONE PROJECT
+    Build a real-time speech translator that converts spoken Hausa to spoken
+    Yoruba in under 3 seconds
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #155  ·  AI for Cybersecurity: Detecting Threats Automatically     │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how AI is used to detect malware network intrusions and phishing
+    attacks automatically
+
+  LEARNING OUTCOME
+    You will be able to build a machine learning model that classifies
+    network traffic as normal or malicious
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Network traffic features
+    2. anomaly detection
+    3. malware classification
+    4. false positive management
+
+  CAPSTONE PROJECT
+    Build a network anomaly detection model using a public cybersecurity
+    dataset
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #156  ·  Building a Knowledge Base With AI                         │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a searchable knowledge base that answers questions
+    intelligently using your own content
+
+  LEARNING OUTCOME
+    You will be able to build a RAG-powered knowledge base that gives
+    accurate answers from any collection of documents
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Chunking strategies
+    2. embedding models
+    3. vector search
+    4. re-ranking
+    5. answer generation
+    6. source citation
+
+  CAPSTONE PROJECT
+    Build a knowledge base for Silabs Academy content that tutors can query
+    to get teaching materials
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #157  ·  AI for Legal Documents: Contract Analysis                 │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use AI to review analyse and extract key terms from legal
+    contracts and documents
+
+  LEARNING OUTCOME
+    You will be able to build a tool that reads any contract and extracts
+    parties dates obligations and risk clauses
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Legal NLP
+    2. named entity recognition
+    3. clause extraction
+    4. LLM for contract analysis
+    5. disclaimer handling
+
+  CAPSTONE PROJECT
+    Build a contract analyser that reads Nigerian agreements and highlights
+    key terms with risk scores
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #158  ·  Multimodal AI: Combining Vision and Language              │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn about AI models that understand both images and text simultaneously
+    like GPT-4 Vision
+
+  LEARNING OUTCOME
+    You will be able to use multimodal models to build applications that
+    answer questions about images
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What multimodal models are
+    2. GPT-4 Vision
+    3. LLaVA
+    4. image captioning
+    5. visual Q&A
+    6. practical applications
+
+  CAPSTONE PROJECT
+    Build a receipt reading system that extracts itemised purchases and
+    totals from photos of receipts
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #159  ·  AI for Social Media: Content Intelligence                 │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use AI to analyse social media content detect trends and
+    generate engaging posts
+
+  LEARNING OUTCOME
+    You will be able to build a social media intelligence tool that monitors
+    sentiment trends and helps create content
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Social media scraping
+    2. sentiment at scale
+    3. trend detection
+    4. AI content generation
+    5. performance prediction
+
+  CAPSTONE PROJECT
+    Build a social media monitor for a Nigerian brand that summarises daily
+    sentiment and suggests responses
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #160  ·  Fine-Tuning LLMs: Teaching AI to Know Your Domain         │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to fine-tune a large language model on your own data so it
+    becomes an expert in your field
+
+  LEARNING OUTCOME
+    You will be able to fine-tune an open-source LLM on domain-specific data
+    and deploy it as a custom API
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What fine-tuning is
+    2. LoRA and QLoRA for efficient fine-tuning
+    3. dataset preparation
+    4. evaluation
+    5. Hugging Face Trainer
+
+  CAPSTONE PROJECT
+    Fine-tune a small LLM on Nigerian legal documents and evaluate its
+    performance on domain questions
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #161  ·  Object Detection From Scratch: YOLO Deep Dive             │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the YOLO architecture the fastest object detection system in the
+    world from first principles
+
+  LEARNING OUTCOME
+    You will be able to train a custom YOLO model to detect any objects in
+    images and video in real time
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. YOLO architecture
+    2. bounding boxes
+    3. anchor boxes
+    4. training with custom data
+    5. mAP evaluation
+    6. real-time detection
+
+  CAPSTONE PROJECT
+    Train a custom YOLO model to detect vehicles in Nigerian road footage and
+    count traffic flow
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #162  ·  Agentic AI: Building AI That Takes Actions                │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build AI agents that autonomously use tools browse the web
+    and complete multi-step tasks
+
+  LEARNING OUTCOME
+    You will be able to build an LLM agent that uses tools like web search
+    calculator and file system to complete tasks
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What agents are
+    2. tool calling
+    3. ReAct framework
+    4. LangChain agents
+    5. planning and memory
+    6. safety
+
+  CAPSTONE PROJECT
+    Build an AI agent that researches a topic online writes a report and
+    saves it to a file automatically
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #163  ·  Building a Medical Diagnosis Assistant                    │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build an AI assistant that helps patients understand
+    symptoms and guides them to appropriate care
+
+  LEARNING OUTCOME
+    You will be able to build a symptom checker that asks clarifying
+    questions provides relevant information and recommends next steps
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Medical knowledge representation
+    2. LLM for clinical guidance
+    3. safety guardrails
+    4. disclaimer systems
+
+  CAPSTONE PROJECT
+    Build a symptom checker chatbot that triages patients to self-care clinic
+    or emergency
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #164  ·  AI Integration Patterns: Adding AI to Existing Apps       │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the standard patterns for adding AI capabilities to applications
+    that were not originally built with AI
+
+  LEARNING OUTCOME
+    You will be able to identify the best pattern for adding AI to any
+    existing application and implement it
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. AI as a feature vs AI as a core
+    2. API integration
+    3. background processing
+    4. user-facing vs invisible AI
+
+  CAPSTONE PROJECT
+    Add 3 different AI features to an existing web application using 3
+    different integration patterns
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #165  ·  Responsible Data Collection for AI: Ethics and Practice   │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to collect label and manage data ethically especially when
+    dealing with Nigerian users and sensitive data
+
+  LEARNING OUTCOME
+    You will be able to design a data collection process that is ethical
+    legal and produces high-quality training data
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Consent frameworks
+    2. data minimisation
+    3. anonymisation
+    4. NDPC 2023 compliance
+    5. bias prevention in collection
+
+  CAPSTONE PROJECT
+    Design and document a data collection plan for a Nigerian face
+    recognition dataset
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #166  ·  AI Business Models: Making Money With AI                  │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the business models that successful AI companies use and how to
+    build one in Nigeria
+
+  LEARNING OUTCOME
+    You will be able to identify viable AI business opportunities design a
+    monetisation strategy and pitch it
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. AI SaaS
+    2. API businesses
+    3. data businesses
+    4. AI consulting
+    5. licensing
+    6. market sizing for Nigerian AI
+
+  CAPSTONE PROJECT
+    Design a complete business plan for an AI product targeting a specific
+    Nigerian sector
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #167  ·  AI in Agriculture: Pest and Disease Detection             │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn to build AI systems that help farmers identify and manage crop
+    pests and diseases early
+
+  LEARNING OUTCOME
+    You will be able to build a mobile-friendly AI tool that identifies pest
+    infestations from field photos
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Image classification for agriculture
+    2. mobile deployment
+    3. offline capability
+    4. farmer UX
+
+  CAPSTONE PROJECT
+    Build a pest detection app for Nigerian farmers that identifies 10 common
+    crop pests from photos
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #168  ·  Voice Biometrics: Building Speaker Verification Systems   │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build systems that verify a person's identity by their voice
+    for security applications
+
+  LEARNING OUTCOME
+    You will be able to build an enrollment and verification pipeline that
+    authenticates users by voice
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Voiceprint extraction
+    2. enrollment workflow
+    3. similarity scoring
+    4. anti-spoofing
+    5. threshold tuning
+
+  CAPSTONE PROJECT
+    Build a voice login system that enrolls users by voice and authenticates
+    them on future logins
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #169  ·  AI for E-Government: Automating Public Services           │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how AI can improve government service delivery and reduce
+    corruption in public administration
+
+  LEARNING OUTCOME
+    You will be able to design an AI system that automates a government
+    process with auditability and transparency
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Process automation
+    2. document AI
+    3. case management
+    4. auditability requirements
+    5. citizen-facing AI
+
+  CAPSTONE PROJECT
+    Design and prototype an AI system that automatically processes business
+    registration applications
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #170  ·  Predictive Maintenance: AI That Prevents Breakdowns       │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how AI predicts equipment failure before it happens saving millions
+    in unplanned downtime
+
+  LEARNING OUTCOME
+    You will be able to build a predictive maintenance model from sensor data
+    for any industrial equipment
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Time series from sensors
+    2. anomaly detection
+    3. remaining useful life prediction
+    4. alert thresholds
+
+  CAPSTONE PROJECT
+    Build a model that predicts generator failure from vibration and
+    temperature sensor data
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #171  ·  AI Product Development: From Idea to Shipped Feature      │
+│  ◆ FOUNDATION   ⏱  8 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the complete process of taking an AI product idea through research
+    design development and launch
+
+  LEARNING OUTCOME
+    You will be able to lead the development of an AI product feature from
+    problem definition to deployed prototype
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Problem scoping
+    2. data audit
+    3. model selection
+    4. UX for AI features
+    5. testing AI
+    6. launch and monitor
+
+  CAPSTONE PROJECT
+    Build and launch a complete AI product feature end-to-end in a real or
+    simulated environment
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #172  ·  Building AI for Low-Bandwidth Environments                │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design AI systems that work reliably on slow or intermittent
+    internet connections
+
+  LEARNING OUTCOME
+    You will be able to build AI applications that degrade gracefully on
+    2G/3G and work offline when needed
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Offline-first AI
+    2. model quantisation for mobile
+    3. progressive loading
+    4. local inference
+    5. sync strategies
+
+  CAPSTONE PROJECT
+    Build an AI application that works fully offline and syncs results when
+    internet is available
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #173  ·  AI Pair Programming: Using Copilot and AI to Code Faster  │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use AI coding assistants to write code faster test more
+    thoroughly and learn new technologies
+
+  LEARNING OUTCOME
+    You will be able to use AI coding tools to increase your development
+    speed by at least 3x
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. GitHub Copilot
+    2. Cursor
+    3. Claude for coding
+    4. prompt patterns for code generation
+    5. AI-assisted debugging
+
+  CAPSTONE PROJECT
+    Use AI coding tools to build a project in 1 day that would normally take
+    3 days
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #174  ·  Building a Real Estate Valuation AI                       │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a property valuation model for Nigerian real estate
+    using machine learning
+
+  LEARNING OUTCOME
+    You will be able to build a model that predicts property prices from
+    location size type and features
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Feature engineering for real estate
+    2. geospatial features
+    3. regression modelling
+    4. confidence intervals
+
+  CAPSTONE PROJECT
+    Build a house price estimator for Abuja or Lagos properties with
+    confidence ranges
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #175  ·  AI for Financial Inclusion: Credit Scoring Without Bank Hi│
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build alternative credit scoring models that work for the
+    unbanked majority in Nigeria
+
+  LEARNING OUTCOME
+    You will be able to build a credit scoring model using alternative data
+    sources like mobile usage and social signals
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Alternative data sources
+    2. feature importance for credit
+    3. fairness in lending AI
+    4. regulatory considerations
+
+  CAPSTONE PROJECT
+    Build a credit scoring model using mobile transaction patterns for
+    unbanked borrowers
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: ENTREPRENEURSHIP  (25 Courses)                                     ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #176  ·  Start and Learn: Why Waiting Is the Biggest Mistake       │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the philosophy of starting before you are ready and learning
+    through doing
+
+  LEARNING OUTCOME
+    You will be able to identify and eliminate the mental blockers preventing
+    you from starting your first business and take the first concrete step
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Action bias vs perfection paralysis
+    2. minimum viable action
+    3. learning by doing
+    4. fear vs risk
+
+  CAPSTONE PROJECT
+    Write and take your first 3 concrete business actions within 24 hours of
+    completing this course
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #177  ·  CAC Registration Step by Step: Making Your Business Legal │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn exactly how to register a business in Nigeria including the new
+    online process
+
+  LEARNING OUTCOME
+    You will be able to register a Business Name or Limited Liability Company
+    on the CAC portal correctly
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Business Name vs Limited Company
+    2. CAC portal walkthrough
+    3. document requirements
+    4. costs and timelines
+
+  CAPSTONE PROJECT
+    Complete a real or practice CAC registration from start to approved
+    certificate
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #178  ·  Your First Business Idea: Finding a Problem Worth Solving │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the structured process for identifying real problems that
+    businesses can profitably solve
+
+  LEARNING OUTCOME
+    You will be able to generate 10 validated business ideas based on real
+    problems you have direct knowledge of
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Problem vs solution thinking
+    2. market sizing basics
+    3. Nigerian market opportunities
+    4. idea validation methods
+
+  CAPSTONE PROJECT
+    Complete an idea validation exercise for 3 business concepts using the
+    Lean Canvas framework
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #179  ·  Lean Canvas: Planning a Business on One Page              │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the Lean Canvas framework that replaces the traditional 40-page
+    business plan
+
+  LEARNING OUTCOME
+    You will be able to complete a Lean Canvas for any business idea in under
+    2 hours
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Problem and customer segments
+    2. unique value proposition
+    3. channels
+    4. revenue streams
+    5. cost structure
+
+  CAPSTONE PROJECT
+    Complete a Lean Canvas for your own business idea with all 9 blocks
+    filled in with evidence
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #180  ·  Market Research Without a Budget: Finding Your Customers  │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to research a market deeply using free tools and direct
+    conversations
+
+  LEARNING OUTCOME
+    You will be able to define your ideal customer profile identify where
+    they are and validate whether they will pay
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Customer interviews
+    2. online surveys
+    3. social media research
+    4. competitor analysis
+    5. market sizing TAM SAM SOM
+
+  CAPSTONE PROJECT
+    Conduct 5 customer interviews for a business idea and write a validated
+    customer profile
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #181  ·  Pricing Strategy: Charging What Your Product Is Worth     │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to price any product or service correctly so you earn profit
+    and customers feel they got value
+
+  LEARNING OUTCOME
+    You will be able to apply 4 pricing strategies and calculate a price for
+    any product with confidence
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Cost-plus pricing
+    2. value-based pricing
+    3. competitive pricing
+    4. freemium
+    5. price anchoring
+    6. Nigerian market norms
+
+  CAPSTONE PROJECT
+    Calculate 3 different prices for the same service using 3 different
+    strategies and justify each
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #182  ·  Your First Client: Landing Paid Work When You Are New     │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the exact strategies to land your first paying client even with
+    zero experience or portfolio
+
+  LEARNING OUTCOME
+    You will be able to land your first paying client within 30 days using
+    the outreach approaches in this course
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Warm outreach
+    2. personal network mining
+    3. LinkedIn cold messages
+    4. WhatsApp business outreach
+    5. free first project strategy
+
+  CAPSTONE PROJECT
+    Write and send 20 personalised outreach messages in your specific service
+    niche
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #183  ·  Freelancing in Tech: Earning in Dollars from Nigeria      │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to offer tech skills as freelance services on Upwork Fiverr and
+    Toptal from Nigeria
+
+  LEARNING OUTCOME
+    You will be able to set up optimised profiles on Upwork and Fiverr and
+    land your first $100 foreign contract
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Freelance platform mechanics
+    2. profile optimisation
+    3. proposal writing
+    4. dollar pricing for Nigerian skills
+
+  CAPSTONE PROJECT
+    Create a complete Upwork profile with 3 portfolio items and submit 10
+    quality proposals
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #184  ·  Building a Portfolio That Gets You Hired or Contracts     │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a portfolio that proves your skills better than any
+    certificate or degree
+
+  LEARNING OUTCOME
+    You will be able to build a professional online portfolio that shows your
+    best work with clear project descriptions
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Portfolio site with GitHub Pages
+    2. project presentation
+    3. case study writing
+    4. testimonial collection
+
+  CAPSTONE PROJECT
+    Build and publish your portfolio site with at least 5 documented projects
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #185  ·  Digital Marketing Foundations: Getting Found Online       │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the fundamentals of digital marketing that every business owner
+    needs to understand
+
+  LEARNING OUTCOME
+    You will be able to explain all major digital marketing channels choose
+    the right ones for any business and measure results
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SEO
+    2. social media marketing
+    3. email marketing
+    4. paid ads
+    5. content marketing
+    6. analytics basics
+
+  CAPSTONE PROJECT
+    Create a 30-day digital marketing plan for a small Nigerian business
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #186  ·  Facebook and Instagram Marketing That Actually Converts   │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use Facebook and Instagram to attract customers and convert
+    them into buyers
+
+  LEARNING OUTCOME
+    You will be able to run organic social media campaigns that generate real
+    leads and sales for any business
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Content strategy
+    2. post formats
+    3. algorithm understanding
+    4. engagement tactics
+    5. call-to-action design
+
+  CAPSTONE PROJECT
+    Run a 2-week organic social campaign for a real or practice business and
+    track results
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #187  ·  WhatsApp Business: Your Most Powerful Sales Tool          │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use WhatsApp Business to manage customers automate responses
+    and close more sales
+
+  LEARNING OUTCOME
+    You will be able to set up WhatsApp Business professionally use broadcast
+    lists and automate common messages
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. WhatsApp Business profile
+    2. auto-reply
+    3. quick replies
+    4. broadcast lists
+    5. catalogue
+    6. payment collection
+
+  CAPSTONE PROJECT
+    Set up a complete WhatsApp Business account for a real or practice
+    business
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #188  ·  Content Creation for Business: Posts That Make People Buy │
+│  ● BEGINNER   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to create content that builds trust generates leads and
+    converts followers into customers
+
+  LEARNING OUTCOME
+    You will be able to produce professional content consistently across text
+    images and short video
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Content pillars
+    2. value ladder
+    3. writing for social media
+    4. Canva design basics
+    5. short video scripting
+
+  CAPSTONE PROJECT
+    Create a month of content (30 posts) for a specific niche business using
+    a content calendar
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #189  ·  Email Marketing: The Channel That Pays the Most           │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build an email list and use it to consistently sell products
+    and services
+
+  LEARNING OUTCOME
+    You will be able to set up an email marketing system build a subscriber
+    list and run automated sequences
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. List building
+    2. lead magnets
+    3. email service providers
+    4. open rates and CTR
+    5. welcome sequences
+
+  CAPSTONE PROJECT
+    Set up a complete email list with a lead magnet and a 5-email welcome
+    sequence
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #190  ·  SEO for Nigerian Businesses: Getting Found on Google      │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn search engine optimisation specifically for businesses serving
+    Nigerian audiences
+
+  LEARNING OUTCOME
+    You will be able to rank a local Nigerian business website on the first
+    page of Google for its target keywords
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Keyword research for Nigerian market
+    2. on-page SEO
+    3. Google My Business
+    4. backlinks
+    5. local SEO
+
+  CAPSTONE PROJECT
+    Optimise a business website for 5 target keywords and set up and verify
+    its Google My Business listing
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #191  ·  Paid Advertising: Running Profitable Facebook Ads         │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to run Facebook and Instagram ads that consistently return more
+    money than they cost
+
+  LEARNING OUTCOME
+    You will be able to set up a complete Facebook ad campaign from audience
+    targeting to conversion tracking
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Campaign objectives
+    2. audience targeting
+    3. ad formats
+    4. budget and bidding
+    5. pixel installation
+    6. retargeting
+
+  CAPSTONE PROJECT
+    Run a real or simulated Facebook ad campaign and achieve a profitable
+    return on ad spend
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #192  ·  Building a Landing Page That Converts                     │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a single web page that convinces visitors to buy
+    subscribe or contact you
+
+  LEARNING OUTCOME
+    You will be able to build a high-converting landing page with a
+    compelling headline clear benefits and strong CTA
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Landing page anatomy
+    2. copywriting fundamentals
+    3. CTA design
+    4. social proof
+    5. lead capture
+    6. A/B testing
+
+  CAPSTONE PROJECT
+    Build a complete landing page for a tech service and achieve over 20%
+    conversion rate in testing
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #193  ·  Sales Fundamentals: Selling Without Feeling Pushy         │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the principles of honest effective selling that gets people to say
+    yes
+
+  LEARNING OUTCOME
+    You will be able to conduct a complete sales conversation that addresses
+    objections and closes a deal naturally
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Discovery questions
+    2. value articulation
+    3. objection handling
+    4. closing techniques
+    5. follow-up cadence
+
+  CAPSTONE PROJECT
+    Role-play 5 complete sales conversations for a tech service covering
+    different objection scenarios
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #194  ·  Writing Proposals That Win Contracts                      │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to write compelling business proposals that convince clients to
+    choose you over competitors
+
+  LEARNING OUTCOME
+    You will be able to write a professional proposal for any service that
+    wins at least 30% of the time
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Proposal structure
+    2. problem restatement
+    3. solution presentation
+    4. pricing justification
+    5. social proof
+    6. call to action
+
+  CAPSTONE PROJECT
+    Write 3 complete proposals for real or practice service opportunities
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #195  ·  Financial Management for Tech Businesses                  │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to manage money in a tech business so you stay profitable and
+    grow sustainably
+
+  LEARNING OUTCOME
+    You will be able to track revenue expenses and profit run a cash flow
+    forecast and price for profitability
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Revenue and cost tracking
+    2. cash flow
+    3. invoicing
+    4. tax basics in Nigeria
+    5. reinvestment decisions
+
+  CAPSTONE PROJECT
+    Build a complete financial model for a tech service business for 12
+    months
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #196  ·  Invoicing and Getting Paid: Never Chase a Client Again    │
+│  ● BEGINNER   ⏱  2 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to invoice professionally collect payment on time and handle
+    late payers
+
+  LEARNING OUTCOME
+    You will be able to create professional invoices set clear payment terms
+    and use follow-up systems that get paid
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Invoice design
+    2. payment terms
+    3. milestone billing
+    4. late payment policies
+    5. online payment collection
+
+  CAPSTONE PROJECT
+    Create an invoice template and a payment collection system for a tech
+    freelance business
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #197  ·  Building a Tech Startup: From Idea to First Revenue       │
+│  ◉ INTERMEDIATE   ⏱  10 hours                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the step-by-step process for turning a tech idea into a business
+    that earns money
+
+  LEARNING OUTCOME
+    You will be able to take any tech idea through validation product
+    development and first paying customer in 90 days
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Idea validation
+    2. MVP definition
+    3. build vs buy decisions
+    4. go-to-market strategy
+    5. first revenue
+
+  CAPSTONE PROJECT
+    Build and launch a minimum viable product for a real tech idea within the
+    course duration
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #198  ·  SaaS Business Models: Recurring Revenue in Tech           │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how Software as a Service businesses generate consistent monthly
+    revenue and how to build one
+
+  LEARNING OUTCOME
+    You will be able to design a SaaS pricing model build a subscription
+    system and calculate key SaaS metrics
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SaaS vs one-time software
+    2. subscription tiers
+    3. MRR ARR churn LTV
+    4. free trial vs freemium
+
+  CAPSTONE PROJECT
+    Design a complete SaaS pricing and monetisation model for a real or
+    practice software idea
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #199  ·  Agency Business Model: Selling Tech Skills at Scale       │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to structure a tech agency that delivers client projects
+    profitably and repeatedly
+
+  LEARNING OUTCOME
+    You will be able to set up a tech agency with services pricing hiring
+    workflow and client management
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Service menu design
+    2. project scoping and estimation
+    3. SOW writing
+    4. subcontracting
+    5. client management
+
+  CAPSTONE PROJECT
+    Create a complete service menu pricing guide and SOW template for a
+    Nigerian tech agency
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #200  ·  Pitching to Investors: Getting Funded in Nigeria          │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to pitch a startup to Nigerian and diaspora investors including
+    TEF NITDA and angel networks
+
+  LEARNING OUTCOME
+    You will be able to build a compelling investor pitch deck and deliver a
+    5-minute pitch confidently
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Pitch deck structure
+    2. problem and solution narrative
+    3. market sizing
+    4. traction slides
+    5. the ask
+
+  CAPSTONE PROJECT
+    Build a complete 12-slide pitch deck for your own startup and practice
+    delivering it in 5 minutes
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+==============================================================================
+  END OF BATCH 2 — COURSES #101 TO #200
+
+  NEXT BATCHES:
+  Batch 3 — Courses #201–300  Data & Databases + Design & Product
+  Batch 4 — Courses #301–400  Cybersecurity + Cloud & DevOps
+  Batch 5 — Courses #401–500  IoT + Nigerian Context Tech + Prof. Skills
+
+  Silabs and Co Technologies Ltd — www.silabs.com.ng
+==============================================================================

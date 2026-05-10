@@ -1,0 +1,2628 @@
+==============================================================================
+  SILABS ACADEMY — DETAILED CURRICULUM
+  Courses #401 to #500 | Batch 5 of 5  ·  FINAL BATCH
+  Prepared by: Abel Priscilla, Director of Technology & Innovations
+  Silabs and Co Technologies Ltd | April 2026
+==============================================================================
+
+TRACKS COVERED IN THIS BATCH:
+  Track J — Design and Product        Courses #401 – #430  (30 courses)
+  Track K — Professional Skills       Courses #431 – #460  (30 courses)
+  Track L — Nigerian Context Tech     Courses #461 – #500  (40 courses)
+
+CURRICULUM FIELDS:
+  Overview     · What this course is about
+  Outcome      · What you can do after completing it
+  Concepts     · Core knowledge and skills covered
+  Project      · The hands-on deliverable you will build
+  Duration     · Estimated completion time
+  Level        · Foundation / Beginner / Intermediate / Advanced
+
+==============================================================================
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: DESIGN AND PRODUCT  (30 Courses)                                   ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #401  ·  UI Design Fundamentals: Making Things Look Professional   │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the core principles of visual design that make any interface look
+    professional and trustworthy
+
+  LEARNING OUTCOME
+    You will be able to apply spacing alignment hierarchy colour and
+    typography to make any UI look significantly more professional
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Visual hierarchy
+    2. whitespace
+    3. alignment grid
+    4. typography scale
+    5. colour theory
+    6. consistency
+
+  CAPSTONE PROJECT
+    Redesign an ugly web page by applying the 5 design fundamentals and
+    document every change made
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #402  ·  Figma From Zero: Designing Interfaces                     │
+│  ● BEGINNER   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Figma the industry-standard design tool used by professional
+    product designers worldwide
+
+  LEARNING OUTCOME
+    You will be able to design a complete mobile or web application in Figma
+    with components styles and prototyping
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Figma workspace
+    2. frames and layers
+    3. auto layout
+    4. components and variants
+    5. styles
+    6. prototyping
+
+  CAPSTONE PROJECT
+    Design a complete mobile app UI in Figma with a consistent design system
+    and interactive prototype
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #403  ·  Canva Mastery: Professional Designs for Non-Designers     │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Canva to create professional marketing materials social media posts
+    and presentations
+
+  LEARNING OUTCOME
+    You will be able to produce professional quality design outputs for any
+    business purpose using Canva
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Canva workspace
+    2. templates
+    3. brand kit
+    4. social media templates
+    5. presentations
+    6. printing specs
+
+  CAPSTONE PROJECT
+    Create a complete brand kit including logo social media templates flyers
+    and a presentation deck
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #404  ·  User Experience Design: Designing for How People Think    │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn UX design the practice of making products that people find
+    intuitive and enjoyable to use
+
+  LEARNING OUTCOME
+    You will be able to conduct user research create user flows and design
+    interfaces that real users can navigate without help
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. User research
+    2. personas
+    3. user journey maps
+    4. information architecture
+    5. wireframing
+    6. usability testing
+
+  CAPSTONE PROJECT
+    Conduct user research wireframe and test a design for a Nigerian USSD
+    banking app replacement
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #405  ·  Mobile UI Patterns: Designing for Small Screens           │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the specific patterns conventions and constraints of designing for
+    mobile phones
+
+  LEARNING OUTCOME
+    You will be able to design mobile interfaces that follow platform
+    conventions and work well with thumb navigation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. iOS vs Android guidelines
+    2. mobile navigation patterns
+    3. touch targets
+    4. gestures
+    5. forms on mobile
+
+  CAPSTONE PROJECT
+    Design a complete mobile app UI following platform guidelines for both
+    iOS and Android
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #406  ·  Typography: Making Text Beautiful and Readable            │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn typography the craft of arranging type that most designers skip but
+    that makes everything better
+
+  LEARNING OUTCOME
+    You will be able to choose appropriate typefaces set proper sizes and
+    line heights and pair fonts effectively
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Type anatomy
+    2. classification
+    3. hierarchy
+    4. pairing
+    5. web fonts
+    6. line height and measure
+    7. readability
+
+  CAPSTONE PROJECT
+    Restyle 3 different real websites using only typography improvements
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #407  ·  Colour Theory for Digital Design                          │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how colour works and how to build colour systems that look
+    professional and communicate clearly
+
+  LEARNING OUTCOME
+    You will be able to build a complete colour palette for any brand and
+    apply it consistently in any design
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Colour wheel
+    2. harmony
+    3. contrast ratios
+    4. accessible colour
+    5. brand colour psychology
+    6. building palettes
+
+  CAPSTONE PROJECT
+    Design 3 brand colour systems for different industry types and test them
+    for accessibility compliance
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #408  ·  Design Systems: Building Consistency at Scale             │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a design system that ensures consistency across all
+    products and speeds up future design work
+
+  LEARNING OUTCOME
+    You will be able to build a complete design system with components tokens
+    documentation and usage guidelines
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Design tokens
+    2. component library
+    3. documentation
+    4. Figma component architecture
+    5. system governance
+
+  CAPSTONE PROJECT
+    Build a complete design system for a fictional Nigerian fintech with all
+    core components
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #409  ·  Accessibility in Design: Designing for Everyone           │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design interfaces that work for people with visual hearing
+    motor and cognitive disabilities
+
+  LEARNING OUTCOME
+    You will be able to design and audit any interface for WCAG 2.1 AA
+    accessibility compliance
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. WCAG principles
+    2. colour contrast
+    3. focus states
+    4. keyboard navigation
+    5. screen reader considerations
+
+  CAPSTONE PROJECT
+    Audit a real Nigerian app for accessibility issues and redesign 5 screens
+    to be fully accessible
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #410  ·  Logo Design With Figma: Building Brand Identity           │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design professional logos and brand identities from scratch
+
+  LEARNING OUTCOME
+    You will be able to design a complete brand identity including primary
+    logo mark and wordmark usage rules
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Logo types
+    2. vector design in Figma
+    3. symbolism and meaning
+    4. colour in logos
+    5. brand guidelines
+
+  CAPSTONE PROJECT
+    Design 3 complete logos for different fictional businesses and present
+    each with rationale
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #411  ·  Usability Testing: Watching Real Users Break Your Product │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to run usability tests that reveal how real users actually use
+    your product
+
+  LEARNING OUTCOME
+    You will be able to design conduct and analyse a usability test and
+    produce actionable design recommendations
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Test planning
+    2. participant recruitment
+    3. task design
+    4. moderation
+    5. affinity mapping
+    6. recommendation reports
+
+  CAPSTONE PROJECT
+    Conduct a 5-participant usability test on a real app and produce a
+    findings and recommendations report
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #412  ·  Prototyping: From Sketch to Clickable Demo                │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build interactive prototypes that demonstrate how a product
+    works without writing code
+
+  LEARNING OUTCOME
+    You will be able to build a fully interactive high-fidelity prototype in
+    Figma that can be tested with real users
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Fidelity levels
+    2. Figma prototyping connections
+    3. transitions
+    4. overlay and component states
+    5. testing prototypes
+
+  CAPSTONE PROJECT
+    Build a fully interactive prototype of a 10-screen app that stakeholders
+    can test on a phone
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #413  ·  Design for WhatsApp and Social Media                      │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design engaging visual content specifically for WhatsApp
+    Facebook and Instagram
+
+  LEARNING OUTCOME
+    You will be able to create professional social media graphics educational
+    carousels and WhatsApp flyers
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Platform size requirements
+    2. carousel design
+    3. text-to-image ratio
+    4. brand voice in design
+    5. batch production
+
+  CAPSTONE PROJECT
+    Design a month of social media content for Silabs Academy in a consistent
+    visual style
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #414  ·  Product Management: Building the Right Thing              │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn product management the practice of deciding what to build and why
+    in a technology company
+
+  LEARNING OUTCOME
+    You will be able to write user stories define acceptance criteria
+    prioritise a backlog and manage a product roadmap
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. PM vs project manager
+    2. user stories
+    3. jobs to be done
+    4. prioritisation frameworks RICE and ICE
+    5. roadmap ownership
+
+  CAPSTONE PROJECT
+    Write a complete product requirements document for a feature of a real
+    Nigerian app
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #415  ·  Product Analytics: Measuring Whether Your Product Works   │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to instrument a product to measure user behaviour and make
+    data-driven product decisions
+
+  LEARNING OUTCOME
+    You will be able to set up product analytics define key metrics and
+    analyse user behaviour to improve a product
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Mixpanel or Amplitude
+    2. event tracking
+    3. funnel analysis
+    4. retention
+    5. user segmentation
+    6. A/B test design
+
+  CAPSTONE PROJECT
+    Instrument a web application with full event tracking and analyse a
+    simulated user funnel
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #416  ·  Information Architecture: Organising Content So People Fin│
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to structure content and navigation so that users always know
+    where they are and how to get what they need
+
+  LEARNING OUTCOME
+    You will be able to conduct a card sort design a site map and create a
+    navigation structure for any digital product
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Card sorting
+    2. tree testing
+    3. site maps
+    4. navigation patterns
+    5. labelling and taxonomy
+
+  CAPSTONE PROJECT
+    Conduct a card sort and redesign the navigation of a poorly organised
+    Nigerian government website
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #417  ·  Design Critique: Giving and Receiving Design Feedback     │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to give and receive design feedback that improves work without
+    damaging relationships
+
+  LEARNING OUTCOME
+    You will be able to conduct structured design critiques and respond to
+    feedback in ways that improve outcomes
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Critique vs criticism
+    2. structured feedback frameworks
+    3. separating work from worth
+    4. feedback hierarchies
+
+  CAPSTONE PROJECT
+    Run a structured design critique session for 3 different design pieces
+    and document outcomes
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #418  ·  Designing for Low-Literacy and First-Time Digital Users   │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design products that work for Nigerians using a smartphone
+    for the first time or with low literacy
+
+  LEARNING OUTCOME
+    You will be able to apply inclusive design principles that serve the
+    broadest possible Nigerian audience
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Icons vs text
+    2. visual instruction patterns
+    3. onboarding for first-time users
+    4. testing with real users
+
+  CAPSTONE PROJECT
+    Redesign a digital government form for use by low-literacy smartphone
+    users in a rural area
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #419  ·  Motion Design: Making Interfaces Feel Alive               │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to add meaningful motion and animation to digital interfaces
+
+  LEARNING OUTCOME
+    You will be able to design micro-interactions and screen transitions that
+    communicate clearly and delight users
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Why motion matters
+    2. transition types
+    3. timing and easing
+    4. Figma Smart Animate
+    5. meaningful vs decorative motion
+
+  CAPSTONE PROJECT
+    Add meaningful motion to a static mobile app design using Figma Smart
+    Animate
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #420  ·  Building a Design Portfolio                               │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a design portfolio that lands jobs and clients in a
+    competitive market
+
+  LEARNING OUTCOME
+    You will have a complete online design portfolio with 5 case studies that
+    demonstrate your full design process
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Case study structure
+    2. portfolio platforms
+    3. writing about design
+    4. presenting process not just outcomes
+
+  CAPSTONE PROJECT
+    Build a complete Behance or personal site portfolio with 5 documented
+    design case studies
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #421  ·  Competitive Analysis: Learning From Existing Products     │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to systematically analyse competitor products to find
+    opportunities for your own
+
+  LEARNING OUTCOME
+    You will be able to conduct a structured competitive analysis and
+    identify clear differentiation opportunities
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Competitive analysis framework
+    2. feature comparison
+    3. UX heuristic evaluation
+    4. positioning map
+
+  CAPSTONE PROJECT
+    Conduct a complete competitive analysis of 5 Nigerian fintech apps and
+    identify 3 opportunities
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #422  ·  Error States and Edge Cases: Designing for Failure        │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design the parts of products that most designers ignore —
+    errors empty states and edge cases
+
+  LEARNING OUTCOME
+    You will be able to design complete error states empty states and edge
+    cases for any application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Error message writing
+    2. empty state design
+    3. offline states
+    4. loading states
+    5. error recovery flows
+
+  CAPSTONE PROJECT
+    Design all error and edge case states for a 10-screen app that currently
+    handles none of them
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #423  ·  Designing for Dark Mode                                   │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design interfaces that work beautifully in both light and
+    dark modes
+
+  LEARNING OUTCOME
+    You will be able to extend any design system to support dark mode with
+    proper colour and contrast handling
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Dark mode principles
+    2. colour semantics
+    3. opacity vs colour
+    4. component adaptation
+    5. Figma dark mode setup
+
+  CAPSTONE PROJECT
+    Extend a light mode design system to a complete dark mode variant
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #424  ·  User Research: Finding What Users Really Need             │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn user research methods to discover what users need before spending
+    months building the wrong thing
+
+  LEARNING OUTCOME
+    You will be able to conduct contextual interviews surveys and
+    observational research and synthesise findings
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Research methods
+    2. interview techniques
+    3. survey design
+    4. affinity diagrams
+    5. insight synthesis
+
+  CAPSTONE PROJECT
+    Conduct and synthesise user research for a real or practice design
+    problem and present findings
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #425  ·  No-Code Tools: Building Real Products Without Coding      │
+│  ● BEGINNER   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn no-code tools that let you build functional web apps mobile apps
+    and automations without writing code
+
+  LEARNING OUTCOME
+    You will be able to build a functioning web application using Bubble
+    Webflow or Glide without any code
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Bubble for web apps
+    2. Glide for mobile
+    3. Webflow for websites
+    4. Zapier for automation
+    5. when to use no-code
+
+  CAPSTONE PROJECT
+    Build a complete functional web app for a small business using a no-code
+    platform
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #426  ·  Designing a Mobile App for Rural Nigerian Users           │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design mobile experiences that work for users with limited
+    connectivity older devices and low digital literacy
+
+  LEARNING OUTCOME
+    You will be able to conduct research with and design for rural Nigerian
+    users outside of major urban centres
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Offline-first design
+    2. data minimisation in UI
+    3. older device constraints
+    4. local language consideration
+
+  CAPSTONE PROJECT
+    Design a complete mobile crop monitoring app for smallholder farmers in
+    rural Nigeria
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #427  ·  Growth Design: Designing for Acquisition and Retention    │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design product experiences that drive user acquisition and
+    keep users coming back
+
+  LEARNING OUTCOME
+    You will be able to apply growth design principles to any product to
+    improve conversion and retention metrics
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Onboarding design
+    2. activation triggers
+    3. habit loops
+    4. notification design
+    5. viral mechanics
+    6. churn reduction
+
+  CAPSTONE PROJECT
+    Redesign the onboarding flow of a real app to improve activation rate
+    based on growth design principles
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #428  ·  Service Design: Designing Beyond the Screen               │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn service design the practice of designing the complete user
+    experience including offline touchpoints
+
+  LEARNING OUTCOME
+    You will be able to map a complete service journey and identify
+    improvements at every online and offline touchpoint
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Service design concept
+    2. service blueprints
+    3. touchpoints
+    4. front and backstage
+    5. service design for government
+
+  CAPSTONE PROJECT
+    Create a complete service blueprint for a Nigerian government service
+    like passport renewal
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #429  ·  Designing the AI Experience: UX for AI-Powered Products   │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design user experiences for AI features that build trust and
+    manage expectations
+
+  LEARNING OUTCOME
+    You will be able to design AI-powered product features that feel helpful
+    transparent and trustworthy
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Designing for uncertainty
+    2. showing AI confidence
+    3. error and correction patterns
+    4. AI onboarding
+    5. trust building
+
+  CAPSTONE PROJECT
+    Design the UX for 3 different AI features in a consumer application with
+    full state coverage
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #430  ·  Brand Identity Design: Building a Brand From Nothing      │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a complete brand identity for a new business from
+    strategy through visual design
+
+  LEARNING OUTCOME
+    You will be able to produce a complete brand identity package including
+    strategy logo colours typography and guidelines
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Brand strategy
+    2. naming
+    3. logo design
+    4. colour and typography system
+    5. brand voice
+    6. brand guidelines document
+
+  CAPSTONE PROJECT
+    Build a complete brand identity for a fictional Nigerian tech startup
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: PROFESSIONAL SKILLS  (30 Courses)                                  ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #431  ·  Technical Writing: Documenting Your Work Like a Profession│
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to write technical documentation that developers can actually
+    understand and use
+
+  LEARNING OUTCOME
+    You will be able to write API documentation README files user guides and
+    technical reports to a professional standard
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Documentation types
+    2. API docs with Postman
+    3. README best practices
+    4. user guide writing
+    5. technical report structure
+
+  CAPSTONE PROJECT
+    Write complete documentation for a real project including API docs README
+    and user guide
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #432  ·  Presenting Technical Work to Non-Technical Stakeholders   │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to explain complex technical concepts to managers clients and
+    non-technical decision makers
+
+  LEARNING OUTCOME
+    You will be able to deliver a compelling presentation of any technical
+    work to a non-technical audience
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Translating technical concepts
+    2. avoiding jargon
+    3. storytelling with data
+    4. presentation structure
+    5. Q&A handling
+
+  CAPSTONE PROJECT
+    Present a technical project to 5 non-technical people and achieve 80%+
+    comprehension score
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #433  ·  Microsoft Word Mastery: Documents That Look Professional  │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use Microsoft Word properly for professional documents with
+    consistent formatting
+
+  LEARNING OUTCOME
+    You will be able to create any professional document in Word with
+    consistent styles automatic TOC and proper formatting
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Styles and themes
+    2. headings and TOC
+    3. page layout
+    4. tables
+    5. track changes
+    6. mail merge
+
+  CAPSTONE PROJECT
+    Create a 20-page professional report using Word styles automatic table of
+    contents and consistent formatting
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #434  ·  PowerPoint Mastery: Presentations That Communicate        │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use PowerPoint to create presentations that communicate
+    clearly and look professional
+
+  LEARNING OUTCOME
+    You will be able to build any professional presentation with consistent
+    design clear messaging and good data visualisation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Slide masters and layouts
+    2. design principles for slides
+    3. data visualisation in PPT
+    4. animation used correctly
+
+  CAPSTONE PROJECT
+    Build a complete 15-slide investor pitch deck for a real or fictional
+    company
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #435  ·  Professional Email Writing                                │
+│  ● BEGINNER   ⏱  2 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to write emails that are clear professional and get the
+    response you need
+
+  LEARNING OUTCOME
+    You will be able to write any professional email from client proposals to
+    formal complaints to government agencies
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Email structure
+    2. subject line optimisation
+    3. tone calibration
+    4. call to action
+    5. handling difficult emails
+
+  CAPSTONE PROJECT
+    Write 10 different professional emails for different situations and
+    evaluate their effectiveness
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #436  ·  Time Management for Tech Professionals                    │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn time management systems specifically for people who do creative and
+    technical work
+
+  LEARNING OUTCOME
+    You will be able to manage your time so that deep technical work gets
+    done without losing track of communications and admin
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Deep work concept
+    2. time blocking
+    3. task prioritisation
+    4. dealing with interruptions
+    5. energy management
+
+  CAPSTONE PROJECT
+    Design and implement a time management system for a week and measure
+    output vs previous week
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #437  ·  Remote Work Skills: Thriving Without an Office            │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to work productively in remote and hybrid environments at
+    professional standards
+
+  LEARNING OUTCOME
+    You will be able to maintain full professional output quality and
+    communication in a fully remote setting
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Async communication
+    2. documentation culture
+    3. visibility without proximity
+    4. remote meeting facilitation
+    5. home office setup
+
+  CAPSTONE PROJECT
+    Set up a complete remote work system and complete a work simulation at
+    professional standard
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #438  ·  Keyboard Shortcuts and Productivity: Saving 2 Hours Every │
+│  ● BEGINNER   ⏱  2 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn keyboard shortcuts and productivity techniques across Windows Linux
+    VSCode and common web tools
+
+  LEARNING OUTCOME
+    You will be able to complete common computing tasks at least 3x faster
+    using keyboard shortcuts and workflow improvements
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Windows and Linux shortcuts
+    2. VSCode shortcuts
+    3. browser DevTools shortcuts
+    4. command line productivity
+
+  CAPSTONE PROJECT
+    Complete 50 computing tasks using only keyboard shortcuts with no mouse
+    usage
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #439  ·  Problem Solving: Thinking Through Hard Technical Problems │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn a systematic approach to solving complex technical problems that
+    every senior developer uses
+
+  LEARNING OUTCOME
+    You will be able to approach any technical problem systematically
+    decompose it into parts and find a solution reliably
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Problem decomposition
+    2. first principles thinking
+    3. rubber duck debugging
+    4. research strategies
+    5. asking for help well
+
+  CAPSTONE PROJECT
+    Work through 5 hard technical problems using the systematic approach and
+    document your process
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #440  ·  Nigerian English for Global Tech Communication            │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to communicate in the international tech world where Nigerian
+    English patterns can cause misunderstanding
+
+  LEARNING OUTCOME
+    You will be able to write and speak in a way that is clear to
+    international colleagues while remaining authentically yourself
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Common communication gaps
+    2. clear writing principles
+    3. international meeting participation
+    4. documentation writing
+
+  CAPSTONE PROJECT
+    Rewrite 5 Nigerian English technical communications into internationally
+    clear versions
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #441  ·  Building a GitHub Profile That Gets You Hired             │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a GitHub profile that serves as a portfolio and
+    attracts employers and contract opportunities
+
+  LEARNING OUTCOME
+    You will have a GitHub profile with at least 5 projects that demonstrates
+    your skills clearly to any recruiter
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Profile README
+    2. project READMEs
+    3. contributing to open source
+    4. pinned repositories
+    5. contribution graph
+
+  CAPSTONE PROJECT
+    Build a complete professional GitHub profile and publish 5 projects with
+    full documentation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #442  ·  CV and Resume Writing for Tech Roles                      │
+│  ● BEGINNER   ⏱  2 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to write a tech CV that passes ATS screening and impresses
+    hiring managers
+
+  LEARNING OUTCOME
+    You will be able to write a CV that accurately represents your skills and
+    gets called for interviews
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. ATS optimisation
+    2. quantifying achievements
+    3. skills section for tech
+    4. project descriptions
+    5. format and length
+
+  CAPSTONE PROJECT
+    Write a complete tech CV tailored to a specific job description
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #443  ·  Interview Preparation: Technical and Behavioural          │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to prepare for and perform well in technical interviews for
+    developer and tech roles
+
+  LEARNING OUTCOME
+    You will be able to solve common coding interview questions and answer
+    behavioural questions using the STAR method
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Data structures questions
+    2. algorithm practice
+    3. system design basics
+    4. STAR method
+    5. salary negotiation
+
+  CAPSTONE PROJECT
+    Complete 20 practice interview questions and conduct 2 mock interview
+    sessions
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #444  ·  System Design Interviews: Designing Systems Under Pressure│
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to approach system design interview questions that senior
+    developer roles require
+
+  LEARNING OUTCOME
+    You will be able to design any large-scale system in a 45-minute
+    interview using a structured approach
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Requirements clarification
+    2. capacity estimation
+    3. high-level design
+    4. component deep dives
+    5. trade-off discussion
+
+  CAPSTONE PROJECT
+    Design 5 systems from scratch including a URL shortener chat app and
+    ride-hailing service
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #445  ·  Mentoring Junior Developers: Teaching What You Know       │
+│  ◎ ADVANCED   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to mentor junior developers effectively so they grow faster and
+    become better team members
+
+  LEARNING OUTCOME
+    You will be able to provide structured mentoring that accelerates a
+    junior developer's growth meaningfully
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Mentoring vs managing
+    2. structured learning plans
+    3. code review as teaching
+    4. giving effective feedback
+
+  CAPSTONE PROJECT
+    Design and execute a 4-week mentoring plan for a junior developer in your
+    area
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #446  ·  Teaching Tech: Explaining Things Simply                   │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to explain technical concepts to beginners in a way that
+    actually helps them understand
+
+  LEARNING OUTCOME
+    You will be able to explain any technical concept clearly using analogies
+    examples and structured progression
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. The curse of knowledge
+    2. analogies and examples
+    3. scaffolding complexity
+    4. checking understanding
+
+  CAPSTONE PROJECT
+    Teach 3 technical concepts to non-technical people and measure their
+    comprehension
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #447  ·  Open Source Contribution: Giving Back and Building Skills │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to find contribute to and get recognised for open source
+    contributions
+
+  LEARNING OUTCOME
+    You will be able to make a genuine contribution to an open source project
+    and navigate the collaboration process
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Finding projects
+    2. reading contribution guidelines
+    3. forking and PRs
+    4. issue selection
+    5. community norms
+
+  CAPSTONE PROJECT
+    Make at least one accepted pull request contribution to a real
+    open-source project
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #448  ·  Working in a Tech Team: Collaboration and Communication   │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to work effectively in a software development team including
+    code review standups and documentation
+
+  LEARNING OUTCOME
+    You will be able to function as a productive member of any software
+    development team from day one
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Daily standups
+    2. code review etiquette
+    3. writing commit messages
+    4. documentation culture
+    5. conflict resolution
+
+  CAPSTONE PROJECT
+    Participate in a simulated sprint with a team and complete all team
+    collaboration requirements
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #449  ·  Salary Negotiation for Tech Professionals in Nigeria      │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to negotiate salary and contract rates confidently in the
+    Nigerian and international tech market
+
+  LEARNING OUTCOME
+    You will be able to negotiate a salary that is at or above market rate
+    using the techniques in this course
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Market research for tech salaries
+    2. anchoring strategies
+    3. handling counters
+    4. negotiating benefits
+    5. total compensation
+
+  CAPSTONE PROJECT
+    Role-play 5 salary negotiation scenarios at different experience levels
+    and evaluate outcomes
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #450  ·  Tech Job Search in Nigeria: Finding the Right Role        │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to find evaluate and apply for technology jobs in Nigeria's
+    growing tech ecosystem
+
+  LEARNING OUTCOME
+    You will be able to identify the right companies apply effectively and
+    navigate the Nigerian tech hiring process
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nigerian tech job market
+    2. where to look
+    3. application customisation
+    4. networking for jobs
+    5. recruiter relationships
+
+  CAPSTONE PROJECT
+    Identify and apply to 5 relevant tech roles with tailored applications
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #451  ·  Scrum Master Skills: Running Effective Agile Teams        │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the Scrum framework and how to facilitate it effectively as a Scrum
+    Master or team lead
+
+  LEARNING OUTCOME
+    You will be able to run sprint planning daily standups sprint reviews and
+    retrospectives that improve team performance
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Scrum theory
+    2. events and artefacts
+    3. facilitating ceremonies
+    4. resolving impediments
+    5. team health
+
+  CAPSTONE PROJECT
+    Facilitate a complete 2-week Scrum sprint for a real or practice team
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #452  ·  Conflict Resolution in Tech Teams                         │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to identify and resolve technical and interpersonal conflicts
+    in software development teams
+
+  LEARNING OUTCOME
+    You will be able to navigate common tech team conflicts from code
+    ownership disputes to missed deadlines
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Types of team conflict
+    2. interest-based negotiation
+    3. mediation basics
+    4. difficult conversations
+    5. blameless culture
+
+  CAPSTONE PROJECT
+    Resolve 5 simulated tech team conflict scenarios using the frameworks
+    from the course
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #453  ·  Building a Study Habit: Learning Technical Skills Efficien│
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the science of learning applied to acquiring technical skills as an
+    adult
+
+  LEARNING OUTCOME
+    You will be able to design a personal learning system that gets you from
+    zero to competent in any technical skill faster
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Spaced repetition
+    2. active recall
+    3. deliberate practice
+    4. project-based learning
+    5. avoiding tutorial hell
+
+  CAPSTONE PROJECT
+    Design and execute a 4-week learning sprint for a specific technical
+    skill using the framework
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #454  ·  Postmortem Writing: Learning From Failures Professionally │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to write blameless postmortems that help teams learn from
+    incidents without finger-pointing
+
+  LEARNING OUTCOME
+    You will be able to write a complete incident postmortem that identifies
+    root causes and prevents recurrence
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What a postmortem is
+    2. blameless culture
+    3. timeline reconstruction
+    4. 5 Whys analysis
+    5. action items
+
+  CAPSTONE PROJECT
+    Write a complete postmortem for a simulated production incident
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #455  ·  Technical Debt: Managing and Communicating the Real Cost  │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to identify measure and communicate technical debt to
+    non-technical stakeholders
+
+  LEARNING OUTCOME
+    You will be able to quantify technical debt in a codebase and present a
+    justified remediation plan to management
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What technical debt is
+    2. measuring it
+    3. types of debt
+    4. communicating to non-technical people
+    5. prioritisation
+
+  CAPSTONE PROJECT
+    Audit a codebase for technical debt quantify it and write a business case
+    for addressing it
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #456  ·  Networking in Tech: Getting Ahead Through Relationships   │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a professional network in Nigerian and international
+    tech that creates opportunities
+
+  LEARNING OUTCOME
+    You will be able to build genuine professional relationships in tech that
+    generate job offers contracts and collaborations
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Networking mindset
+    2. Twitter X and LinkedIn strategy
+    3. tech events
+    4. informational interviews
+    5. giving before taking
+
+  CAPSTONE PROJECT
+    Build and document 10 new meaningful professional connections in the
+    Nigerian tech community
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #457  ·  Writing a Technical Blog: Sharing Knowledge and Building R│
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to write technical blog posts that demonstrate your expertise
+    and attract career opportunities
+
+  LEARNING OUTCOME
+    You will be able to write and publish technical posts that are shared and
+    read by other developers
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Topic selection
+    2. writing for developers
+    3. code examples in posts
+    4. publishing on Dev.to and Hashnode
+    5. SEO
+
+  CAPSTONE PROJECT
+    Write and publish 3 technical blog posts and achieve at least 50 reads on
+    each
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #458  ·  Speaking at Tech Events: Building Visibility              │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to prepare for and deliver talks at tech meetups and
+    conferences in Nigeria
+
+  LEARNING OUTCOME
+    You will be able to prepare a 20-minute technical talk and deliver it to
+    a live audience confidently
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Talk proposal writing
+    2. presentation structure
+    3. demo preparation
+    4. handling nerves
+    5. Q&A
+
+  CAPSTONE PROJECT
+    Prepare and deliver a complete 20-minute technical talk at a meetup or
+    recorded session
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #459  ·  Personal KPIs: Tracking Your Professional Growth          │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to set and track personal performance metrics that keep your
+    career growing systematically
+
+  LEARNING OUTCOME
+    You will be able to define track and act on personal KPIs that measure
+    your technical and professional growth
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Personal OKRs
+    2. skill tracking
+    3. income and impact metrics
+    4. quarterly review process
+    5. public accountability
+
+  CAPSTONE PROJECT
+    Set up a personal KPI dashboard and complete a 4-week tracking cycle
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #460  ·  Professional Boundaries: Protecting Your Time and Work    │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to set professional boundaries with clients employers and
+    colleagues that protect your energy and output
+
+  LEARNING OUTCOME
+    You will be able to decline scope creep set working hour expectations and
+    communicate limits without damaging relationships
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Scope creep patterns
+    2. setting expectations upfront
+    3. saying no professionally
+    4. contract protections
+
+  CAPSTONE PROJECT
+    Practice saying no to 5 different boundary-violation scenarios using the
+    frameworks
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: NIGERIAN CONTEXT TECH  (40 Courses)                                ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #461  ·  USSD Development: Building for the 2G Nigerian Phone      │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build USSD applications that work on any phone without
+    internet — reaching 90% of Nigerians
+
+  LEARNING OUTCOME
+    You will be able to build a complete USSD menu system that handles
+    multi-step interactions on any mobile network
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. How USSD works
+    2. USSD gateway APIs
+    3. session management
+    4. menu design
+    5. Africa's Talking USSD API
+
+  CAPSTONE PROJECT
+    Build a USSD app for school result checking that works on any basic phone
+    in Nigeria
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #462  ·  M-Commerce for Nigerian SMEs: Selling on WhatsApp         │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a complete e-commerce system that operates entirely
+    through WhatsApp
+
+  LEARNING OUTCOME
+    You will be able to sell products take orders handle payments and manage
+    inventory entirely through WhatsApp
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. WhatsApp Business API
+    2. catalogue
+    3. order flow
+    4. payment link integration
+    5. order management
+
+  CAPSTONE PROJECT
+    Build a complete WhatsApp-based shop for a fashion or food business
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #463  ·  Nigerian Fintech Stack: NIP NIBSS and Banking APIs        │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the technical infrastructure behind Nigerian payments and how to
+    build on top of it
+
+  LEARNING OUTCOME
+    You will be able to explain NIP NIBSS BVN NIN and build applications that
+    integrate Nigerian financial infrastructure
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. NIBSS NIP
+    2. NIP transfer flow
+    3. BVN verification
+    4. NIN integration
+    5. interbank settlement
+    6. NEFT vs NIP
+
+  CAPSTONE PROJECT
+    Build an integration that initiates a NIP transfer and verifies the
+    recipient BVN
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #464  ·  Flutterwave Complete Integration Guide                    │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to integrate every Flutterwave payment product into web and
+    mobile applications
+
+  LEARNING OUTCOME
+    You will be able to process card mobile money bank transfer and USSD
+    payments through Flutterwave in any app
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Inline checkout
+    2. standard API
+    3. webhook verification
+    4. split payments
+    5. refunds
+    6. Flutterwave for Business
+
+  CAPSTONE PROJECT
+    Build a complete e-commerce checkout using Flutterwave with all payment
+    methods and webhooks
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #465  ·  Paystack Complete Integration Guide                       │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to integrate Paystack the most developer-friendly Nigerian
+    payment gateway
+
+  LEARNING OUTCOME
+    You will be able to accept payments verify transactions split revenue and
+    handle all Paystack webhook events
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Payment initialisation and verification
+    2. subaccounts for split payments
+    3. recurring charges
+    4. refunds
+    5. testing
+
+  CAPSTONE PROJECT
+    Build a subscription billing system using Paystack recurring charges with
+    automatic retry
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #466  ·  Africa's Talking: SMS Voice and USSD for African Apps     │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the Africa's Talking API platform for building voice SMS USSD and
+    airtime applications
+
+  LEARNING OUTCOME
+    You will be able to send bulk SMS receive inbound SMS build voice calls
+    and deploy USSD apps using Africa's Talking
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. API authentication
+    2. SMS sending and receiving
+    3. voice call management
+    4. USSD app deployment
+    5. airtime topup
+
+  CAPSTONE PROJECT
+    Build a multi-channel notification system using SMS voice and USSD from
+    Africa's Talking
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #467  ·  Nigerian Government Systems: How E-Government Works       │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand how Nigerian government digital services are structured and
+    how to build systems that integrate with them
+
+  LEARNING OUTCOME
+    You will be able to navigate Nigerian government digital systems identify
+    integration points and build compliant applications
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. FIRS TaxPro Max
+    2. CAC Online
+    3. NIMC API
+    4. eCitizen concept
+    5. government procurement systems
+
+  CAPSTONE PROJECT
+    Map the digital touchpoints for starting and operating a business in
+    Nigeria using only government portals
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #468  ·  GSM Business in Nigeria: Building Telco-Adjacent Applicati│
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build applications that leverage Nigeria's mobile network
+    infrastructure
+
+  LEARNING OUTCOME
+    You will be able to build applications that use SMS bulk messaging
+    airtime VTU and mobile data
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nigeria MNO API landscape
+    2. MTN Glo Airtel 9mobile APIs
+    3. bulk SMS aggregators
+    4. VTU APIs
+    5. shortcodes
+
+  CAPSTONE PROJECT
+    Build a bulk SMS notification system that sends personalised messages to
+    1000 contacts
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #469  ·  BVN and NIN Verification Integration                      │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to integrate BVN and NIN verification into any application for
+    KYC compliance
+
+  LEARNING OUTCOME
+    You will be able to implement identity verification using BVN and NIN in
+    a web or mobile application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. BVN verification APIs
+    2. NIN verification
+    3. NINAuth integration
+    4. identity match scoring
+    5. NDPC compliance
+
+  CAPSTONE PROJECT
+    Build a KYC verification flow that verifies BVN and NIN before allowing
+    account creation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #470  ·  Electricity and Utility Token Generation Integration      │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to integrate NERC-compliant electricity token generation into
+    any e-commerce platform
+
+  LEARNING OUTCOME
+    You will be able to process electricity payments generate tokens for any
+    DISCO and handle payment failures
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. NERC token system
+    2. DISCO APIs
+    3. VTPass integration
+    4. token format
+    5. error handling and retry
+
+  CAPSTONE PROJECT
+    Build a complete electricity vending system for all major Nigerian DISCOs
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #471  ·  Building for Low-Connectivity Environments in Nigeria     │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build web and mobile applications that remain functional in
+    2G and limited data environments
+
+  LEARNING OUTCOME
+    You will be able to design and build applications that work well in
+    Nigeria's variable network conditions
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Progressive loading
+    2. data minimisation
+    3. offline-first with service workers
+    4. image optimisation
+    5. USSD fallback
+
+  CAPSTONE PROJECT
+    Optimise a web application to load and function correctly on a 2G network
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #472  ·  Nigerian English NLP: Processing Text in Nigerian Context │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the unique challenges of natural language processing for Nigerian
+    English and Pidgin
+
+  LEARNING OUTCOME
+    You will be able to build NLP models that handle Nigerian English slang
+    code-switching and informal text
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nigerian English patterns
+    2. Pidgin English NLP
+    3. code-switching detection
+    4. preprocessing Nigerian text
+
+  CAPSTONE PROJECT
+    Build a sentiment analysis model that accurately handles Nigerian Twitter
+    text including Pidgin
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #473  ·  Digital Safety for Nigerian Users                         │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to protect yourself and your users from the unique digital
+    threats facing Nigerians
+
+  LEARNING OUTCOME
+    You will be able to educate users about and implement protections against
+    Nigerian-specific cyber threats
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. 419 advance fee fraud
+    2. SIM swap attacks
+    3. account takeover tactics
+    4. safe banking practices
+    5. scam identification
+
+  CAPSTONE PROJECT
+    Build a digital safety training curriculum for a Nigerian SME
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #474  ·  AgriTech for Nigerian Farmers: Building Digital Farm Tools│
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build digital tools that address the specific problems faced
+    by Nigerian smallholder farmers
+
+  LEARNING OUTCOME
+    You will be able to design and build digital products that provide real
+    value to farming communities
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Farmer user research
+    2. offline-first requirements
+    3. voice interface considerations
+    4. market price integration
+
+  CAPSTONE PROJECT
+    Design and prototype a digital tool that solves a specific problem for
+    Nigerian cassava farmers
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #475  ·  E-Commerce for Nigerian Markets: Selling Online in Nigeria│
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build e-commerce systems tailored to Nigerian buyer and
+    seller behaviour
+
+  LEARNING OUTCOME
+    You will be able to build an e-commerce platform that handles Nigerian
+    payment methods delivery challenges and trust issues
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Trust signals for Nigerian buyers
+    2. COD vs prepaid
+    3. last-mile delivery integration
+    4. Gigrush Sendbox APIs
+
+  CAPSTONE PROJECT
+    Build a complete e-commerce site with Nigerian payment methods and
+    delivery integration
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #476  ·  HealthTech for Nigeria: Building Healthcare Apps          │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build health technology applications that serve Nigerian
+    patients and healthcare providers
+
+  LEARNING OUTCOME
+    You will be able to design and build a healthcare application that
+    complies with Nigerian health data guidelines
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nigerian healthcare landscape
+    2. NHIA integration
+    3. patient data privacy
+    4. telemedicine regulations
+    5. HMIS systems
+
+  CAPSTONE PROJECT
+    Build a telemedicine booking system for a Nigerian private clinic
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #477  ·  EdTech for Nigerian Students: Building Learning Apps      │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build educational technology that works within the
+    constraints and context of Nigerian education
+
+  LEARNING OUTCOME
+    You will be able to design and build a learning product that Nigerian
+    students can access and afford
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. WAEC and JAMB content alignment
+    2. feature phone support
+    3. offline content
+    4. pricing for students
+
+  CAPSTONE PROJECT
+    Build a WAEC past questions app that works offline on low-end Android
+    devices
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #478  ·  Building for Nigerian Languages: Localisation at Scale    │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build applications that support Yoruba Hausa Igbo and other
+    Nigerian languages properly
+
+  LEARNING OUTCOME
+    You will be able to implement full localisation for any application
+    including right-to-left support and language switching
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. i18n for Nigerian languages
+    2. font support
+    3. right-to-left for Arabic-influenced languages
+    4. language detection
+
+  CAPSTONE PROJECT
+    Add Hausa and Yoruba language support to a complete web application
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #479  ·  Nigerian Tax and Accounting Systems                       │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build software that handles Nigerian tax obligations
+    including VAT WHT and PAYE correctly
+
+  LEARNING OUTCOME
+    You will be able to build financial software that correctly calculates
+    and reports Nigerian taxes
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. FIRS tax types
+    2. VAT and VAT exclusive pricing
+    3. WHT rates
+    4. PAYE calculation
+    5. FIRS TaxPro Max integration
+
+  CAPSTONE PROJECT
+    Build a payroll system that automatically calculates PAYE and generates
+    FIRS-format reports
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #480  ·  Building for the Informal Economy: Cash and No-Bank-Accoun│
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build digital products that serve the majority of Nigerians
+    who use cash or informal finance
+
+  LEARNING OUTCOME
+    You will be able to design digital products that accommodate cash
+    collection unbanked users and informal records
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Agent banking model
+    2. OPay PalmPay ecosystem
+    3. cash-in cash-out design
+    4. agent network building
+
+  CAPSTONE PROJECT
+    Design and prototype a digital tool for an informal market trader who has
+    no bank account
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #481  ·  Agile in Nigerian Teams: Making It Work Here              │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to adapt Agile methodology to work within the cultural and
+    operational realities of Nigerian teams
+
+  LEARNING OUTCOME
+    You will be able to run Agile effectively in a Nigerian context
+    considering power dynamics communication styles and infrastructure
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nigerian workplace culture
+    2. adapting standups and retrospectives
+    3. handling hierarchy in sprints
+    4. remote challenges
+
+  CAPSTONE PROJECT
+    Run a 2-week adapted Agile sprint with a real or simulated Nigerian team
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #482  ·  Government API Integrations: Working With Public Data     │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use publicly available Nigerian government datasets and APIs
+    in applications
+
+  LEARNING OUTCOME
+    You will be able to integrate publicly available Nigerian data sources
+    including NBS datasets into applications
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. NBS data
+    2. Central Bank data
+    3. NERC open data
+    4. geospatial Nigeria data
+    5. data licence considerations
+
+  CAPSTONE PROJECT
+    Build a dashboard using 3 real Nigerian government datasets
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #483  ·  Building a Dispatch and Logistics App                     │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build an on-demand logistics and delivery application for
+    the Nigerian urban market
+
+  LEARNING OUTCOME
+    You will be able to build a basic ride or delivery matching system with
+    real-time tracking and payment
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Driver and customer apps
+    2. geolocation
+    3. job matching
+    4. real-time tracking
+    5. payment split
+
+  CAPSTONE PROJECT
+    Build a simplified delivery matching app with driver and customer
+    interfaces
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #484  ·  School Management System: Built for Nigerian Schools      │
+│  ◉ INTERMEDIATE   ⏱  12 hours                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a comprehensive school management system tailored to
+    Nigerian school operations
+
+  LEARNING OUTCOME
+    You will be able to build a complete school system with student records
+    attendance results fees and reports
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nigerian school structure
+    2. WAEC and NECO alignment
+    3. fee management
+    4. CBT module
+    5. parent portal
+
+  CAPSTONE PROJECT
+    Build a complete school management system for a Nigerian secondary school
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #485  ·  Church and Religious Organisation Management System       │
+│  ● BEGINNER   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build management software for the unique operational needs
+    of Nigerian churches
+
+  LEARNING OUTCOME
+    You will be able to build a church management system with member records
+    giving attendance and communications
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Membership management
+    2. tithe and offering tracking
+    3. attendance
+    4. event management
+    5. SMS communications
+
+  CAPSTONE PROJECT
+    Build a complete church management system including a giving portal and
+    WhatsApp digest
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #486  ·  Hotel and Hospitality Management for Nigerian Businesses  │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build property management and booking systems for Nigerian
+    hotels and guesthouses
+
+  LEARNING OUTCOME
+    You will be able to build a hotel management system with reservations
+    payment room management and reporting
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Room management
+    2. reservation calendar
+    3. checkin checkout
+    4. Flutterwave for booking deposits
+    5. reporting
+
+  CAPSTONE PROJECT
+    Build a complete hotel management system for a 20-room Nigerian
+    guesthouse
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #487  ·  Cooperative and Thrift Society Management System          │
+│  ● BEGINNER   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build financial management software for Nigerian
+    cooperatives and thrift organisations
+
+  LEARNING OUTCOME
+    You will be able to build a complete cooperative management system with
+    member contributions loans and statements
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Member registration
+    2. contribution tracking
+    3. loan application and approval
+    4. interest calculation
+    5. statement generation
+
+  CAPSTONE PROJECT
+    Build a complete cooperative management system for an active Nigerian
+    cooperative
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #488  ·  Building a VTU Business: PayQuick-Style Applications      │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a Value-Added Services and VTU platform from scratch
+
+  LEARNING OUTCOME
+    You will be able to build a complete VTU application with airtime data
+    bills payment and an agent dashboard
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. VTU business model
+    2. VTPass and other aggregators
+    3. commission structures
+    4. agent management
+    5. transaction history
+
+  CAPSTONE PROJECT
+    Build a complete VTU application with user registration wallet payment
+    and agent dashboard
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #489  ·  Nigerian Startup Legal Foundations                        │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the essential legal foundations for running a Nigerian technology
+    startup correctly
+
+  LEARNING OUTCOME
+    You will be able to set up your startup legally manage IP protect
+    co-founder relationships and handle basic contracts
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. CAC registration options
+    2. IP protection
+    3. employment law basics
+    4. contract essentials
+    5. regulatory compliance for tech
+
+  CAPSTONE PROJECT
+    Complete all legal setup tasks for a new tech startup including CAC
+    registration and template contracts
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #490  ·  Digital Marketing for Nigerian Audiences                  │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to run digital marketing campaigns that resonate with Nigerian
+    audiences across platforms
+
+  LEARNING OUTCOME
+    You will be able to run Facebook Instagram TikTok and Google Ads
+    campaigns that generate measurable returns for Nigerian products
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Understanding Nigerian social media behaviour
+    2. content that converts in Nigeria
+    3. naira budgeting for ads
+    4. influencer marketing
+
+  CAPSTONE PROJECT
+    Run a complete digital marketing campaign for a Nigerian product and
+    measure ROAS
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #491  ·  Building a Food Delivery App for Nigerian Cities          │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a food ordering and delivery platform tailored to
+    Nigerian urban operations
+
+  LEARNING OUTCOME
+    You will be able to build a working food delivery app with restaurant
+    onboarding customer ordering and rider dispatch
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Restaurant and customer apps
+    2. menu management
+    3. order lifecycle
+    4. rider assignment
+    5. delivery fee calculation
+
+  CAPSTONE PROJECT
+    Build a simplified food delivery app with restaurant customer and rider
+    roles
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #492  ·  Real Estate Technology for Nigeria                        │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build property listing search and management technology for
+    the Nigerian real estate market
+
+  LEARNING OUTCOME
+    You will be able to build a real estate platform with listings search map
+    integration agent profiles and lead generation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nigerian real estate market
+    2. property listing management
+    3. location-based search
+    4. WhatsApp lead generation
+
+  CAPSTONE PROJECT
+    Build a complete real estate listing platform for a Nigerian city
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #493  ·  Building a Nigerian News and Media Platform               │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a news website or app that serves Nigerian audiences
+    reliably at scale
+
+  LEARNING OUTCOME
+    You will be able to build a complete news platform with article
+    management categories search and monetisation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. CMS architecture
+    2. article management
+    3. categories and tags
+    4. ad integration
+    5. push notifications
+
+  CAPSTONE PROJECT
+    Build a complete news platform with admin CMS reader interface and push
+    notifications
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #494  ·  Security Technology for Nigerian Businesses               │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build security management systems for Nigerian security
+    firms and businesses
+
+  LEARNING OUTCOME
+    You will be able to build a guard management patrol verification and
+    incident reporting system
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Guard scheduling
+    2. patrol checkpoints with QR codes
+    3. incident reporting
+    4. client portal
+    5. shift reports
+
+  CAPSTONE PROJECT
+    Build a complete security patrol and incident management system
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #495  ·  NDPC Compliance: Building Data-Compliant Applications     │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the Nigeria Data Protection Commission Act 2023 and how to build
+    applications that are fully compliant
+
+  LEARNING OUTCOME
+    You will be able to audit any application for NDPC 2023 compliance and
+    implement all required controls
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. NDPC 2023 key requirements
+    2. lawful basis for processing
+    3. consent management
+    4. DPO requirements
+    5. breach reporting
+
+  CAPSTONE PROJECT
+    Conduct a full NDPC 2023 compliance audit of a web application and
+    implement all fixes
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #496  ·  Building the Silabs Academy Platform                      │
+│  ◎ ADVANCED   ⏱  12 hours                                                  │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build the actual Silabs Academy learning management system
+    from architecture to deployment
+
+  LEARNING OUTCOME
+    You will be able to build a complete LMS with course management student
+    progress video hosting and payment
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. LMS architecture
+    2. course structure
+    3. progress tracking
+    4. video hosting
+    5. quiz system
+    6. payment integration
+
+  CAPSTONE PROJECT
+    Build a functional version of the Silabs Academy platform with at least 5
+    working features
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #497  ·  UniXpress: Building a Student Super-Platform              │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a platform like UniXpress that serves Nigerian
+    university students across multiple needs
+
+  LEARNING OUTCOME
+    You will be able to build the core features of a student platform
+    including resources marketplace and placement
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Student platform architecture
+    2. SIWES placement feature
+    3. student marketplace
+    4. notes monetisation
+
+  CAPSTONE PROJECT
+    Build 3 core features of a student platform: resource library,
+    marketplace, and placement matching
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #498  ·  Project Vanguard: Building a Voice Intelligence System    │
+│  ◎ ADVANCED   ⏱  10 hours                                                  │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build an audio intelligence system for processing and
+    analysing voice evidence
+
+  LEARNING OUTCOME
+    You will be able to build a working voice identification and
+    transcription pipeline with chain-of-custody documentation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Voice embedding with SpeechBrain
+    2. Whisper transcription
+    3. FAISS search
+    4. SHA-256 hashing
+    5. report generation
+
+  CAPSTONE PROJECT
+    Build a working voice intelligence pipeline that identifies a speaker
+    from 10 enrolled voiceprints
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #499  ·  Building AlumBridge: Alumni Network Platform              │
+│  ◉ INTERMEDIATE   ⏱  10 hours                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a complete alumni network platform with directory jobs
+    donations and events
+
+  LEARNING OUTCOME
+    You will be able to build a full alumni platform with all core social and
+    professional networking features
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Alumni profile system
+    2. job board
+    3. donation with bank transfer flow
+    4. events management
+    5. messaging
+
+  CAPSTONE PROJECT
+    Build a complete alumni platform for a Nigerian university
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #500  ·  Techdialect: Building Multilingual STEM Content Platforms │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build platforms that deliver STEM education in local
+    languages using AI translation
+
+  LEARNING OUTCOME
+    You will be able to build a localised STEM content platform with
+    AI-powered translation and user contribution workflow
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Content management
+    2. NLLB translation integration
+    3. admin approval workflow
+    4. multi-language delivery
+    5. community contribution
+
+  CAPSTONE PROJECT
+    Build a functional version of the Techdialect platform with English and
+    one Nigerian language
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+==============================================================================
+  END OF BATCH 5 — COURSES #401 TO #500
+  SILABS ACADEMY FULL CURRICULUM COMPLETE — ALL 500 COURSES DOCUMENTED
+
+  CURRICULUM SUMMARY:
+  Batch 1 — Courses #001–100   How the Web Works + Programming Foundations
+  Batch 2 — Courses #101–200   Artificial Intelligence + Entrepreneurship
+  Batch 3 — Courses #201–300   Entrepreneurship (cont.) + IoT + Cybersecurity
+  Batch 4 — Courses #301–400   Cybersecurity (cont.) + Data + Cloud/DevOps
+  Batch 5 — Courses #401–500   Design & Product + Professional Skills +
+                                Nigerian Context Tech
+
+  Total Tracks  : 12
+  Total Courses : 500
+  Total Hours   : 2,500+ hours of structured learning
+
+  Empowering businesses and nurturing the next generation of IT professionals.
+  Silabs and Co Technologies Ltd — www.silabs.com.ng
+==============================================================================

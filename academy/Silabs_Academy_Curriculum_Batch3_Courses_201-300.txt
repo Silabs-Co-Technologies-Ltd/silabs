@@ -1,0 +1,2615 @@
+==============================================================================
+  SILABS ACADEMY — DETAILED CURRICULUM
+  Courses #201 to #300 | Batch 3 of 5
+  Prepared by: Abel Priscilla, Director of Technology & Innovations
+  Silabs and Co Technologies Ltd | April 2026
+==============================================================================
+
+TRACKS COVERED IN THIS BATCH:
+  Track E — Entrepreneurship (Cont.)  Courses #201 – #245  (45 courses)
+  Track F — IoT and Hardware          Courses #246 – #290  (45 courses)
+  Track G — Cybersecurity (Partial)   Courses #291 – #300  (10 courses)
+
+CURRICULUM FIELDS:
+  Overview     · What this course is about
+  Outcome      · What you can do after completing it
+  Concepts     · Core knowledge and skills covered
+  Project      · The hands-on deliverable you will build
+  Duration     · Estimated completion time
+  Level        · Foundation / Beginner / Intermediate / Advanced
+
+==============================================================================
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: ENTREPRENEURSHIP (CONTINUED)  (45 Courses)                         ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #201  ·  Grant Writing for Tech Startups: Free Money That Exists   │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to find and apply for grants specifically available to Nigerian
+    tech startups
+
+  LEARNING OUTCOME
+    You will be able to identify relevant grants complete applications
+    convincingly and track your submissions
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. TEF application
+    2. Tony Elumelu programme
+    3. NITDA
+    4. Google.org
+    5. World Bank grants
+    6. application strategy
+
+  CAPSTONE PROJECT
+    Write a complete application for the Tony Elumelu Foundation
+    Entrepreneurship Programme
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #202  ·  Building a Personal Brand as a Tech Professional          │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a personal brand that makes clients find you instead
+    of you finding them
+
+  LEARNING OUTCOME
+    You will be able to create a consistent personal brand presence that
+    generates inbound opportunities
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Personal brand concept
+    2. LinkedIn optimisation
+    3. Twitter/X strategy
+    4. blogging and thought leadership
+
+  CAPSTONE PROJECT
+    Build your complete personal brand across LinkedIn GitHub and one blog
+    platform
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #203  ·  LinkedIn for Tech Professionals: The Platform That Gets Jo│
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to optimise LinkedIn to attract recruiters investors and
+    clients
+
+  LEARNING OUTCOME
+    You will be able to build a LinkedIn profile that ranks in recruiter
+    searches and actively generates opportunities
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Profile optimisation
+    2. keyword strategy
+    3. content creation for LinkedIn
+    4. connection strategy
+    5. DM templates
+
+  CAPSTONE PROJECT
+    Build a fully optimised LinkedIn profile and a 30-day posting strategy
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #204  ·  Productising Your Service: From Custom Work to Scalable In│
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to turn your custom service work into a standardised product
+    that can be sold repeatedly
+
+  LEARNING OUTCOME
+    You will be able to define package your price and market a standardised
+    service as if it were a product
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Productisation concept
+    2. fixed-scope packages
+    3. delivery systems
+    4. documentation
+    5. scaling without more hours
+
+  CAPSTONE PROJECT
+    Productise one of your current services into 3 clear packages with fixed
+    prices and deliverables
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #205  ·  Building Passive Income Streams as a Developer            │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build income that continues earning without trading time for
+    money
+
+  LEARNING OUTCOME
+    You will be able to launch at least one passive income stream using your
+    tech skills
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Digital products
+    2. course creation
+    3. SaaS micro-tools
+    4. templates and themes
+    5. open-source monetisation
+
+  CAPSTONE PROJECT
+    Launch one digital product that earns its first sale without active
+    selling
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #206  ·  Customer Retention: Keeping Clients for Years             │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to keep clients coming back and referring others rather than
+    always hunting new business
+
+  LEARNING OUTCOME
+    You will be able to implement a customer success system that increases
+    repeat business by at least 30%
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Onboarding
+    2. regular check-ins
+    3. delivering more than promised
+    4. upselling
+    5. referral programmes
+
+  CAPSTONE PROJECT
+    Build a complete client retention system for a tech service business
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #207  ·  Project Management for Tech Freelancers                   │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to manage multiple client projects simultaneously without
+    missing deadlines
+
+  LEARNING OUTCOME
+    You will be able to manage 3 or more concurrent projects using Trello or
+    Notion with clear milestones
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Scope management
+    2. milestone tracking
+    3. client communication
+    4. scope creep prevention
+    5. delivery checklist
+
+  CAPSTONE PROJECT
+    Set up a project management system that tracks 5 simultaneous client
+    projects
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #208  ·  Negotiation: Getting Paid What You Deserve                │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn negotiation skills specifically for tech contractors and
+    freelancers in Nigerian and international markets
+
+  LEARNING OUTCOME
+    You will be able to negotiate rates confidently counter low offers and
+    close at your desired price
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Anchoring
+    2. BATNA
+    3. silence as a tool
+    4. Nigerian negotiation norms
+    5. international rate negotiation
+
+  CAPSTONE PROJECT
+    Role-play 5 rate negotiation scenarios for tech services and evaluate
+    outcomes
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #209  ·  Building a Tech Business Without Capital                  │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to start and grow a technology business using skills and sweat
+    equity instead of money
+
+  LEARNING OUTCOME
+    You will be able to identify and execute a path to first revenue without
+    needing startup funding
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Bootstrapping strategies
+    2. barter and equity deals
+    3. open source tools
+    4. free hosting
+    5. bartering services
+
+  CAPSTONE PROJECT
+    Create a 90-day plan to launch a tech business with zero capital
+    investment
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #210  ·  Creating and Selling Online Courses: Your Knowledge as Inc│
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to turn your expertise into an online course and sell it to
+    students across Nigeria and beyond
+
+  LEARNING OUTCOME
+    You will be able to design record edit and sell a complete online course
+    in your area of expertise
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Course design
+    2. recording setup
+    3. video editing basics
+    4. Selar and Teachable platforms
+    5. marketing
+
+  CAPSTONE PROJECT
+    Design and launch the first module of a real course you will sell
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #211  ·  Building a SaaS for Nigerian SMEs                         │
+│  ◉ INTERMEDIATE   ⏱  10 hours                                              │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build simple software tools that Nigerian small businesses
+    will pay for monthly
+
+  LEARNING OUTCOME
+    You will be able to identify a Nigerian SME pain point build a simple
+    SaaS solution and launch it to first subscribers
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nigerian SME pain points
+    2. simple SaaS architecture
+    3. payment integration
+    4. onboarding
+    5. churn prevention
+
+  CAPSTONE PROJECT
+    Build and launch a simple SaaS tool for a specific Nigerian small
+    business type
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #212  ·  Tech Consulting: High-Paid Advisory for Businesses        │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to position yourself as a tech consultant who advises
+    businesses rather than just building for them
+
+  LEARNING OUTCOME
+    You will be able to offer and price tech consulting engagements that pay
+    3-5x what project work pays
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Consulting vs contracting
+    2. advisory pricing
+    3. discovery process
+    4. recommendations framework
+    5. retainer model
+
+  CAPSTONE PROJECT
+    Write a complete consulting engagement proposal for a fictional company's
+    digital transformation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #213  ·  Building a Successful YouTube Channel as a Tech Creator   │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a YouTube channel that teaches tech concepts and
+    generates income through ads and sponsorships
+
+  LEARNING OUTCOME
+    You will be able to set up your channel create your first 10 videos and
+    grow to 1000 subscribers
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Channel strategy
+    2. scripting tutorials
+    3. recording and editing
+    4. SEO for YouTube
+    5. monetisation
+
+  CAPSTONE PROJECT
+    Plan script and record your first 3 tutorial videos and upload them to
+    YouTube
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #214  ·  Twitter X Strategy for Tech Professionals: Building Though│
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use Twitter X to build credibility attract opportunities and
+    grow a following in tech
+
+  LEARNING OUTCOME
+    You will be able to post consistently on Twitter X grow from 0 to 500
+    followers and get inbound opportunities
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Profile setup
+    2. content strategy
+    3. thread writing
+    4. engagement tactics
+    5. growing in the Nigerian tech community
+
+  CAPSTONE PROJECT
+    Write and schedule 30 days of Twitter X content and implement an
+    engagement strategy
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #215  ·  Networking That Works: Building Relationships That Advance│
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to network effectively in Nigerian tech communities both online
+    and in person
+
+  LEARNING OUTCOME
+    You will be able to build genuine professional relationships that lead to
+    jobs contracts and partnerships
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Networking mindset
+    2. in-person events
+    3. online communities
+    4. giving before asking
+    5. follow-up systems
+
+  CAPSTONE PROJECT
+    Attend or participate in 3 different networking opportunities and follow
+    up with 5 new contacts
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #216  ·  Tech Entrepreneurship in Northern Nigeria: Unique Opportun│
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn about the specific technology opportunities and market dynamics in
+    Northern Nigeria
+
+  LEARNING OUTCOME
+    You will be able to identify viable tech business opportunities in
+    Hausa-speaking and Northern Nigerian markets
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Northern Nigeria digital landscape
+    2. Hausa tech content opportunity
+    3. agricultural tech
+    4. mobile money
+
+  CAPSTONE PROJECT
+    Research and present 3 validated tech business opportunities specific to
+    Northern Nigeria
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #217  ·  Building a Tech Business in a Tier-2 Nigerian City        │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a successful tech business outside Lagos Abuja and
+    Port Harcourt
+
+  LEARNING OUTCOME
+    You will be able to identify tech opportunities in cities like Makurdi
+    Kano Ibadan Enugu and Jos
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Regional market analysis
+    2. local government opportunities
+    3. talent in tier-2 cities
+    4. university partnerships
+
+  CAPSTONE PROJECT
+    Map the tech business landscape in your own city and identify the top 3
+    opportunities
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #218  ·  Intellectual Property for Tech Founders: Protecting Your W│
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to protect your software ideas brand and content legally in
+    Nigeria
+
+  LEARNING OUTCOME
+    You will be able to register a trademark apply for copyright protection
+    and use basic IP clauses in contracts
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Copyright vs patent vs trademark
+    2. CAC trademark registration
+    3. open-source licensing
+    4. IP in employment contracts
+
+  CAPSTONE PROJECT
+    Register a trademark for a fictional tech brand and write a basic IP
+    protection clause
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #219  ·  Hiring Your First Employee or Contractor                  │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn when and how to hire your first person to help grow your tech
+    business
+
+  LEARNING OUTCOME
+    You will be able to write a job description run an interview process and
+    structure a fair compensation package
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. When to hire vs contract
+    2. job description writing
+    3. technical interview questions
+    4. Nigerian employment law basics
+
+  CAPSTONE PROJECT
+    Write a complete hiring process for a junior web developer position at a
+    small tech firm
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #220  ·  Partnership and Equity: Sharing Ownership Fairly          │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to structure partnerships and equity arrangements in a way that
+    is fair and legally sound
+
+  LEARNING OUTCOME
+    You will be able to design a founders agreement that covers equity
+    vesting roles and exit scenarios
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Equity split methods
+    2. vesting schedules
+    3. founders agreement essentials
+    4. how to value contributions
+
+  CAPSTONE PROJECT
+    Draft a founders agreement for a 3-person tech startup covering equity
+    vesting and roles
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #221  ·  Building a Tech Startup Team With No Money                │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a committed founding team using equity and vision when
+    you cannot pay salaries
+
+  LEARNING OUTCOME
+    You will be able to identify recruit and retain co-founders and early
+    team members using non-cash incentives
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Equity as compensation
+    2. founder market fit
+    3. complementary skills
+    4. team vesting
+    5. culture building
+
+  CAPSTONE PROJECT
+    Design the team structure and equity plan for a 5-person tech startup
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #222  ·  Customer Service Excellence in Tech                       │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to handle client communication feedback complaints and
+    difficult situations professionally
+
+  LEARNING OUTCOME
+    You will be able to respond to any client situation in a way that builds
+    trust and increases retention
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Response time expectations
+    2. complaint handling framework
+    3. over-communication principle
+    4. refund policies
+
+  CAPSTONE PROJECT
+    Handle 10 simulated difficult client scenarios using the communication
+    framework
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #223  ·  Building an Online Community That Grows Your Business     │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build and manage an online community on WhatsApp Facebook or
+    Discord that becomes a business asset
+
+  LEARNING OUTCOME
+    You will be able to grow an engaged community that generates leads and
+    referrals for your business
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Community strategy
+    2. WhatsApp group management
+    3. Facebook group growth
+    4. engagement frameworks
+    5. monetisation
+
+  CAPSTONE PROJECT
+    Build a 30-day growth plan for the Silabs Academy WhatsApp group
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #224  ·  Tech Business Legal Basics: Contracts and Agreements      │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the essential legal documents every tech business needs to operate
+    professionally
+
+  LEARNING OUTCOME
+    You will be able to write or review a basic service agreement NDA and
+    website terms and conditions
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Service agreement essentials
+    2. NDA basics
+    3. website terms of service
+    4. IP ownership in contracts
+
+  CAPSTONE PROJECT
+    Draft a complete service agreement for a web development project
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #225  ·  Product Roadmap: Planning What to Build and When          │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to create a product roadmap that aligns with business goals and
+    communicates clearly to stakeholders
+
+  LEARNING OUTCOME
+    You will be able to build a 12-month product roadmap with prioritised
+    features and clear milestones
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Roadmap concepts
+    2. feature prioritisation frameworks
+    3. stakeholder communication
+    4. agile vs roadmap
+
+  CAPSTONE PROJECT
+    Build a complete 12-month product roadmap for a real tech product
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #226  ·  Agile for Small Teams: Moving Fast and Shipping Often     │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the Agile and Scrum methodology adapted for small tech teams
+    without enterprise overhead
+
+  LEARNING OUTCOME
+    You will be able to run 2-week sprints plan work with your team and ship
+    software on a consistent schedule
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Sprints and sprint planning
+    2. user stories
+    3. daily standups
+    4. retrospectives
+    5. Kanban for solo developers
+
+  CAPSTONE PROJECT
+    Run a complete 2-week sprint cycle for a real or practice project using
+    Trello
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #227  ·  Remote Work and International Clients: Working Across Bord│
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to work professionally with international clients manage time
+    zones and receive payment globally
+
+  LEARNING OUTCOME
+    You will be able to set up systems to work with international clients
+    receive USD payments and manage remote relationships
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Time zone management
+    2. communication with international clients
+    3. Wise and Grey for dollar payments
+    4. remote work tools
+
+  CAPSTONE PROJECT
+    Set up a complete international freelance system including payment
+    receipt and client communication
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #228  ·  Subscription Economy: Building Products People Pay for Mon│
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the psychology and mechanics of subscriptions and how to design a
+    product people will not cancel
+
+  LEARNING OUTCOME
+    You will be able to design a subscription product with strong retention
+    mechanics and acceptable churn
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Subscription psychology
+    2. value delivery per month
+    3. churn analysis
+    4. dunning management
+    5. pricing tiers
+
+  CAPSTONE PROJECT
+    Design a subscription product with retention features and a pricing model
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #229  ·  From Employee to Entrepreneur: Making the Leap Safely     │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to transition from a salaried tech job to running your own
+    business with minimal financial risk
+
+  LEARNING OUTCOME
+    You will be able to create a financial bridge plan that lets you launch
+    your business while managing income risk
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Side income while employed
+    2. runway calculation
+    3. minimum viable income
+    4. when to quit
+    5. client pipeline before quitting
+
+  CAPSTONE PROJECT
+    Build a 6-month bridge plan for transitioning from employment to
+    full-time entrepreneurship
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #230  ·  Building a Government Technology Proposal That Gets Approv│
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to write and present technology proposals to Nigerian
+    government MDAs agencies and parastatals
+
+  LEARNING OUTCOME
+    You will be able to write a formal government tech proposal that
+    navigates procurement requirements effectively
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Government procurement process
+    2. TENDERS and RFPs
+    3. technical proposal writing
+    4. pricing for government
+    5. relationships
+
+  CAPSTONE PROJECT
+    Write a complete technical and financial proposal for a fictional
+    government digital project
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #231  ·  EdTech Entrepreneurship: Building Education Products for N│
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to identify and build technology products for Nigeria's massive
+    education market
+
+  LEARNING OUTCOME
+    You will be able to design a viable education technology product for a
+    specific segment of the Nigerian education market
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nigerian education landscape
+    2. EdTech models that work
+    3. UBEC and SUBEB as customers
+    4. student payment dynamics
+
+  CAPSTONE PROJECT
+    Design and validate an EdTech product for the Nigerian secondary school
+    market
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #232  ·  FinTech Entrepreneurship: Building Financial Products for │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to navigate the regulatory and technical requirements for
+    building financial technology in Nigeria
+
+  LEARNING OUTCOME
+    You will be able to explain the CBN regulatory requirements identify PTSP
+    and PSSP licensing paths and design a viable fintech product
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. CBN licensing overview
+    2. PSP and PSSP
+    3. NIBSS
+    4. agency banking
+    5. building without a licence using BaaS
+
+  CAPSTONE PROJECT
+    Design a fintech product that is viable within CBN regulations and
+    identify the licensing path
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #233  ·  Turning a WhatsApp Group Into a Business                  │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to monetise an existing WhatsApp community by selling knowledge
+    products and services
+
+  LEARNING OUTCOME
+    You will be able to earn revenue from any WhatsApp group within 30 days
+    using paid content and services
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Broadcast monetisation
+    2. paid subgroup model
+    3. selling courses from WhatsApp
+    4. Selar link selling
+
+  CAPSTONE PROJECT
+    Design and launch a paid WhatsApp product to an existing group of at
+    least 50 people
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #234  ·  Content Marketing for B2B Tech Sales                      │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use content to attract business clients and close high-value
+    contracts
+
+  LEARNING OUTCOME
+    You will be able to create content that speaks to decision-makers at
+    companies and governments and generates leads
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. B2B content strategy
+    2. case study writing
+    3. LinkedIn articles
+    4. technical white papers
+    5. webinars
+
+  CAPSTONE PROJECT
+    Write 3 pieces of B2B content for a tech service and measure engagement
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #235  ·  The Tech Business That Generates Income While You Sleep   │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build automated income systems using digital products
+    memberships and licensing
+
+  LEARNING OUTCOME
+    You will be able to set up at least one automated income stream that
+    earns without daily manual work
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Digital product types
+    2. automated delivery systems
+    3. passive income math
+    4. minimum effort income
+
+  CAPSTONE PROJECT
+    Launch one automated digital product and set up the complete sales and
+    delivery system
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #236  ·  Customer Discovery: Talking to Users Before Building      │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to conduct customer discovery interviews that reveal what to
+    build before you write a single line of code
+
+  LEARNING OUTCOME
+    You will be able to design and conduct 10 customer discovery interviews
+    and extract actionable insights
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Interview design
+    2. asking questions without leading
+    3. synthesising insights
+    4. pivot vs persevere decision
+
+  CAPSTONE PROJECT
+    Conduct 5 real customer discovery interviews for your own business idea
+    and present findings
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #237  ·  Building a Tech Portfolio Company: Owning Multiple Product│
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the strategy of building multiple small tech products that
+    collectively generate significant income
+
+  LEARNING OUTCOME
+    You will be able to design a personal tech portfolio strategy and manage
+    multiple products simultaneously
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Portfolio vs single product strategy
+    2. prioritisation
+    3. shared infrastructure
+    4. cross-selling
+    5. time management
+
+  CAPSTONE PROJECT
+    Design a personal tech product portfolio strategy and build the first
+    product
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #238  ·  Accelerators and Incubators: Getting Into CcHUB FATE and O│
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to apply to and get the most from Nigerian tech accelerator and
+    incubator programmes
+
+  LEARNING OUTCOME
+    You will be able to prepare a compelling application for CcHUB iDEA FATE
+    Foundation and other top programmes
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What accelerators offer
+    2. application requirements
+    3. how to stand out
+    4. making the most of the programme
+
+  CAPSTONE PROJECT
+    Write a complete accelerator application for your startup
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #239  ·  Impact Tech: Building for Social Good and Profitability   │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build technology businesses that are both profitable and
+    address real social challenges
+
+  LEARNING OUTCOME
+    You will be able to identify tech opportunities that are commercially
+    viable and socially impactful in Nigeria
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Impact metrics
+    2. social enterprise models
+    3. impact investing
+    4. SDG alignment
+    5. measuring social return
+
+  CAPSTONE PROJECT
+    Design a technology business that addresses a specific social challenge
+    while being commercially viable
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #240  ·  Exit Strategy: Building a Business You Can Sell           │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build your tech business in a way that makes it attractive
+    to buyers or investors for an exit
+
+  LEARNING OUTCOME
+    You will be able to identify metrics that increase valuation design
+    systems that reduce key-person dependency
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Valuation multiples for tech companies
+    2. IP ownership
+    3. documentation
+    4. revenue quality
+    5. clean cap table
+
+  CAPSTONE PROJECT
+    Assess a fictional tech company's exit readiness and write a 12-month
+    plan to improve it
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #241  ·  Personal Finance for Tech Professionals                   │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to manage your income from tech work to build long-term wealth
+    in Nigeria
+
+  LEARNING OUTCOME
+    You will be able to build a personal financial system that saves invests
+    and protects your tech income
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Emergency fund
+    2. investment basics
+    3. stocks vs real estate
+    4. separating business and personal money
+
+  CAPSTONE PROJECT
+    Create a personal financial plan for your current income level and 3x
+    income level
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #242  ·  Creating a Scalable Course Business on Selar              │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a profitable online course business on Nigeria's
+    leading digital product platform
+
+  LEARNING OUTCOME
+    You will be able to create upload market and sell courses on Selar
+    earning consistently each month
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Selar platform walkthrough
+    2. course pricing for Nigeria
+    3. product page optimisation
+    4. payment management
+
+  CAPSTONE PROJECT
+    Create and publish your first paid course on Selar with a complete
+    marketing plan
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #243  ·  Building a Tech Recruitment Agency                        │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to start a tech recruitment agency that connects developers
+    with companies in Nigeria and abroad
+
+  LEARNING OUTCOME
+    You will be able to source vet and place tech talent and earn placement
+    fees from both sides
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Talent sourcing
+    2. candidate assessment
+    3. client acquisition
+    4. placement fee structures
+    5. contracts
+
+  CAPSTONE PROJECT
+    Build the first month's pipeline for a fictional tech recruitment agency
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #244  ·  Product Design Thinking: Building What People Actually Wan│
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the design thinking methodology to ensure you build products that
+    genuinely solve user problems
+
+  LEARNING OUTCOME
+    You will be able to run a complete design thinking sprint from empathy
+    mapping to prototype
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Empathise define ideate prototype test
+    2. user personas
+    3. journey mapping
+    4. prototype fidelity
+
+  CAPSTONE PROJECT
+    Run a complete design thinking sprint for a real problem in your
+    community
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #245  ·  Growth Hacking for Nigerian Tech Startups                 │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn growth strategies that work specifically for Nigerian startups with
+    limited marketing budgets
+
+  LEARNING OUTCOME
+    You will be able to identify and run 5 growth experiments and measure
+    which channel drives customer acquisition
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Viral loops
+    2. referral programmes
+    3. community growth
+    4. WhatsApp and SMS marketing
+    5. network effects
+
+  CAPSTONE PROJECT
+    Design and run 3 growth experiments for a real business and measure
+    results
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: IOT AND HARDWARE  (45 Courses)                                     ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #246  ·  What is IoT: How Everyday Devices Get Connected to the Int│
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the Internet of Things from first principles — what it is how
+    it works and where it is already in your life
+
+  LEARNING OUTCOME
+    You will be able to explain how any IoT device connects sends data and
+    receives commands and identify IoT opportunities in Nigeria
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What IoT is
+    2. sensors and actuators
+    3. connectivity protocols
+    4. edge vs cloud
+    5. IoT in Nigeria today
+
+  CAPSTONE PROJECT
+    Map all the IoT devices you encounter in a day and explain how each one
+    works
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #247  ·  Arduino From Zero: Programming Physical Hardware          │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Arduino the beginner-friendly hardware platform that lets you
+    program the physical world
+
+  LEARNING OUTCOME
+    You will be able to write Arduino C code that reads sensors controls LEDs
+    motors and displays output
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Arduino IDE
+    2. digital and analog pins
+    3. setup() and loop()
+    4. Serial monitor
+    5. C basics for Arduino
+
+  CAPSTONE PROJECT
+    Build a temperature alarm that lights an LED and sounds a buzzer when
+    temperature exceeds a threshold
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #248  ·  Raspberry Pi: A Full Computer the Size of a Card          │
+│  ● BEGINNER   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the Raspberry Pi single-board computer and how to use it as the
+    brain of any IoT project
+
+  LEARNING OUTCOME
+    You will be able to set up a Raspberry Pi connect it to the internet run
+    Python code and interface with hardware
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Raspberry Pi setup
+    2. Raspbian OS
+    3. GPIO pins
+    4. Python for hardware
+    5. SSH access
+    6. running scripts on boot
+
+  CAPSTONE PROJECT
+    Build a Raspberry Pi that reads a temperature sensor and sends readings
+    to a web dashboard every 5 minutes
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #249  ·  Sensors: The Eyes and Ears of IoT Systems                 │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how the 20 most common sensors work and how to read them with
+    Arduino or Raspberry Pi
+
+  LEARNING OUTCOME
+    You will be able to connect and read data from temperature humidity
+    motion ultrasonic and gas sensors correctly
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Sensor types and working principles
+    2. analog vs digital sensors
+    3. reading data in code
+    4. calibration
+
+  CAPSTONE PROJECT
+    Build a multi-sensor environment monitor that reads temperature humidity
+    motion and gas levels simultaneously
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #250  ·  ESP8266 and ESP32: The Cheapest Way to Connect Hardware to│
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the ESP microcontrollers that bring WiFi capability to any hardware
+    project at low cost
+
+  LEARNING OUTCOME
+    You will be able to program an ESP32 to connect to WiFi send sensor data
+    to a web server and receive commands
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. ESP32 vs ESP8266
+    2. programming with Arduino IDE
+    3. WiFi connection
+    4. HTTP requests from hardware
+    5. deep sleep
+
+  CAPSTONE PROJECT
+    Build an ESP32 sensor node that sends temperature readings to a PHP
+    server every minute
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #251  ·  MQTT: The Protocol That Powers IoT Communication          │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn MQTT the lightweight messaging protocol that connects millions of
+    IoT devices worldwide
+
+  LEARNING OUTCOME
+    You will be able to set up an MQTT broker publish sensor data and
+    subscribe to receive commands from any IoT device
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What MQTT is
+    2. publish and subscribe
+    3. topics and QoS
+    4. Mosquitto broker
+    5. MQTT in Python and Arduino
+
+  CAPSTONE PROJECT
+    Build an MQTT system where a sensor publishes data and a dashboard
+    subscribes and displays it live
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #252  ·  Building a Smart Home System From Scratch                 │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a basic home automation system using affordable
+    components available in Nigeria
+
+  LEARNING OUTCOME
+    You will be able to control lights fans and appliances from a phone app
+    using ESP32 and a relay module
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Relay modules
+    2. WiFi control
+    3. mobile control with Blynk
+    4. voice control setup
+    5. safety considerations
+
+  CAPSTONE PROJECT
+    Build a working smart switch that controls a real light bulb from a phone
+    app
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #253  ·  IoT Dashboard: Visualising Sensor Data in Real Time       │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a web dashboard that displays live IoT data in charts
+    and gauges
+
+  LEARNING OUTCOME
+    You will be able to build a real-time dashboard that displays any sensor
+    data updating live without page refresh
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. WebSockets for real-time
+    2. Chart.js
+    3. data storage in MySQL
+    4. frontend gauges
+    5. alert thresholds
+
+  CAPSTONE PROJECT
+    Build a live dashboard that displays temperature and humidity from 3
+    sensor nodes
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #254  ·  Power Management for IoT: Making Devices That Last        │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design IoT devices that run on batteries for months or years
+    using sleep modes and efficient code
+
+  LEARNING OUTCOME
+    You will be able to calculate battery life for any IoT device and
+    implement sleep modes to extend it
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. ESP32 deep sleep
+    2. sensor power management
+    3. solar charging
+    4. battery selection
+    5. power consumption measurement
+
+  CAPSTONE PROJECT
+    Extend an ESP32 sensor node's battery life from 2 days to 3 months using
+    deep sleep
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #255  ·  GSM and SMS: IoT Without WiFi                             │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to add GSM mobile network connectivity to IoT devices for areas
+    without WiFi coverage
+
+  LEARNING OUTCOME
+    You will be able to build IoT devices that send SMS alerts and upload
+    data using a GSM SIM card
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SIM800L module
+    2. AT commands
+    3. sending SMS
+    4. GPRS data connection
+    5. power requirements
+
+  CAPSTONE PROJECT
+    Build a remote farm sensor that sends daily SMS temperature readings and
+    alerts on extremes
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #256  ·  Building an IoT Smart Agriculture System                  │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build affordable IoT systems for monitoring farm conditions
+    and automating irrigation
+
+  LEARNING OUTCOME
+    You will be able to build a system that monitors soil moisture weather
+    and automatically waters crops
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Soil moisture sensors
+    2. weather sensors
+    3. relay-controlled pumps
+    4. threshold automation
+    5. data logging
+
+  CAPSTONE PROJECT
+    Build a smart irrigation system that monitors soil moisture and waters a
+    plot automatically
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #257  ·  IoT Security: Protecting Connected Devices                │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the security vulnerabilities in IoT devices and how to design
+    hardware that cannot be easily hacked
+
+  LEARNING OUTCOME
+    You will be able to identify and fix the 10 most common IoT security
+    vulnerabilities in any connected device
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Common IoT attacks
+    2. secure firmware updates
+    3. TLS on IoT
+    4. authentication for devices
+    5. network segmentation
+
+  CAPSTONE PROJECT
+    Audit an insecure IoT setup and implement security hardening for all
+    identified vulnerabilities
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #258  ·  Soldering and Circuit Building: Hands-On Electronics      │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to solder electronic components and build circuits on prototype
+    boards and PCBs
+
+  LEARNING OUTCOME
+    You will be able to solder components correctly build circuits from
+    schematics and fix common hardware faults
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Soldering technique
+    2. reading schematics
+    3. breadboard vs PCB
+    4. common components resistors capacitors diodes
+
+  CAPSTONE PROJECT
+    Build a complete electronics project from a schematic including PCB
+    design on EasyEDA
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #259  ·  PCB Design: Creating Custom Circuit Boards                │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design professional printed circuit boards for your IoT and
+    electronics projects
+
+  LEARNING OUTCOME
+    You will be able to design a complete PCB in EasyEDA export Gerber files
+    and order manufactured boards
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Schematic capture
+    2. PCB layout rules
+    3. routing traces
+    4. Gerber files
+    5. ordering from JLCPCB
+
+  CAPSTONE PROJECT
+    Design a simple IoT sensor PCB with power management and have it
+    manufactured
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #260  ·  3D Printing for Makers: Building IoT Enclosures           │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn 3D printing to create custom enclosures and parts for any
+    electronics project
+
+  LEARNING OUTCOME
+    You will be able to design 3D models for IoT project enclosures and
+    prepare them for printing
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Fusion 360 or Tinkercad basics
+    2. enclosure design
+    3. tolerances
+    4. slicing with Cura
+    5. ordering or printing
+
+  CAPSTONE PROJECT
+    Design and produce a custom waterproof enclosure for an outdoor IoT
+    sensor
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #261  ·  Industrial IoT: Monitoring Machines and Factories         │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how IoT is applied in industrial settings to monitor machines
+    prevent failures and optimise production
+
+  LEARNING OUTCOME
+    You will be able to design an industrial sensor monitoring system with
+    real-time alerts and predictive maintenance
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Industrial sensors
+    2. 4-20mA signals
+    3. Modbus protocol
+    4. PLC basics
+    5. SCADA system concepts
+
+  CAPSTONE PROJECT
+    Design an IoT monitoring system for a factory generator with vibration
+    temperature and runtime tracking
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #262  ·  LoRaWAN: Long-Range IoT for Rural Areas                   │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn LoRaWAN the radio technology that enables IoT connectivity
+    kilometres from any WiFi or GSM network
+
+  LEARNING OUTCOME
+    You will be able to build a LoRa network that connects sensors over 5km
+    range with tiny battery power
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. LoRa vs LoRaWAN
+    2. range vs data rate tradeoffs
+    3. gateway setup
+    4. The Things Network
+    5. agriculture applications
+
+  CAPSTONE PROJECT
+    Build a LoRa sensor network covering a 2km range and visualise data on
+    The Things Network
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #263  ·  Zigbee and Z-Wave: Mesh Network IoT                       │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn mesh networking protocols that create self-healing networks of IoT
+    devices in homes and buildings
+
+  LEARNING OUTCOME
+    You will be able to build a Zigbee mesh network of sensors and
+    controllers for a building automation project
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Zigbee protocol
+    2. mesh networking concept
+    3. coordinator and end devices
+    4. Home Assistant integration
+
+  CAPSTONE PROJECT
+    Build a Zigbee mesh network of 5 sensor nodes and integrate it with a
+    home automation dashboard
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #264  ·  Edge Computing: Processing IoT Data Locally               │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn edge computing to process IoT data on the device rather than
+    sending everything to the cloud
+
+  LEARNING OUTCOME
+    You will be able to implement edge inference on a Raspberry Pi for
+    real-time local decision making
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Edge vs cloud computing
+    2. TensorFlow Lite on Pi
+    3. local vs remote processing
+    4. latency and bandwidth benefits
+
+  CAPSTONE PROJECT
+    Build an edge AI system that classifies objects from camera input locally
+    with no internet
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #265  ·  Building a Smart Metering System                          │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build electricity and water meter reading systems that
+    transmit data automatically
+
+  LEARNING OUTCOME
+    You will be able to build an automated meter reading system that uploads
+    consumption data to a web dashboard
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Current transformers
+    2. pulse counting
+    3. prepaid meter concepts
+    4. DLMS protocol basics
+    5. data transmission
+
+  CAPSTONE PROJECT
+    Build a smart electricity monitor that tracks real-time power consumption
+    and sends alerts
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #266  ·  GPS Tracking: Building Location-Aware Devices             │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn GPS technology and how to build vehicle and asset tracking systems
+
+  LEARNING OUTCOME
+    You will be able to build a GPS tracker that reports location every
+    minute to a web map
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. GPS modules
+    2. NMEA data
+    3. parsing coordinates
+    4. Google Maps API
+    5. geofencing alerts
+
+  CAPSTONE PROJECT
+    Build a vehicle tracker that shows real-time location on a web map and
+    sends alerts when it leaves an area
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #267  ·  Computer Vision on IoT: Face and Object Detection on Low P│
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to run computer vision models on resource-constrained hardware
+    like Raspberry Pi and Jetson Nano
+
+  LEARNING OUTCOME
+    You will be able to deploy face detection or object detection on a
+    Raspberry Pi in real time
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. OpenCV on Pi
+    2. TensorFlow Lite
+    3. NCNN framework
+    4. frame rate optimisation
+    5. camera module setup
+
+  CAPSTONE PROJECT
+    Build a real-time person counter using a Raspberry Pi camera that
+    increments a web counter
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #268  ·  IoT for Healthcare: Patient Monitoring Systems            │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how IoT sensors are used to monitor patient vital signs and
+    automate health alerts
+
+  LEARNING OUTCOME
+    You will be able to build a basic patient monitoring system that reads
+    pulse and temperature and sends alerts
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Pulse oximeter sensors
+    2. ECG basics
+    3. BLE transmission
+    4. alert thresholds
+    5. privacy considerations
+
+  CAPSTONE PROJECT
+    Build a wristband-style device that reads pulse and temperature and sends
+    alerts to a nurse dashboard
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #269  ·  Building a Weather Station With IoT                       │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a complete weather monitoring station that broadcasts
+    data online
+
+  LEARNING OUTCOME
+    You will be able to build a professional weather station with web
+    dashboard and historical data storage
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. BME280 for temperature humidity pressure
+    2. wind speed anemometer
+    3. rain gauge
+    4. Weather Underground upload
+
+  CAPSTONE PROJECT
+    Build a complete personal weather station and upload readings to Weather
+    Underground every 10 minutes
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #270  ·  IoT Data Pipeline: From Sensor to Database to Dashboard   │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build the complete data pipeline that takes sensor readings
+    from hardware to a database to a UI
+
+  LEARNING OUTCOME
+    You will be able to build an end-to-end IoT data pipeline that ingests
+    stores queries and visualises sensor data
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Data ingestion
+    2. time-series databases InfluxDB
+    3. Grafana dashboard
+    4. data aggregation
+    5. retention policies
+
+  CAPSTONE PROJECT
+    Build a complete pipeline from an Arduino sensor through MQTT to InfluxDB
+    and Grafana
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #271  ·  Bluetooth and BLE: Short-Range IoT Communication          │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Bluetooth and BLE communication to build devices that talk to
+    phones and nearby hardware
+
+  LEARNING OUTCOME
+    You will be able to build a BLE sensor that broadcasts data to a
+    smartphone app
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. BLE vs Classic Bluetooth
+    2. GATT profile
+    3. characteristics and services
+    4. nRF52 and ESP32 BLE
+    5. phone apps
+
+  CAPSTONE PROJECT
+    Build a BLE heart rate monitor that broadcasts to a custom phone app
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #272  ·  NFC and RFID: The Technology Behind Access Cards          │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how NFC and RFID work and how to build access control and payment
+    applications with them
+
+  LEARNING OUTCOME
+    You will be able to build an RFID access control system and a contactless
+    identification application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. RFID vs NFC
+    2. RC522 module
+    3. reading and writing cards
+    4. MIFARE format
+    5. access control logic
+
+  CAPSTONE PROJECT
+    Build a student attendance system using RFID cards that records entry
+    times to a database
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #273  ·  Digital Signage With IoT: Display Boards That Update Remot│
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build digital signage systems that update content remotely
+    for shops schools and businesses
+
+  LEARNING OUTCOME
+    You will be able to build a digital display that updates its content from
+    a web dashboard without physical access
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Raspberry Pi as display
+    2. Chromium kiosk mode
+    3. web-based content management
+    4. auto-update
+    5. scheduling
+
+  CAPSTONE PROJECT
+    Build a digital notice board for a school that can be updated remotely
+    from a web interface
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #274  ·  Embedded C Programming: The Language of Hardware          │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Embedded C the language used to program microcontrollers
+    professionally
+
+  LEARNING OUTCOME
+    You will be able to write Embedded C programs that control registers
+    access peripherals and run on bare metal hardware
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Registers and memory maps
+    2. bit manipulation
+    3. interrupts
+    4. timers
+    5. UART
+    6. I2C and SPI protocols
+
+  CAPSTONE PROJECT
+    Write Embedded C code that controls an STM32 LED from a push button using
+    interrupts
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #275  ·  IoT Firmware Updates: Deploying Updates Over the Air      │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build IoT devices that update their own firmware remotely
+    without needing physical access
+
+  LEARNING OUTCOME
+    You will be able to implement OTA firmware updates for ESP32 devices
+    deployed anywhere
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. OTA update concepts
+    2. ESP32 OTA with Arduino
+    3. update server
+    4. rollback on failure
+    5. versioning
+
+  CAPSTONE PROJECT
+    Implement an OTA update system for a deployed ESP32 sensor and push a
+    firmware update remotely
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #276  ·  Smart Poultry Farming: IoT for Nigerian Agriculture       │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build an automated IoT monitoring system for poultry farms
+
+  LEARNING OUTCOME
+    You will be able to build a system that monitors temperature humidity and
+    ammonia and auto-controls fans and heaters
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Gas sensors
+    2. automatic fan control
+    3. alert systems
+    4. data logging
+    5. WhatsApp SMS notifications
+
+  CAPSTONE PROJECT
+    Build a poultry house monitoring system that auto-controls environment
+    and sends daily reports
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #277  ·  Solar and Renewable Energy Monitoring With IoT            │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build IoT systems that monitor solar panel output battery
+    levels and energy consumption
+
+  LEARNING OUTCOME
+    You will be able to build a solar energy monitoring dashboard that tracks
+    generation consumption and battery state
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Current and voltage sensing
+    2. INA219 module
+    3. battery SOC calculation
+    4. energy dashboard
+
+  CAPSTONE PROJECT
+    Build a solar system monitor that displays real-time generation
+    consumption and battery percentage
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #278  ·  Building a Smart Classroom                                │
+│  ◉ INTERMEDIATE   ⏱  7 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build IoT systems that improve learning environments in
+    schools
+
+  LEARNING OUTCOME
+    You will be able to build a classroom monitoring system covering
+    attendance environment and energy management
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. RFID attendance
+    2. air quality monitoring
+    3. smart lighting
+    4. occupancy detection
+    5. dashboard for teachers
+
+  CAPSTONE PROJECT
+    Design and build a complete smart classroom IoT system as a deployable
+    school product
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #279  ·  Wearables: Building Devices You Wear                      │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build wearable electronics including fitness trackers and
+    health monitors
+
+  LEARNING OUTCOME
+    You will be able to design and build a basic wearable device using
+    flexible hardware and BLE communication
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Wearable hardware constraints
+    2. flex circuit basics
+    3. MPU6050 for motion
+    4. BLE to phone
+    5. power for wearables
+
+  CAPSTONE PROJECT
+    Build a step counter wristband that syncs daily step count to a phone app
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #280  ·  IoT Business Models: Selling Connected Products           │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a business around IoT hardware and the recurring
+    service revenue it enables
+
+  LEARNING OUTCOME
+    You will be able to design a hardware product business with both hardware
+    revenue and subscription service income
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Hardware margins
+    2. IoT SaaS
+    3. device as a service
+    4. support and maintenance
+    5. connectivity costs
+
+  CAPSTONE PROJECT
+    Design a complete business model for an IoT product targeting Nigerian
+    agriculture or security
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #281  ·  OpenCV for Video Analytics: Counting and Tracking         │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use computer vision to extract business intelligence from
+    video streams
+
+  LEARNING OUTCOME
+    You will be able to build video analytics that count people track objects
+    and detect anomalies in footage
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Background subtraction
+    2. contour detection
+    3. centroid tracking
+    4. line crossing counting
+    5. video annotation
+
+  CAPSTONE PROJECT
+    Build a customer footfall counter using a camera that counts entries and
+    exits per hour
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #282  ·  Node-RED: Visual Programming for IoT                      │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Node-RED the visual flow-based programming tool that makes IoT
+    automation faster to build
+
+  LEARNING OUTCOME
+    You will be able to build IoT automation flows that connect sensors APIs
+    databases and dashboards using Node-RED
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Node-RED installation
+    2. nodes and wires
+    3. inject and debug
+    4. MQTT node
+    5. dashboard node
+    6. HTTP requests
+
+  CAPSTONE PROJECT
+    Build a complete IoT monitoring and alerting system using only Node-RED
+    flows with no manual coding
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #283  ·  Microcontroller Fundamentals: How CPUs Really Work        │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how microcontrollers work at the register level the foundation for
+    all embedded programming
+
+  LEARNING OUTCOME
+    You will be able to explain the CPU fetch-decode-execute cycle memory
+    architecture and peripheral bus operation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. CPU architecture
+    2. ALU
+    3. registers
+    4. memory mapped I/O
+    5. interrupts
+    6. clock and timing
+
+  CAPSTONE PROJECT
+    Trace the execution of a simple program through an Arduino at the
+    register level using a simulator
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #284  ·  IoT with Python on Raspberry Pi: Industrial Applications  │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use Python on Raspberry Pi for industrial monitoring and
+    control applications
+
+  LEARNING OUTCOME
+    You will be able to build a Python-based industrial monitoring system
+    with real-time data collection and alerting
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. GPIO with Python
+    2. I2C and SPI in Python
+    3. multithreading for IoT
+    4. database integration
+    5. alarm systems
+
+  CAPSTONE PROJECT
+    Build a Python industrial monitoring system for a diesel generator with
+    runtime and fault alerts
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #285  ·  Voice Control for IoT: Talking to Your Devices            │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to add offline voice control to IoT devices using local speech
+    recognition
+
+  LEARNING OUTCOME
+    You will be able to build voice-controlled smart home devices that work
+    without internet connectivity
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. PicoVoice for offline voice
+    2. wake word detection
+    3. command recognition
+    4. Alexa alternative
+    5. privacy tradeoffs
+
+  CAPSTONE PROJECT
+    Build a voice-controlled room automation system that responds to 10 voice
+    commands offline
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #286  ·  Building a Flood Detection System                         │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build IoT flood sensors that can provide early warning for
+    communities near waterways
+
+  LEARNING OUTCOME
+    You will be able to build a flood detection network with GSM alerts that
+    warns communities before flooding
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Ultrasonic water level sensing
+    2. GSM SMS alerts
+    3. threshold alarms
+    4. solar power
+    5. weatherproofing
+
+  CAPSTONE PROJECT
+    Build and deploy a flood warning sensor that sends SMS alerts when water
+    level rises dangerously
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #287  ·  Smart Street Lighting: IoT for Infrastructure             │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build intelligent street lighting systems that save power
+    and respond to conditions
+
+  LEARNING OUTCOME
+    You will be able to build an automated street lighting controller with
+    motion detection and energy monitoring
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Light-dependent resistors
+    2. motion sensors
+    3. relay control
+    4. energy metering
+    5. remote management
+
+  CAPSTONE PROJECT
+    Design and build a prototype smart street light controller that adjusts
+    brightness based on motion
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #288  ·  IoT Testing and Quality Assurance                         │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to test IoT systems thoroughly before deploying them in real
+    environments
+
+  LEARNING OUTCOME
+    You will be able to design and execute a complete test plan for any IoT
+    system covering hardware software and communication
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Hardware testing
+    2. firmware unit tests
+    3. network reliability testing
+    4. stress testing
+    5. field testing
+
+  CAPSTONE PROJECT
+    Write and execute a complete test plan for an ESP32-based IoT sensor
+    system
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #289  ·  Building IoT With the Cloud: AWS IoT and Azure IoT        │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to connect IoT devices to major cloud platforms for scalable
+    data storage and processing
+
+  LEARNING OUTCOME
+    You will be able to connect hardware sensors to AWS IoT Core or Azure IoT
+    Hub and build a cloud dashboard
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Cloud IoT architecture
+    2. MQTT to cloud
+    3. device registry
+    4. telemetry data
+    5. cloud rules and triggers
+
+  CAPSTONE PROJECT
+    Connect an ESP32 to AWS IoT Core and build a CloudWatch dashboard showing
+    live sensor data
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #290  ·  Reverse Engineering: Understanding Any Electronic Device  │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to examine disassemble and understand any electronic device or
+    circuit
+
+  LEARNING OUTCOME
+    You will be able to identify components on a PCB trace signals and
+    understand how an unknown circuit functions
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Multimeter and oscilloscope use
+    2. component identification
+    3. circuit tracing
+    4. datasheet reading
+
+  CAPSTONE PROJECT
+    Reverse-engineer a common household electronic device and document how it
+    works
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: CYBERSECURITY (PARTIAL)  (10 Courses)                              ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #291  ·  Cybersecurity From Zero: How Hackers Think and How to Stop│
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn cybersecurity fundamentals by understanding how attacks work before
+    learning how to defend
+
+  LEARNING OUTCOME
+    You will be able to explain the major cybercategories of cyber threat and
+    the defensive controls that counter each one
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. CIA triad
+    2. threat actors
+    3. attack vectors
+    4. defence in depth
+    5. security mindset
+
+  CAPSTONE PROJECT
+    Analyse 5 real Nigerian cyberattack case studies and map the attack to
+    the defence that would have prevented it
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #292  ·  Ethical Hacking: Hacking Legally for a Living             │
+│  ◉ INTERMEDIATE   ⏱  8 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn penetration testing the practice of finding security
+    vulnerabilities before the bad guys do
+
+  LEARNING OUTCOME
+    You will be able to conduct a structured penetration test on a target
+    system with permission and write a professional report
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Penetration testing methodology
+    2. scoping and rules of engagement
+    3. reconnaissance
+    4. exploitation
+    5. reporting
+
+  CAPSTONE PROJECT
+    Conduct a full penetration test on a vulnerable VM (HackTheBox or
+    TryHackMe) and write a report
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #293  ·  Kali Linux: The Hacker's Operating System                 │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Kali Linux the specialised operating system that contains every
+    security testing tool a professional needs
+
+  LEARNING OUTCOME
+    You will be able to install configure and use Kali Linux as a
+    professional security testing platform
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Installing Kali
+    2. navigating the tool library
+    3. updating and maintaining
+    4. virtualisation
+    5. essential tools
+
+  CAPSTONE PROJECT
+    Set up a complete Kali Linux environment and use 10 different security
+    tools for basic tests
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #294  ·  Network Scanning and Reconnaissance: Finding What's Out Th│
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how attackers and defenders scan networks to discover devices open
+    ports and running services
+
+  LEARNING OUTCOME
+    You will be able to use Nmap and Wireshark to fully map any network and
+    identify potential vulnerabilities
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nmap scan types
+    2. port scanning
+    3. service detection
+    4. OS fingerprinting
+    5. Wireshark packet capture
+
+  CAPSTONE PROJECT
+    Scan a permission lab network completely and document every device
+    service and potential vulnerability
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #295  ·  Web Application Hacking: Attacking Websites Professionally│
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to find and exploit the most common web application
+    vulnerabilities on authorised targets
+
+  LEARNING OUTCOME
+    You will be able to test any web application for OWASP Top 10
+    vulnerabilities and document findings professionally
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SQL injection
+    2. XSS
+    3. CSRF
+    4. IDOR
+    5. file upload vulnerabilities
+    6. Burp Suite
+    7. OWASP Top 10
+
+  CAPSTONE PROJECT
+    Complete 5 web application challenges on HackTheBox and write a
+    professional finding for each
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #296  ·  Password Security: Cracking and Protecting Credentials    │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how passwords are stored how they are cracked and how to build
+    systems that are resistant to attack
+
+  LEARNING OUTCOME
+    You will be able to demonstrate password cracking techniques on
+    authorised hashes and implement proper password security
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Password hashing bcrypt and Argon2
+    2. hash cracking with Hashcat
+    3. rainbow tables
+    4. dictionary attacks
+
+  CAPSTONE PROJECT
+    Crack a set of practice password hashes using Hashcat and then implement
+    bcrypt correctly in code
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #297  ·  Social Engineering: The Human Element of Security         │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how attackers manipulate people rather than systems and how to
+    train employees to resist
+
+  LEARNING OUTCOME
+    You will be able to explain and simulate social engineering attacks and
+    design a staff security awareness programme
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Phishing
+    2. vishing
+    3. pretexting
+    4. baiting
+    5. security awareness training design
+    6. anti-phishing measures
+
+  CAPSTONE PROJECT
+    Design a security awareness campaign for a 50-person Nigerian company
+    including simulated phishing
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #298  ·  Network Security: Firewalls VPNs and Intrusion Detection  │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design and implement network security controls that protect
+    organisational infrastructure
+
+  LEARNING OUTCOME
+    You will be able to configure a firewall set up a VPN and deploy an
+    intrusion detection system on a network
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Firewall rules and zones
+    2. pfSense
+    3. OpenVPN
+    4. Snort IDS
+    5. network segmentation
+
+  CAPSTONE PROJECT
+    Configure a pfSense firewall with zones rules and an IDS for a small
+    office network
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #299  ·  Linux Security Hardening: Locking Down Servers            │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to harden a Linux server so it resists attacks even when
+    exposed to the internet
+
+  LEARNING OUTCOME
+    You will be able to take a fresh Ubuntu server and apply 20 security
+    hardening measures systematically
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SSH hardening
+    2. firewall with UFW
+    3. fail2ban
+    4. user accounts
+    5. unused services removal
+    6. audit logging
+
+  CAPSTONE PROJECT
+    Harden a fresh Ubuntu 24 server and verify each control with a security
+    checklist
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #300  ·  Malware Analysis: Understanding What Bad Code Does        │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to safely analyse malware samples to understand their behaviour
+    and purpose
+
+  LEARNING OUTCOME
+    You will be able to set up a malware analysis sandbox and perform basic
+    static and dynamic analysis on samples
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Analysis environment setup
+    2. static analysis strings and PE headers
+    3. dynamic analysis with sandboxes
+    4. indicators of compromise
+
+  CAPSTONE PROJECT
+    Analyse 3 malware samples and produce an indicator of compromise report
+    for each
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+==============================================================================
+  END OF BATCH 3 — COURSES #201 TO #300
+
+  NEXT BATCHES:
+  Batch 4 — Courses #301–400  Cybersecurity (cont.) + Cloud & DevOps
+  Batch 5 — Courses #401–500  Data & Databases + Design & Product +
+                               Nigerian Context Tech + Professional Skills
+
+  Silabs and Co Technologies Ltd — www.silabs.com.ng
+==============================================================================

@@ -1,0 +1,2666 @@
+==============================================================================
+  SILABS ACADEMY — DETAILED CURRICULUM
+  Courses #301 to #400 | Batch 4 of 5
+  Prepared by: Abel Priscilla, Director of Technology & Innovations
+  Silabs and Co Technologies Ltd | April 2026
+==============================================================================
+
+TRACKS COVERED IN THIS BATCH:
+  Track G — Cybersecurity (Cont.)    Courses #301 – #335  (35 courses)
+  Track H — Data and Databases       Courses #336 – #370  (35 courses)
+  Track I — Cloud and DevOps         Courses #371 – #400  (30 courses)
+
+CURRICULUM FIELDS:
+  Overview     · What this course is about
+  Outcome      · What you can do after completing it
+  Concepts     · Core knowledge and skills covered
+  Project      · The hands-on deliverable you will build
+  Duration     · Estimated completion time
+  Level        · Foundation / Beginner / Intermediate / Advanced
+
+==============================================================================
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: CYBERSECURITY (CONTINUED)  (35 Courses)                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #301  ·  Digital Forensics: Investigating Cybercrimes              │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to conduct digital forensic investigations that produce
+    court-admissible evidence
+
+  LEARNING OUTCOME
+    You will be able to acquire a forensic image of a device analyse it for
+    evidence and document findings properly
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Chain of custody
+    2. forensic imaging with dd and FTK Imager
+    3. file system analysis
+    4. artefact recovery
+    5. reporting
+
+  CAPSTONE PROJECT
+    Investigate a practice forensic challenge and produce a complete forensic
+    report
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #302  ·  Cryptography: The Mathematics of Security                 │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how cryptography protects data and how to apply it correctly in
+    applications
+
+  LEARNING OUTCOME
+    You will be able to implement symmetric and asymmetric encryption hashing
+    and digital signatures correctly in code
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Symmetric AES
+    2. asymmetric RSA
+    3. hashing SHA-256
+    4. digital signatures
+    5. TLS
+    6. PKI
+    7. common crypto mistakes
+
+  CAPSTONE PROJECT
+    Implement a complete secure message exchange system using correct
+    cryptography in Python
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #303  ·  Bug Bounty Hunting: Getting Paid to Find Vulnerabilities  │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to find security vulnerabilities in real companies and get paid
+    through bug bounty programmes
+
+  LEARNING OUTCOME
+    You will be able to find and report a valid security vulnerability on a
+    bug bounty programme within 30 days
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. HackerOne and Bugcrowd
+    2. scope understanding
+    3. vulnerability classes
+    4. writing quality reports
+    5. triage process
+
+  CAPSTONE PROJECT
+    Complete your first bug bounty submission on a public programme
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #304  ·  Cloud Security: Protecting AWS and Azure Infrastructure   │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to secure cloud infrastructure and identify the most common
+    cloud misconfiguration vulnerabilities
+
+  LEARNING OUTCOME
+    You will be able to audit an AWS account for security issues and
+    implement CIS benchmark controls
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. IAM least privilege
+    2. S3 bucket security
+    3. security groups
+    4. CloudTrail
+    5. AWS security hub
+
+  CAPSTONE PROJECT
+    Audit a practice AWS account against the CIS benchmark and remediate all
+    critical findings
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #305  ·  Security Operations Centre: Monitoring for Threats        │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how a Security Operations Centre works and how to use SIEM tools to
+    detect threats
+
+  LEARNING OUTCOME
+    You will be able to set up a basic SOC with log collection alerting and
+    incident response workflow
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SIEM concepts
+    2. log sources
+    3. Splunk or ELK Stack
+    4. alert rules
+    5. incident response workflow
+
+  CAPSTONE PROJECT
+    Set up a practice SOC environment that detects and alerts on common
+    attack patterns
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #306  ·  Mobile Security: Protecting Android and iOS Apps          │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how mobile applications are attacked and how to build and test apps
+    that resist common attacks
+
+  LEARNING OUTCOME
+    You will be able to perform a basic mobile application security
+    assessment on an Android APK
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. APK analysis with MobSF
+    2. traffic interception with Burp Suite
+    3. insecure storage
+    4. certificate pinning
+
+  CAPSTONE PROJECT
+    Perform a security assessment on a deliberately vulnerable Android app
+    and write findings
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #307  ·  API Security: The Attack Surface Nobody Talks About       │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how APIs are attacked and how to design and test APIs that are
+    secure by design
+
+  LEARNING OUTCOME
+    You will be able to test any API for OWASP API Security Top 10
+    vulnerabilities and implement fixes
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. OWASP API Top 10
+    2. authentication bypass
+    3. mass assignment
+    4. rate limiting
+    5. Postman for security testing
+
+  CAPSTONE PROJECT
+    Test a practice vulnerable API for all OWASP API Top 10 vulnerabilities
+    and document remediation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #308  ·  Secure Code Review: Reading Code for Vulnerabilities      │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to review any codebase systematically to find security
+    vulnerabilities before deployment
+
+  LEARNING OUTCOME
+    You will be able to conduct a structured secure code review of PHP
+    JavaScript or Python code and write findings
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Taint analysis
+    2. dangerous functions
+    3. input validation gaps
+    4. authentication flaws
+    5. common misconfigurations
+
+  CAPSTONE PROJECT
+    Review a deliberately vulnerable web application codebase and produce a
+    security finding report
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #309  ·  Incident Response: Handling Cyber Attacks When They Happen│
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to respond to a cyberattack in an organised way that contains
+    damage and restores operations
+
+  LEARNING OUTCOME
+    You will be able to lead an incident response from detection through
+    containment eradication and recovery
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. IR lifecycle
+    2. containment strategies
+    3. evidence preservation
+    4. eradication
+    5. lessons learned
+    6. CIRT team setup
+
+  CAPSTONE PROJECT
+    Simulate and respond to a ransomware incident scenario with complete
+    documentation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #310  ·  Cybersecurity Career Paths: From Student to Professional  │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the different cybersecurity career paths certifications and how to
+    break into the field from Nigeria
+
+  LEARNING OUTCOME
+    You will be able to identify your preferred cybersecurity career path and
+    create a concrete 12-month development plan
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Career paths in cybersecurity
+    2. CompTIA Security+ and CEH relevance
+    3. Nigerian job market
+    4. certifications
+
+  CAPSTONE PROJECT
+    Build a 12-month cybersecurity career development plan and apply to 3
+    entry-level opportunities
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #311  ·  Threat Modelling: Security Before You Build               │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn threat modelling to identify and mitigate security risks before
+    writing a single line of code
+
+  LEARNING OUTCOME
+    You will be able to produce a STRIDE threat model for any system and
+    prioritise security controls accordingly
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. STRIDE methodology
+    2. data flow diagrams
+    3. threat identification
+    4. risk ranking
+    5. control selection
+    6. documentation
+
+  CAPSTONE PROJECT
+    Produce a complete threat model for a fictional Nigerian payment
+    application
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #312  ·  Phishing Attack Simulation and Awareness Training         │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build and run a phishing simulation programme to measure and
+    improve staff security awareness
+
+  LEARNING OUTCOME
+    You will be able to run a complete phishing simulation campaign and
+    design a training programme based on results
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. GoPhish setup
+    2. campaign design
+    3. metrics
+    4. training content
+    5. before and after measurement
+
+  CAPSTONE PROJECT
+    Run a simulated phishing campaign against a 20-person group and deliver
+    training to those who clicked
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #313  ·  Vulnerability Management: Finding and Fixing Issues at Sca│
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a vulnerability management programme that
+    systematically finds and remediates security issues
+
+  LEARNING OUTCOME
+    You will be able to run vulnerability scans prioritise findings and track
+    remediation to closure
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Vulnerability scanning with OpenVAS
+    2. CVSS scoring
+    3. remediation priority
+    4. tracking and reporting
+    5. SLA setting
+
+  CAPSTONE PROJECT
+    Set up and run a complete vulnerability management cycle for a practice
+    environment
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #314  ·  Blockchain Security: Smart Contract Vulnerabilities       │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the unique security vulnerabilities in blockchain applications and
+    smart contracts
+
+  LEARNING OUTCOME
+    You will be able to identify and exploit common Solidity smart contract
+    vulnerabilities in a practice environment
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Smart contract audit methodology
+    2. reentrancy
+    3. integer overflow
+    4. access control flaws
+    5. Slither analysis tool
+
+  CAPSTONE PROJECT
+    Audit a vulnerable smart contract and identify all exploitable
+    vulnerabilities with remediation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #315  ·  Securing Nigerian Financial Applications                  │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the security requirements and attack patterns specific to Nigerian
+    banking and fintech applications
+
+  LEARNING OUTCOME
+    You will be able to design a security architecture for a Nigerian payment
+    application that satisfies CBN requirements
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. CBN cybersecurity guidelines
+    2. PCI DSS basics
+    3. OTP security
+    4. session management
+    5. fraud detection
+
+  CAPSTONE PROJECT
+    Perform a security review of a practice fintech application against CBN
+    cybersecurity guidelines
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #316  ·  Wireless Security: Attacking and Defending WiFi Networks  │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how WiFi networks are attacked and how to configure networks that
+    resist common attacks
+
+  LEARNING OUTCOME
+    You will be able to test a WiFi network for security weaknesses and
+    implement WPA3 and proper network segmentation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. WEP WPA WPA2 WPA3
+    2. handshake capture
+    3. Aircrack-ng
+    4. evil twin attacks
+    5. enterprise WiFi security
+
+  CAPSTONE PROJECT
+    Test a practice WiFi network for vulnerabilities and implement a hardened
+    configuration
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #317  ·  OSINT: Finding Information Like Intelligence Agencies Do  │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Open Source Intelligence the art of finding information about
+    people and companies using public sources
+
+  LEARNING OUTCOME
+    You will be able to conduct a complete OSINT investigation on a target
+    using only publicly available information
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Google dorking
+    2. Maltego
+    3. Shodan
+    4. social media OSINT
+    5. email and domain enumeration
+    6. OSINT framework
+
+  CAPSTONE PROJECT
+    Conduct an authorised OSINT investigation on your own digital footprint
+    and produce a findings report
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #318  ·  Cybercrime Law in Nigeria: The Cybercrimes Act Explained  │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the Nigerian Cybercrimes Prohibition and Prevention Act 2015 and
+    its implications for security professionals
+
+  LEARNING OUTCOME
+    You will be able to explain what is and is not legal in Nigerian
+    cybersecurity work and advise on digital evidence handling
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nigerian Cybercrimes Act key offences
+    2. penalties
+    3. digital evidence admissibility
+    4. EFCC cybercrime section
+
+  CAPSTONE PROJECT
+    Analyse 5 Nigerian cybercrime cases and identify the specific sections of
+    the law that apply to each
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #319  ·  Red Team vs Blue Team: The Two Sides of Security          │
+│  ◆ FOUNDATION   ⏱  4 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how red team attackers and blue team defenders work together to
+    improve organisational security
+
+  LEARNING OUTCOME
+    You will be able to describe the methodologies tools and mindsets of both
+    red and blue team security operations
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Red team operations
+    2. blue team defences
+    3. purple teaming
+    4. attack simulation
+    5. detection engineering
+
+  CAPSTONE PROJECT
+    Design a full red team vs blue team exercise scenario for a fictional
+    Nigerian company
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #320  ·  Building a Home Lab for Security Practice                 │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to set up a home cybersecurity lab with multiple virtual
+    machines for learning and practice
+
+  LEARNING OUTCOME
+    You will be able to set up a complete security lab with attack and target
+    machines on your own computer
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Virtualisation with VirtualBox
+    2. lab topologies
+    3. vulnerable VMs
+    4. Kali and Metasploitable
+    5. network isolation
+
+  CAPSTONE PROJECT
+    Set up a complete home security lab with at least 3 virtual machines in
+    an isolated network
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #321  ·  CTF Competitions: Hacking Practice That Builds Skills Fast│
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to approach Capture the Flag competitions the fastest way to
+    build practical security skills
+
+  LEARNING OUTCOME
+    You will be able to solve beginner-level CTF challenges in web crypto
+    forensics and binary categories
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. CTF categories and approach
+    2. web challenges
+    3. cryptography puzzles
+    4. forensics tools
+    5. binary basics
+
+  CAPSTONE PROJECT
+    Complete 10 beginner CTF challenges on PicoCTF or HackTheBox and document
+    your methodology for each
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #322  ·  Email Security: Protecting Against Phishing and Spoofing  │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to implement email security controls that protect organisations
+    from phishing and spoofing
+
+  LEARNING OUTCOME
+    You will be able to configure SPF DKIM DMARC and deploy an email security
+    gateway for any organisation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SPF DKIM DMARC configuration
+    2. email headers analysis
+    3. email gateway setup
+    4. URL filtering
+    5. training
+
+  CAPSTONE PROJECT
+    Configure complete email authentication for a domain and test using
+    MXToolbox
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #323  ·  Secure DevOps: Building Security Into the Development Pipe│
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to embed security into CI/CD pipelines so that security checks
+    are automatic and continuous
+
+  LEARNING OUTCOME
+    You will be able to add SAST DAST and container scanning to any CI/CD
+    pipeline
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SAST with Semgrep
+    2. DAST with OWASP ZAP
+    3. container scanning with Trivy
+    4. secret scanning
+    5. GitHub Actions security
+
+  CAPSTONE PROJECT
+    Add a complete security pipeline to an existing CI/CD workflow that
+    blocks deployments on critical findings
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #324  ·  Ransomware Defence: Protecting Against the Biggest Threat │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how ransomware attacks work and how to build defences that prevent
+    and recover from them
+
+  LEARNING OUTCOME
+    You will be able to implement the technical and procedural controls that
+    stop ransomware attacks
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. How ransomware enters and spreads
+    2. backup strategy
+    3. endpoint protection
+    4. network segmentation
+    5. recovery plan
+
+  CAPSTONE PROJECT
+    Build a complete ransomware defence plan for a 20-person Nigerian company
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #325  ·  Zero Trust Security: Modern Security Architecture         │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Zero Trust the security model that assumes no network or user is
+    trusted by default
+
+  LEARNING OUTCOME
+    You will be able to design a Zero Trust security architecture for a small
+    organisation and identify the key controls
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Zero Trust principles
+    2. identity verification
+    3. least privilege access
+    4. microsegmentation
+    5. continuous verification
+
+  CAPSTONE PROJECT
+    Design a Zero Trust architecture for a fictional fintech company's
+    internal systems
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #326  ·  Cybersecurity for Small Nigerian Businesses               │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn practical affordable cybersecurity measures that any Nigerian SME
+    can implement immediately
+
+  LEARNING OUTCOME
+    You will be able to significantly improve the cybersecurity posture of
+    any small business with free or low-cost tools
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Password managers
+    2. 2FA
+    3. device encryption
+    4. safe browsing
+    5. backup systems
+    6. incident response for SMEs
+
+  CAPSTONE PROJECT
+    Implement a complete basic cybersecurity programme for a real or practice
+    small business
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #327  ·  SCADA and Critical Infrastructure Security                │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how industrial control systems and critical infrastructure are
+    targeted and how to defend them
+
+  LEARNING OUTCOME
+    You will be able to explain the unique security challenges of SCADA and
+    ICS environments and design appropriate controls
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SCADA and ICS architecture
+    2. OT vs IT security
+    3. air-gapping
+    4. known vulnerabilities
+    5. monitoring
+
+  CAPSTONE PROJECT
+    Analyse a real SCADA attack case study and design the security
+    improvements that would have prevented it
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #328  ·  Security Compliance: NDPC ISO 27001 and PCI DSS           │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to achieve compliance with major security standards applicable
+    to Nigerian businesses
+
+  LEARNING OUTCOME
+    You will be able to conduct a gap assessment against NDPC 2023 and ISO
+    27001 and create a remediation roadmap
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. NDPC 2023 requirements
+    2. ISO 27001 controls
+    3. PCI DSS basics
+    4. gap assessment methodology
+    5. remediation planning
+
+  CAPSTONE PROJECT
+    Conduct an NDPC 2023 gap assessment for a fictional data-processing
+    company
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #329  ·  Reverse Engineering: Understanding Compiled Programs      │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to take a compiled program apart and understand what it does
+    without source code
+
+  LEARNING OUTCOME
+    You will be able to perform basic static and dynamic analysis on compiled
+    binaries using industry tools
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Binary analysis
+    2. strings and objdump
+    3. Ghidra for disassembly
+    4. x86 assembly basics
+    5. practice challenges
+
+  CAPSTONE PROJECT
+    Reverse engineer 3 practice binaries and document what each program does
+    from analysis only
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #330  ·  Privacy Engineering: Building Products That Protect User D│
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build digital products that collect only what they need and
+    protect it properly
+
+  LEARNING OUTCOME
+    You will be able to apply privacy by design principles to any software
+    product and produce a DPIA
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Privacy by design
+    2. data minimisation
+    3. consent management
+    4. DPIA process
+    5. anonymisation vs pseudonymisation
+
+  CAPSTONE PROJECT
+    Produce a complete DPIA for a fictional Nigerian health app
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #331  ·  Supply Chain Security: Trusting Your Dependencies         │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how attackers compromise software through third-party dependencies
+    and how to detect and prevent it
+
+  LEARNING OUTCOME
+    You will be able to audit a project's dependencies for known
+    vulnerabilities and implement dependency security controls
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Dependency vulnerabilities
+    2. SBOM
+    3. npm audit and pip audit
+    4. typosquatting
+    5. Snyk
+
+  CAPSTONE PROJECT
+    Audit a real open-source project's dependencies and fix all critical
+    vulnerabilities found
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #332  ·  Certificate Management: PKI and TLS in Practice           │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how SSL/TLS certificates work how to manage them and how to avoid
+    costly expiry and misconfiguration
+
+  LEARNING OUTCOME
+    You will be able to issue manage renew and monitor TLS certificates for
+    any organisation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. PKI concepts
+    2. Let's Encrypt
+    3. certificate stores
+    4. OCSP
+    5. certificate transparency
+    6. monitoring expiry
+
+  CAPSTONE PROJECT
+    Set up automated certificate issuance and renewal for 3 web applications
+    using Let's Encrypt
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #333  ·  Container Security: Hardening Docker and Kubernetes       │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how container environments are attacked and how to build secure
+    container infrastructure
+
+  LEARNING OUTCOME
+    You will be able to implement Docker and Kubernetes security best
+    practices and scan containers for vulnerabilities
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Docker security
+    2. non-root containers
+    3. image scanning
+    4. Kubernetes RBAC
+    5. network policies
+    6. secrets management
+
+  CAPSTONE PROJECT
+    Harden a Docker Compose application and Kubernetes cluster against the
+    CIS Docker Benchmark
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #334  ·  Threat Intelligence: Understanding the Enemy              │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how threat intelligence is gathered analysed and operationalised to
+    improve security decisions
+
+  LEARNING OUTCOME
+    You will be able to consume threat intelligence feeds produce IOC reports
+    and apply intelligence to defensive controls
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Threat intelligence lifecycle
+    2. IOC types
+    3. MISP platform
+    4. STIX/TAXII
+    5. integrating intelligence into defences
+
+  CAPSTONE PROJECT
+    Set up a threat intelligence platform and integrate 3 public threat feeds
+    into a security operation
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #335  ·  Identity and Access Management: The Foundation of Security│
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how identity and access management systems protect organisations by
+    controlling who can do what
+
+  LEARNING OUTCOME
+    You will be able to design and implement an IAM system with least
+    privilege RBAC and SSO for a small organisation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. IAM concepts
+    2. RBAC vs ABAC
+    3. MFA implementation
+    4. SSO with SAML
+    5. privileged access management
+    6. access reviews
+
+  CAPSTONE PROJECT
+    Design a complete IAM architecture for a 50-person company including all
+    systems and access policies
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: DATA AND DATABASES  (35 Courses)                                   ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #336  ·  Data Literacy: Understanding Data in a World Full of It   │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to read understand and critically evaluate data and statistics
+    in everyday life and work
+
+  LEARNING OUTCOME
+    You will be able to read any chart identify misleading statistics and ask
+    the right questions about data claims
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Charts and graphs
+    2. statistical literacy
+    3. correlation vs causation
+    4. sampling bias
+    5. misleading visualisations
+
+  CAPSTONE PROJECT
+    Analyse 5 real data claims from Nigerian news sources and evaluate the
+    quality of the evidence
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #337  ·  Excel Mastery: The Spreadsheet Every Professional Needs   │
+│  ● BEGINNER   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Microsoft Excel beyond basic data entry to the level employers
+    actually want
+
+  LEARNING OUTCOME
+    You will be able to use VLOOKUP pivot tables charts conditional
+    formatting and basic macros to analyse any dataset
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. VLOOKUP and INDEX-MATCH
+    2. pivot tables
+    3. charts
+    4. conditional formatting
+    5. data validation
+    6. basic macros
+
+  CAPSTONE PROJECT
+    Analyse a real Nigerian business dataset using 10 Excel features to
+    produce a management report
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #338  ·  Google Sheets for Collaboration and Analysis              │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Google Sheets for real-time collaboration data analysis and
+    automation with Apps Script
+
+  LEARNING OUTCOME
+    You will be able to use advanced Google Sheets features and write Apps
+    Script to automate data tasks
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. IMPORTRANGE
+    2. QUERY function
+    3. conditional formatting
+    4. collaboration features
+    5. Apps Script basics
+
+  CAPSTONE PROJECT
+    Build a collaborative data collection and reporting system using Google
+    Sheets and Apps Script
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #339  ·  Database Administration: Managing MySQL in Production     │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to administer a MySQL database in production including backups
+    performance and security
+
+  LEARNING OUTCOME
+    You will be able to manage a production MySQL database with proper backup
+    user management and performance monitoring
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. User creation and privileges
+    2. mysqldump backup
+    3. point-in-time recovery
+    4. slow query log
+    5. EXPLAIN optimisation
+
+  CAPSTONE PROJECT
+    Set up a production-ready MySQL server with automated backups and
+    performance monitoring
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #340  ·  PostgreSQL: The Advanced Open Source Database             │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn PostgreSQL the most advanced open-source relational database with
+    features MySQL lacks
+
+  LEARNING OUTCOME
+    You will be able to use PostgreSQL-specific features like JSONB window
+    functions and full-text search effectively
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. PostgreSQL vs MySQL
+    2. JSONB column type
+    3. window functions
+    4. full-text search
+    5. pg_indexes
+    6. partitioning
+
+  CAPSTONE PROJECT
+    Build a data warehouse schema in PostgreSQL and query it using window
+    functions and CTEs
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #341  ·  Redis: The Swiss Army Knife Database                      │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Redis the in-memory data store used for caching sessions queues and
+    real-time features
+
+  LEARNING OUTCOME
+    You will be able to use Redis for caching session storage rate limiting
+    leaderboards and pub/sub messaging
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Redis data types
+    2. GET SET EXPIRE
+    3. hashes and lists
+    4. pub/sub
+    5. Redis as cache
+    6. persistence options
+
+  CAPSTONE PROJECT
+    Implement 5 different Redis use cases in a web application: cache,
+    session, rate limit, queue, leaderboard
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #342  ·  Database Performance Tuning: Making Queries Fast          │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to diagnose and fix slow database queries in any SQL database
+
+  LEARNING OUTCOME
+    You will be able to use EXPLAIN to identify query bottlenecks and apply
+    indexes and query rewrites to fix them
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. EXPLAIN and EXPLAIN ANALYSE
+    2. index types
+    3. covering indexes
+    4. query rewriting
+    5. joins vs subqueries
+    6. partitioning
+
+  CAPSTONE PROJECT
+    Optimise a set of 10 slow queries on a 1-million-row database to run in
+    under 100ms each
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #343  ·  Data Warehousing: Building Analytics at Scale             │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a data warehouse that enables fast analytical queries
+    across huge datasets
+
+  LEARNING OUTCOME
+    You will be able to design and build a simple star schema data warehouse
+    and run analytical queries on it
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. OLAP vs OLTP
+    2. star and snowflake schema
+    3. fact and dimension tables
+    4. ETL pipeline
+    5. partitioning
+
+  CAPSTONE PROJECT
+    Build a data warehouse for an e-commerce business with sales customer and
+    product dimensions
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #344  ·  ETL Pipelines: Moving and Transforming Data               │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build Extract Transform Load pipelines that move data
+    between systems reliably
+
+  LEARNING OUTCOME
+    You will be able to build a complete ETL pipeline that extracts from a
+    source transforms the data and loads it to a destination
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. ETL concepts
+    2. data extraction strategies
+    3. transformation logic
+    4. loading patterns
+    5. scheduling with Airflow
+
+  CAPSTONE PROJECT
+    Build an ETL pipeline that extracts daily sales data transforms it and
+    loads it into a data warehouse
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #345  ·  SQL Advanced: Window Functions CTEs and Analytical Queries│
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the advanced SQL features that separate junior from senior data
+    professionals
+
+  LEARNING OUTCOME
+    You will be able to write complex analytical queries using window
+    functions CTEs and subquery patterns
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Window functions ROW_NUMBER RANK LAG LEAD
+    2. CTEs recursive queries
+    3. CASE in queries
+    4. advanced joins
+
+  CAPSTONE PROJECT
+    Write 10 complex analytical SQL queries against a real dataset covering
+    all advanced features
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #346  ·  NoSQL Databases: When Not to Use SQL                      │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the different types of NoSQL databases and the specific problems
+    each one solves best
+
+  LEARNING OUTCOME
+    You will be able to choose between document key-value column-family and
+    graph databases for any use case
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Document stores MongoDB
+    2. key-value Redis
+    3. column stores Cassandra
+    4. graph Neo4j
+    5. when to use each
+
+  CAPSTONE PROJECT
+    Design data models for 5 different application types using the most
+    appropriate database for each
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #347  ·  Data Engineering: Building Pipelines That Feed AI         │
+│  ◎ ADVANCED   ⏱  7 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn data engineering the practice of building robust data
+    infrastructure that data scientists and AI depend on
+
+  LEARNING OUTCOME
+    You will be able to build a data pipeline from raw sources through
+    transformation to a clean analytical store
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Data pipeline architecture
+    2. streaming vs batch
+    3. Apache Kafka basics
+    4. dbt for transformation
+    5. data quality
+
+  CAPSTONE PROJECT
+    Build a data pipeline that ingests event data applies transformations and
+    feeds a analytics database
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #348  ·  Big Data Concepts: Handling Data at Scale                 │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the tools and techniques used when data is too large for a
+    single database
+
+  LEARNING OUTCOME
+    You will be able to explain the big data landscape choose appropriate
+    tools for different scale problems and explain Hadoop and Spark
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What big data is
+    2. Hadoop ecosystem
+    3. Apache Spark
+    4. MapReduce
+    5. distributed storage
+    6. use cases in Nigeria
+
+  CAPSTONE PROJECT
+    Analyse a large dataset using PySpark and compare performance to
+    equivalent Pandas processing
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #349  ·  Data Governance: Managing Data as an Asset                │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how organisations manage their data assets including quality
+    lineage and access control
+
+  LEARNING OUTCOME
+    You will be able to design and implement a basic data governance
+    framework for a small organisation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Data governance concepts
+    2. data dictionary
+    3. data lineage
+    4. data quality dimensions
+    5. access governance
+
+  CAPSTONE PROJECT
+    Design a data governance framework for a fictional 100-person company
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #350  ·  SQLite: The Database That Lives Everywhere                │
+│  ● BEGINNER   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn SQLite the embedded database used in mobile apps IoT devices and
+    lightweight applications
+
+  LEARNING OUTCOME
+    You will be able to build applications using SQLite for local data
+    storage with proper performance and reliability
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SQLite vs server databases
+    2. WAL mode
+    3. concurrent reads
+    4. backup strategies
+    5. SQLite in Python and Android
+
+  CAPSTONE PROJECT
+    Build a complete offline-capable mobile app backend using SQLite with
+    proper concurrency
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #351  ·  Data Cleaning: Turning Messy Data Into Useful Data        │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to identify and fix data quality issues that make analysis and
+    AI models unreliable
+
+  LEARNING OUTCOME
+    You will be able to clean any messy dataset by handling missing values
+    outliers duplicates and formatting issues
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Missing data strategies
+    2. outlier detection
+    3. deduplication
+    4. standardising formats
+    5. validation rules
+
+  CAPSTONE PROJECT
+    Clean a real messy Nigerian dataset with 20 different quality issues and
+    document every fix
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #352  ·  Real-Time Data with Apache Kafka                          │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Apache Kafka the distributed streaming platform that powers
+    real-time data systems at scale
+
+  LEARNING OUTCOME
+    You will be able to set up Kafka produce and consume messages and build a
+    simple streaming pipeline
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Kafka concepts
+    2. topics partitions and offsets
+    3. producers and consumers
+    4. consumer groups
+    5. Kafka Connect
+
+  CAPSTONE PROJECT
+    Build a real-time event streaming pipeline for a payment system using
+    Kafka
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #353  ·  Power BI for Business Intelligence                        │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Microsoft Power BI to build professional dashboards that business
+    executives actually read
+
+  LEARNING OUTCOME
+    You will be able to connect Power BI to multiple data sources build
+    calculated measures and publish interactive dashboards
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Data connections
+    2. Power Query
+    3. DAX basics
+    4. visualisation types
+    5. report vs dashboard
+    6. publishing
+
+  CAPSTONE PROJECT
+    Build a complete executive dashboard for a Nigerian business with 10 KPI
+    visualisations
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #354  ·  Data Migration: Moving Data Between Systems               │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to plan and execute database migrations without data loss or
+    extended downtime
+
+  LEARNING OUTCOME
+    You will be able to migrate a production database from one system to
+    another with a tested rollback plan
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Migration planning
+    2. data mapping
+    3. ETL for migration
+    4. testing strategy
+    5. cutover plan
+    6. rollback
+
+  CAPSTONE PROJECT
+    Migrate a full MySQL database to PostgreSQL with data validation and zero
+    data loss
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #355  ·  Elasticsearch: Search and Analytics at Scale              │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Elasticsearch the distributed search engine that powers real-time
+    search analytics and logging
+
+  LEARNING OUTCOME
+    You will be able to index documents in Elasticsearch write search queries
+    and build a simple analytics dashboard
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Elasticsearch concepts
+    2. indexing
+    3. query DSL
+    4. aggregations
+    5. Kibana for visualisation
+    6. use cases
+
+  CAPSTONE PROJECT
+    Build a full-text search engine for a product catalogue using
+    Elasticsearch and Kibana
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #356  ·  Data API Design: Serving Data to Applications             │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design APIs that serve data efficiently and flexibly to
+    consuming applications
+
+  LEARNING OUTCOME
+    You will be able to design and build a data API with filtering sorting
+    pagination and efficient database queries
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. RESTful data APIs
+    2. filtering parameters
+    3. pagination with cursor and offset
+    4. field selection
+    5. caching strategies
+
+  CAPSTONE PROJECT
+    Build a data API for a large dataset with full filtering sorting and
+    pagination support
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #357  ·  MySQL Replication and High Availability                   │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to set up MySQL replication for high availability and read
+    scaling
+
+  LEARNING OUTCOME
+    You will be able to configure master-slave MySQL replication and
+    implement automatic failover
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Replication architecture
+    2. binary log
+    3. master and replica setup
+    4. GTID replication
+    5. ProxySQL for routing
+
+  CAPSTONE PROJECT
+    Configure MySQL master-slave replication and test failover to the replica
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #358  ·  Geospatial Data: Working With Maps and Location           │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to store query and visualise geographic data in applications
+
+  LEARNING OUTCOME
+    You will be able to build location-based features including proximity
+    search geofencing and mapping
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. PostGIS extension
+    2. geospatial indexing
+    3. proximity queries
+    4. GeoJSON
+    5. Leaflet.js mapping
+
+  CAPSTONE PROJECT
+    Build a store locator feature that finds the 5 nearest locations to a
+    user from 1000 entries
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #359  ·  Data Privacy and Encryption in Databases                  │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to implement data protection in databases including encryption
+    at rest and field-level encryption
+
+  LEARNING OUTCOME
+    You will be able to encrypt sensitive fields implement column masking and
+    design a database privacy architecture
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Transparent data encryption
+    2. column-level encryption
+    3. field masking
+    4. pseudonymisation
+    5. key management
+
+  CAPSTONE PROJECT
+    Implement field-level encryption for sensitive columns in a Nigerian
+    healthcare database
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #360  ·  Building a Data Science Portfolio                         │
+│  ● BEGINNER   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a compelling data science portfolio with real projects
+    that impresses Nigerian and international employers
+
+  LEARNING OUTCOME
+    You will have 5 complete data science projects on GitHub with notebooks
+    documentation and insights
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Project selection
+    2. GitHub notebooks
+    3. storytelling with data
+    4. README writing
+    5. deploying as apps
+
+  CAPSTONE PROJECT
+    Complete and publish 5 data science projects to a professional GitHub
+    portfolio
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #361  ·  dbt: Transforming Data Like a Professional                │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn dbt the data build tool that software-engineers data transformation
+    pipelines
+
+  LEARNING OUTCOME
+    You will be able to write dbt models tests and documentation for any data
+    warehouse transformation
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. dbt concepts
+    2. models and materialisations
+    3. sources and seeds
+    4. tests
+    5. documentation
+    6. lineage graph
+
+  CAPSTONE PROJECT
+    Build a complete dbt project that transforms raw e-commerce data into
+    analytical tables
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #362  ·  Metabase: Business Intelligence for Non-Developers        │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Metabase the open-source BI tool that lets anyone query a database
+    without knowing SQL
+
+  LEARNING OUTCOME
+    You will be able to deploy Metabase connect it to a production database
+    and build dashboards for non-technical stakeholders
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Metabase installation
+    2. data connections
+    3. question builder
+    4. SQL mode
+    5. dashboards
+    6. alerts
+    7. embedding
+
+  CAPSTONE PROJECT
+    Deploy Metabase for a real business and build 5 dashboards for different
+    departments
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #363  ·  Time Series Databases: Storing and Querying IoT and Event │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn InfluxDB and TimescaleDB the purpose-built databases for time
+    series data from IoT and logs
+
+  LEARNING OUTCOME
+    You will be able to store query and visualise time series data at scale
+    using a purpose-built time series database
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Time series data model
+    2. InfluxDB line protocol
+    3. Flux query language
+    4. continuous queries
+    5. Grafana
+
+  CAPSTONE PROJECT
+    Build an IoT data storage and visualisation system using InfluxDB and
+    Grafana
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #364  ·  SQL for Data Analysis: Writing Queries That Answer Busines│
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use SQL specifically for business analysis answering the
+    questions that matter to management
+
+  LEARNING OUTCOME
+    You will be able to write SQL queries that answer any standard business
+    intelligence question
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Analytical patterns
+    2. cohort analysis
+    3. funnel analysis
+    4. retention calculation
+    5. growth metrics in SQL
+
+  CAPSTONE PROJECT
+    Answer 20 business questions about a sample e-commerce dataset using only
+    SQL
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #365  ·  Database Backup and Disaster Recovery                     │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design and test backup systems that guarantee data recovery
+    when the worst happens
+
+  LEARNING OUTCOME
+    You will be able to implement a complete backup and disaster recovery
+    plan for any database environment
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Backup types full differential incremental
+    2. RTO and RPO
+    3. testing backups
+    4. off-site storage
+    5. automated scheduling
+
+  CAPSTONE PROJECT
+    Build and test a complete backup and recovery system for a production
+    MySQL database
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #366  ·  Working With JSON in SQL Databases                        │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to store query and manipulate JSON data inside relational
+    databases
+
+  LEARNING OUTCOME
+    You will be able to use JSON columns in MySQL and PostgreSQL to handle
+    semi-structured data efficiently
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. JSON column types
+    2. JSON path queries
+    3. indexing JSON
+    4. JSONB in PostgreSQL
+    5. when to use JSON in SQL
+
+  CAPSTONE PROJECT
+    Build a product catalogue with variable attributes stored as JSON and
+    query it efficiently
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #367  ·  Data Modelling for African Contexts                       │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to model data for systems serving African users including
+    multilingual content and informal economy patterns
+
+  LEARNING OUTCOME
+    You will be able to design database schemas that accommodate the unique
+    patterns of African markets and languages
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Multilingual content storage
+    2. informal address formats
+    3. alternative ID systems
+    4. mobile money data patterns
+
+  CAPSTONE PROJECT
+    Design a complete data model for a Nigerian informal market management
+    system
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #368  ·  Event Sourcing and CQRS: Advanced Data Architecture       │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Event Sourcing and CQRS the architectural patterns behind scalable
+    distributed data systems
+
+  LEARNING OUTCOME
+    You will be able to implement event sourcing for a domain model and
+    separate read and write paths with CQRS
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Event sourcing concept
+    2. event store
+    3. replaying events
+    4. CQRS read and write models
+    5. eventual consistency
+
+  CAPSTONE PROJECT
+    Implement event sourcing for a simple bank account domain with full audit
+    history
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #369  ·  Building a Reporting Engine                               │
+│  ◉ INTERMEDIATE   ⏱  6 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build a flexible reporting system that generates different
+    reports for different users on demand
+
+  LEARNING OUTCOME
+    You will be able to build a report generation engine that creates PDF
+    Excel and visual reports from templates
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Report engine architecture
+    2. template system
+    3. dynamic queries
+    4. PDF generation
+    5. scheduling reports
+
+  CAPSTONE PROJECT
+    Build a reporting engine for a school that generates result slips
+    transcripts and performance reports
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #370  ·  Database Observability: Knowing What Your Database Is Doin│
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to monitor a database so you know about problems before your
+    users do
+
+  LEARNING OUTCOME
+    You will be able to set up comprehensive database monitoring with
+    alerting for all critical metrics
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Key database metrics
+    2. slow query monitoring
+    3. connection pool health
+    4. disk and memory monitoring
+    5. alerting
+
+  CAPSTONE PROJECT
+    Set up complete monitoring and alerting for a production MySQL database
+    using Grafana and alerts
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║  TRACK: CLOUD AND DEVOPS  (30 Courses)                                     ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #371  ·  Cloud Computing Explained: What It Is and Why It Matters  │
+│  ◆ FOUNDATION   ⏱  2 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand cloud computing from first principles and why every business
+    and developer needs to understand it
+
+  LEARNING OUTCOME
+    You will be able to explain the three cloud models IaaS PaaS and SaaS
+    choose a deployment model and calculate rough cloud costs
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What cloud computing is
+    2. IaaS PaaS SaaS
+    3. public private hybrid cloud
+    4. major providers
+    5. cloud economics
+
+  CAPSTONE PROJECT
+    Compare 3 Nigerian hosting options against AWS and recommend the best
+    choice for 3 different scenarios
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #372  ·  AWS Foundations: Getting Started With Amazon Web Services │
+│  ● BEGINNER   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the core AWS services that power most cloud applications worldwide
+
+  LEARNING OUTCOME
+    You will be able to navigate the AWS console deploy a web application use
+    S3 and set up basic security controls
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. AWS console
+    2. IAM basics
+    3. EC2 instances
+    4. S3 storage
+    5. RDS database
+    6. security groups
+    7. billing alerts
+
+  CAPSTONE PROJECT
+    Deploy a complete web application on AWS using EC2 RDS and S3 with proper
+    security groups
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #373  ·  CI/CD Pipelines: Automating Software Delivery             │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Continuous Integration and Deployment so your code automatically
+    tests and deploys on every change
+
+  LEARNING OUTCOME
+    You will be able to build a complete CI/CD pipeline that runs tests and
+    deploys to a server automatically on every commit
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. CI/CD concepts
+    2. GitHub Actions
+    3. automated testing
+    4. deployment strategies
+    5. rollback
+    6. pipeline stages
+
+  CAPSTONE PROJECT
+    Build a complete CI/CD pipeline for a web application that deploys
+    automatically on every git push
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #374  ·  Nginx: The Web Server That Powers Half the Internet       │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Nginx for web serving reverse proxy load balancing and SSL
+    termination
+
+  LEARNING OUTCOME
+    You will be able to configure Nginx to serve multiple websites as a
+    reverse proxy with SSL and load balancing
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Nginx server blocks
+    2. reverse proxy
+    3. SSL configuration
+    4. load balancing
+    5. rate limiting
+    6. caching
+
+  CAPSTONE PROJECT
+    Configure Nginx to serve 3 different applications with SSL load balancing
+    and rate limiting
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #375  ·  Infrastructure as Code With Terraform                     │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Terraform to define and manage cloud infrastructure using code
+    rather than clicking UIs
+
+  LEARNING OUTCOME
+    You will be able to write Terraform code that creates manages and
+    destroys any cloud infrastructure reproducibly
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Terraform concepts
+    2. providers and resources
+    3. variables and outputs
+    4. state file
+    5. plan and apply
+    6. modules
+
+  CAPSTONE PROJECT
+    Write Terraform code that creates a complete AWS infrastructure including
+    VPC EC2 RDS and S3
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #376  ·  Kubernetes: Running Apps at Scale                         │
+│  ◎ ADVANCED   ⏱  8 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Kubernetes the container orchestration platform that runs
+    applications reliably at any scale
+
+  LEARNING OUTCOME
+    You will be able to deploy scale and manage containerised applications on
+    a Kubernetes cluster
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Pods and deployments
+    2. services and ingress
+    3. ConfigMaps and Secrets
+    4. scaling
+    5. rolling updates
+    6. namespaces
+
+  CAPSTONE PROJECT
+    Deploy a multi-container application on Kubernetes with auto-scaling and
+    rolling deployment
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #377  ·  Monitoring and Alerting: Knowing When Things Break        │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to set up comprehensive application and infrastructure
+    monitoring with smart alerting
+
+  LEARNING OUTCOME
+    You will be able to instrument any application with metrics build Grafana
+    dashboards and configure meaningful alerts
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Prometheus for metrics
+    2. Grafana dashboards
+    3. alerting rules
+    4. application instrumentation
+    5. SLOs and SLAs
+
+  CAPSTONE PROJECT
+    Set up complete monitoring for a production web application with CPU
+    memory request rate and error rate
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #378  ·  Log Management: Finding Problems in Your Logs             │
+│  ◉ INTERMEDIATE   ⏱  5 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to collect aggregate search and alert on logs from any
+    application or infrastructure
+
+  LEARNING OUTCOME
+    You will be able to set up centralised logging that makes it possible to
+    find any problem in seconds
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Log levels and structured logging
+    2. ELK Stack setup
+    3. log parsing
+    4. alerting on log patterns
+    5. retention policies
+
+  CAPSTONE PROJECT
+    Set up the ELK Stack for a web application and create dashboards for
+    errors and performance
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #379  ·  GitHub Actions: Automating Everything With Workflows      │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn GitHub Actions to automate testing deployment security checks and
+    any other workflow
+
+  LEARNING OUTCOME
+    You will be able to write GitHub Actions workflows that automate any
+    repetitive development task
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Workflow syntax
+    2. triggers
+    3. jobs and steps
+    4. secrets
+    5. marketplace actions
+    6. matrix builds
+    7. deployment jobs
+
+  CAPSTONE PROJECT
+    Create 5 GitHub Actions workflows covering testing security scanning and
+    deployment
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #380  ·  Building a VPS Server From Scratch                        │
+│  ● BEGINNER   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to set up a secure production-ready VPS on DigitalOcean Vultr
+    or Linode
+
+  LEARNING OUTCOME
+    You will be able to take a fresh VPS from initial login to hosting a live
+    web application securely
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SSH key setup
+    2. user and firewall configuration
+    3. Nginx and LAMP setup
+    4. SSL certificate
+    5. monitoring
+
+  CAPSTONE PROJECT
+    Deploy a full web application on a $5/month VPS with SSL security
+    hardening and monitoring
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #381  ·  Serverless Architecture: Beyond Servers                   │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn serverless computing to build highly scalable applications without
+    server management
+
+  LEARNING OUTCOME
+    You will be able to design and deploy a serverless application using
+    functions queues and managed databases
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Lambda functions
+    2. event-driven architecture
+    3. DynamoDB
+    4. API Gateway
+    5. cost model
+    6. cold starts
+
+  CAPSTONE PROJECT
+    Build a complete serverless API with authentication using AWS Lambda API
+    Gateway and DynamoDB
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #382  ·  Database Replication and Failover in the Cloud            │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build highly available database systems that survive
+    failures without data loss
+
+  LEARNING OUTCOME
+    You will be able to configure database replication with automatic
+    failover on any cloud platform
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. RDS Multi-AZ
+    2. read replicas
+    3. replication lag
+    4. automatic failover
+    5. connection string management
+
+  CAPSTONE PROJECT
+    Configure AWS RDS with Multi-AZ and read replicas and test automatic
+    failover
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #383  ·  Content Delivery Networks: Making Sites Fast Globally     │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how CDNs work and how to configure them to deliver your website
+    content at maximum speed
+
+  LEARNING OUTCOME
+    You will be able to configure Cloudflare or AWS CloudFront to cache and
+    accelerate any website globally
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. CDN concept
+    2. edge locations
+    3. cache rules
+    4. HTTPS and CDN
+    5. cache invalidation
+    6. performance measurement
+
+  CAPSTONE PROJECT
+    Configure Cloudflare for a website and improve its load time by at least
+    50% globally
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #384  ·  Auto-Scaling: Handling Traffic Spikes Automatically       │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to configure infrastructure that automatically scales up for
+    traffic spikes and down to save cost
+
+  LEARNING OUTCOME
+    You will be able to configure auto-scaling groups load balancers and
+    scaling policies on AWS
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Auto-scaling concepts
+    2. launch configurations
+    3. scaling policies
+    4. load balancer health checks
+    5. cost implications
+
+  CAPSTONE PROJECT
+    Configure an AWS auto-scaling group that handles a 10x traffic spike and
+    scales back down
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #385  ·  DevOps Culture: Building Teams That Ship Faster           │
+│  ◆ FOUNDATION   ⏱  3 hours                                                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Understand the DevOps philosophy and how to build a culture that bridges
+    development and operations
+
+  LEARNING OUTCOME
+    You will be able to explain DevOps principles identify inefficiencies in
+    a software delivery process and suggest improvements
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. DevOps history and principles
+    2. DORA metrics
+    3. measuring deployment frequency
+    4. change failure rate
+    5. MTTR
+
+  CAPSTONE PROJECT
+    Analyse a fictional software team's process and design a DevOps
+    improvement roadmap
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #386  ·  Secret Management: Keeping API Keys and Passwords Safe    │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to manage secrets and credentials in a way that prevents leaks
+    and enables rotation
+
+  LEARNING OUTCOME
+    You will be able to use HashiCorp Vault or AWS Secrets Manager to store
+    and access secrets securely in any application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What secrets are
+    2. dangers of hardcoded secrets
+    3. environment variables
+    4. Vault basics
+    5. secret rotation
+
+  CAPSTONE PROJECT
+    Migrate a codebase from hardcoded secrets to a proper secrets manager
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #387  ·  Cost Optimisation in the Cloud                            │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to reduce cloud spend without sacrificing performance by
+    identifying and eliminating waste
+
+  LEARNING OUTCOME
+    You will be able to audit any cloud account identify cost savings and
+    implement rightsizing and reserved capacity
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. AWS Cost Explorer
+    2. rightsizing
+    3. reserved instances
+    4. savings plans
+    5. idle resources
+    6. spot instances
+
+  CAPSTONE PROJECT
+    Audit a practice AWS account and produce a cost optimisation plan
+    projecting 30% savings
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #388  ·  Site Reliability Engineering Basics                       │
+│  ◎ ADVANCED   ⏱  3 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn SRE the Google-originated practice of applying software engineering
+    to operations problems
+
+  LEARNING OUTCOME
+    You will be able to define SLOs create error budgets and design
+    reliability improvements using SRE methodology
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. SRE vs DevOps
+    2. SLIs SLOs SLAs
+    3. error budget
+    4. toil elimination
+    5. postmortem culture
+    6. reliability work prioritisation
+
+  CAPSTONE PROJECT
+    Define SLOs and error budgets for a fictional web service and design a
+    reliability improvement
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #389  ·  Disaster Recovery: Planning for the Worst                 │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to design disaster recovery plans that minimise downtime and
+    data loss when systems fail
+
+  LEARNING OUTCOME
+    You will be able to design a disaster recovery plan with defined RTO RPO
+    and tested runbooks
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. DR concepts
+    2. RTO and RPO
+    3. backup and restore
+    4. pilot light
+    5. warm standby
+    6. multi-region active-active
+
+  CAPSTONE PROJECT
+    Design and document a complete disaster recovery plan for a Nigerian
+    fintech application
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #390  ·  GitHub for Teams: Collaboration at Scale                  │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use GitHub effectively in a development team with branching
+    strategies code review and project management
+
+  LEARNING OUTCOME
+    You will be able to implement a complete GitHub-based team workflow with
+    branch protection code review and CI integration
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Git branching strategies
+    2. pull requests and code review
+    3. protected branches
+    4. GitHub Projects
+    5. team permissions
+
+  CAPSTONE PROJECT
+    Set up a complete team development workflow on GitHub for a 5-person
+    development team
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #391  ·  Nginx and SSL: Securing Every Web Application             │
+│  ● BEGINNER   ⏱  2 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to configure SSL/TLS certificates on Nginx for complete HTTPS
+    coverage on any server
+
+  LEARNING OUTCOME
+    You will be able to install and configure SSL certificates on any Nginx
+    server including wildcard certificates
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Let's Encrypt and Certbot
+    2. Nginx SSL configuration
+    3. HTTP to HTTPS redirect
+    4. certificate renewal
+    5. HSTS
+
+  CAPSTONE PROJECT
+    Configure SSL on a production Nginx server with auto-renewal and HSTS
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #392  ·  Building a Deployment Pipeline for PHP Applications       │
+│  ◉ INTERMEDIATE   ⏱  4 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to automate the deployment of PHP applications using CI/CD so
+    every push to main deploys automatically
+
+  LEARNING OUTCOME
+    You will be able to build a complete deployment pipeline for any PHP
+    application that deploys to cPanel or VPS
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. PHP testing with PHPUnit
+    2. GitHub Actions for PHP
+    3. Envoyer or custom deployment scripts
+    4. cPanel deployment
+
+  CAPSTONE PROJECT
+    Build an automated deployment pipeline for a PHP/Laravel application that
+    deploys on git push
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #393  ·  Observability: Logs Metrics and Traces Together           │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn the three pillars of observability and how they together give
+    complete insight into any system
+
+  LEARNING OUTCOME
+    You will be able to instrument any application with logs metrics and
+    distributed traces and correlate them during incidents
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Logs metrics and traces
+    2. OpenTelemetry
+    3. Jaeger for tracing
+    4. Prometheus and Grafana
+    5. incident correlation
+
+  CAPSTONE PROJECT
+    Instrument a microservices application with all three observability
+    pillars and debug a simulated incident
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #394  ·  Ansible: Automating Server Configuration                  │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn Ansible to automate the configuration of many servers consistently
+    from a single control machine
+
+  LEARNING OUTCOME
+    You will be able to write Ansible playbooks that configure any server
+    completely automatically
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Ansible concepts
+    2. inventory
+    3. playbooks and tasks
+    4. variables
+    5. roles
+    6. idempotency
+
+  CAPSTONE PROJECT
+    Write an Ansible playbook that configures 5 servers with a complete LAMP
+    stack identically
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #395  ·  Deploying Machine Learning Models: MLOps in Practice      │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to take a trained ML model and deploy it as a production
+    service that handles real traffic
+
+  LEARNING OUTCOME
+    You will be able to deploy any ML model as a scalable API using Docker
+    and a cloud platform
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Model serving with FastAPI
+    2. Docker for ML
+    3. model versioning
+    4. health checks
+    5. monitoring predictions
+
+  CAPSTONE PROJECT
+    Deploy a trained ML model as a production REST API with monitoring and
+    load testing
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #396  ·  Load Testing: Knowing How Many Users Your App Can Handle  │
+│  ◉ INTERMEDIATE   ⏱  3 hours                                               │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to load test any web application to find its breaking point and
+    capacity limits
+
+  LEARNING OUTCOME
+    You will be able to run load tests that identify performance bottlenecks
+    before real users encounter them
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Load testing concepts
+    2. k6 and Apache JMeter
+    3. test scenarios
+    4. throughput and latency
+    5. identifying bottlenecks
+
+  CAPSTONE PROJECT
+    Load test a web application find its breaking point and recommend
+    infrastructure scaling
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #397  ·  Service Mesh: Advanced Microservices Networking           │
+│  ◎ ADVANCED   ⏱  5 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn service mesh technology for managing communication security and
+    observability between microservices
+
+  LEARNING OUTCOME
+    You will be able to deploy Istio and configure traffic management mutual
+    TLS and observability for microservices
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. What a service mesh does
+    2. Istio architecture
+    3. traffic policies
+    4. mTLS
+    5. observability
+    6. circuit breaking
+
+  CAPSTONE PROJECT
+    Deploy Istio on a Kubernetes cluster and configure traffic splitting and
+    mutual TLS between services
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #398  ·  Database in the Cloud: RDS Aurora and Managed Databases   │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to use managed cloud databases to eliminate database
+    administration overhead
+
+  LEARNING OUTCOME
+    You will be able to provision configure and optimise AWS RDS and Aurora
+    for any production application
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. RDS vs Aurora
+    2. instance sizing
+    3. storage configuration
+    4. parameter groups
+    5. backup and point-in-time recovery
+
+  CAPSTONE PROJECT
+    Provision an Aurora MySQL cluster and migrate an application from
+    self-managed MySQL to Aurora
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #399  ·  GitOps: Deploying Infrastructure With Git                 │
+│  ◎ ADVANCED   ⏱  4 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn GitOps the practice of using Git as the single source of truth for
+    all infrastructure and deployments
+
+  LEARNING OUTCOME
+    You will be able to implement a GitOps workflow using ArgoCD that
+    automatically deploys any change merged to main
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. GitOps principles
+    2. ArgoCD
+    3. declarative infrastructure
+    4. drift detection
+    5. automatic reconciliation
+
+  CAPSTONE PROJECT
+    Set up a complete GitOps workflow where merging to main automatically
+    updates Kubernetes deployments
+
+  ──────────────────────────────────────────────────────────────────────────
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│  COURSE #400  ·  Building a Developer Platform: Internal Tools for Teams   │
+│  ◎ ADVANCED   ⏱  6 hours                                                   │
+└────────────────────────────────────────────────────────────────────────────┘
+
+  OVERVIEW
+    Learn how to build an internal developer platform that makes your team
+    deploy faster and more reliably
+
+  LEARNING OUTCOME
+    You will be able to design and build an internal platform with
+    self-service deployment secrets management and observability
+
+  CONCEPTS & KNOWLEDGE AREAS
+    1. Internal developer platforms
+    2. Backstage
+    3. self-service deployments
+    4. golden paths
+    5. platform engineering
+
+  CAPSTONE PROJECT
+    Design an internal developer platform for a 10-person engineering team
+    and implement its core features
+
+  ──────────────────────────────────────────────────────────────────────────
+
+
+==============================================================================
+  END OF BATCH 4 — COURSES #301 TO #400
+
+  NEXT BATCH:
+  Batch 5 — Courses #401–500  Design & Product + Nigerian Context Tech +
+                               Professional Skills + Capstone Projects
+
+  Silabs and Co Technologies Ltd — www.silabs.com.ng
+==============================================================================
